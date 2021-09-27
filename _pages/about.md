@@ -1,0 +1,26 @@
+---
+layout: about
+title: about
+permalink: /
+description: 
+
+profile:
+  align: right
+  image: research.gif
+  address: >
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
+
+news: true  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
+---
+
+**Welcome to ACSL!** ACSL is located at S7-203, [AI Graduate School](https://ai.gist.ac.kr){:target="\_blank"}, [GIST](https://www.gist.ac.kr/){:target="\_blank"}, Gwangju, Republic of Korea.
+
+We design and build autonomous computing systems to make human lives better (AI for X). Currently, we are focusing on
+1. ***Intelligent Interaction Systems***, which are essential to receive human messages, understand human intentions and infer proper services for humans, and
+2. ***Semantic and Geometric Understanding of Environments***, which are essential to implement customized services.
+
+For more details, refer to our research statement ([English](blog/2021/research-eng/)) and advising statement ([한국어](blog/2021/advising-kor/)).
