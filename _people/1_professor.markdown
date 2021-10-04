@@ -40,6 +40,6 @@ Assistant Professor <br/>
 
 <br/>
 ## Contact
-Email: ohnefetter@gmail.com <br/>
+Email: uehwan@gist.com <br/>
 Phone: 82-62-000-0000 <br/>
 Office: S7-203

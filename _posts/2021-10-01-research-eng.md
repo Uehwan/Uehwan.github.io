@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  Research Statement
-date:   2021-09-01
-description: march & april, looking forward to summer
+date:   2021-10-01
+description: Intelligent Interaction & Semantic and Geometric Understanding of Environments
 ---
 
 We design and build autonomous systems that process visual and sensor data **to realize meaningful services for humans**. With an unprecedented scale of available data and computational resources, computer vision and robotics systems could better understand the surrounding environments and improve user experience in human-robot interaction (HRI) scenarios. In various domains, our research aims to design autonomous systems that 1) extract both semantic and physical information from visual data for understanding the surrounding environments and 2) elicit user behavior, intention or message from sensor data for promoting natural HRI experiences. Our research attempts to take a step toward the long-dreamed goal of replacing repetitive and dangerous tasks with autonomous systems and natural interaction between human and autonomous systems.

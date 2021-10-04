@@ -1,17 +1,16 @@
 <div class="grid-item">
   <div class="card">
     {% if people.img %}
-    <img src="{{ people.img | relative_url }}" alt="people thumbnail">
-    {% endif %}
-    <div class="card-body">
       {% if people.redirect %}
       <a href="{{ people.redirect }}" target="_blank">
       {% else %}
       <a href="{{ people.url | relative_url }}">
       {% endif %}
-      <h6 class="card-title">{{ people.title }}</h6>
+      <img src="{{ people.img | relative_url }}" alt="people thumbnail">
       </a>
-      
+    {% endif %}
+    <div class="card-body">
+      <h6 class="card-title">{{ people.title }}</h6>
       <p class="card-text">{{ people.role }} <br /> {{ people.email }}</p>
       <div class="row ml-1 mr-1 p-0">
         {% if people.github %}

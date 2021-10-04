@@ -23,4 +23,7 @@ We design and build autonomous computing systems to make human lives better (AI 
 1. ***Intelligent Interaction Systems***, which are essential to receive human messages, understand human intentions and infer proper services for humans, and
 2. ***Semantic and Geometric Understanding of Environments***, which are essential to implement customized services.
 
-For more details, refer to our research statement ([English](blog/2021/research-eng/)) and advising statement ([한국어](blog/2021/advising-kor/)).
+For more details, refer to our <br/>
+- [research statement (English)](blog/2021/research-eng/), and
+- [advising statement (한국어)](blog/2021/advising-kor/).
+<!--- [how to join (한국어)](blog/2021/how-to-join). --->
