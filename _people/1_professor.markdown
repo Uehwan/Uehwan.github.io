@@ -2,7 +2,7 @@
 layout: page
 title: Ue-Hwan Kim
 role: Assistant Professor
-email: ohnefetter@gmail.com
+email: uehwan@gist.ac.kr
 img: /assets/img/prof_pic.png
 importance: 1
 redirect: # /people/1_professor
@@ -40,6 +40,6 @@ Assistant Professor <br/>
 
 <br/>
 ## Contact
-Email: uehwan@gist.com <br/>
-Phone: 82-62-000-0000 <br/>
+Email: uehwan@gist.ac.kr <br/>
+Phone: 82-62-715-6384 <br/>
 Office: S7-203
