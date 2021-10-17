@@ -37,6 +37,7 @@ Assistant Professor <br/>
 ## Selected Service
 - Program Committee
   - Publicity Chair, RiTA 2021
+  - Session Chair, ICCAS 2021
 
 <br/>
 ## Contact
