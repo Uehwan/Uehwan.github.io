@@ -28,6 +28,8 @@ Assistant Professor <br/>
 > ###### B.S. in Electrical Engineering
 > ###### Advisor: Chulsoon Park
 
+🙂 I also went to [HAFS](http://www.hafs.hs.kr/)!
+
 <br/>
 ## Selected Honors
 - Best research achievement award from KAIST EE, June 2020.
