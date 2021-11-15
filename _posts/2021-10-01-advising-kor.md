@@ -30,10 +30,10 @@ description: ACSL Advising Statement for Graduate Students
 ```
 1. 자율
 2. 책임
-3. 보상
+3. 보상
 ```
 
-<ins>자율</ins>: 자율성은 창의적으로 사고할 수 있는 전제 조건이라고 생각합니다.
+<ins>자율</ins>: 자율성은 창의적으로 사고할 수 있는 전제 조건이라고 생각합니다.
 그렇기 때문에 연구 주제 선정부터 출퇴근 시간까지 자율적인 연구 환경을 조성하고자 합니다.
 하지만, 연구 수행에 있어 처음부터 너무 큰 자율성이 주어지는 경우 오히려 역효과가 날 수 있습니다.
 스스로 결정하고, 창의적으로 사고하는 과정이 익숙하지 않을 수 있기 때문입니다.
@@ -84,7 +84,7 @@ description: ACSL Advising Statement for Graduate Students
 
 
 > 박사 과정
-  - ###### 관련 분야의 흐름과 최신 연구 동향을 파악하고있음.
+  - ###### 관련 분야의 흐름과 최신 연구 동향을 파악하고 있음.
   - ###### 연구 문제를 정의하고 창의적으로 해결할 수 있음.
   - ###### 독립적으로 연구 프로젝트를 구성하고 관리할 수 있음.
 
@@ -123,10 +123,10 @@ description: ACSL Advising Statement for Graduate Students
 </td>
 <td>
 선행 연구의 한계점을 부분적으로 파악할 수 있음 <br/>
-한계점 해결을 위한 아이디어를 제시할 수 있음
+한계점 해결을 위한 아이디어를 제시할 수 있음
 </td>
 <td>
-연구 프로젝트<sup>[1]</sup>에 참여하여 각 단계에 기여할 수 있음
+연구 프로젝트<sup>[1]</sup>에 참여하여 각 단계에 기여할 수 있음
 </td>
 </tr>
 
@@ -148,7 +148,7 @@ description: ACSL Advising Statement for Graduate Students
 박사 2년차
 </td>
 <td>
-한 분야의 흐름과 최신 연구 동향을 파악하고있음 <br/>
+한 분야의 흐름과 최신 연구 동향을 파악하고 있음 <br/>
 조금 도움을 받아 연구 문제를 정의하고 해결할 수 있음
 </td>
 <td>
@@ -161,7 +161,7 @@ description: ACSL Advising Statement for Graduate Students
 박사 3년차
 </td>
 <td>
-관련 분야의 흐름과 최신 연구 동향을 파악하고있음 <br/>
+관련 분야의 흐름과 최신 연구 동향을 파악하고 있음 <br/>
 연구 문제를 정의하고 해결할 수 있음
 </td>
 <td>
@@ -174,7 +174,7 @@ description: ACSL Advising Statement for Graduate Students
 박사 4년차
 </td>
 <td>
-다수 분야의 흐름과 최신 연구 동향을 파악하고있음 <br/>
+다수 분야의 흐름과 최신 연구 동향을 파악하고 있음 <br/>
 독립적으로 연구를 수행할 수 있음
 </td>
 <td>
