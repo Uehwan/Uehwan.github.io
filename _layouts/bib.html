@@ -86,6 +86,9 @@
       {% if entry.year %}
         {{entry.year}}
       {% endif %}
+      {% if entry.feature %}
+        <b>[{{entry.feature}}]</b>
+      {% endif %}
       </div>
     {% endif %}
 

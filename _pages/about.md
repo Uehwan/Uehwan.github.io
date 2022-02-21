@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-**Welcome to ACSL!** ACSL is located at S7-203, [AI Graduate School](https://ai.gist.ac.kr){:target="\_blank"}, [GIST](https://www.gist.ac.kr/){:target="\_blank"}, Gwangju, Republic of Korea.
+**Welcome to ACSL!** ACSL is located at C11-402, [AI Graduate School](https://ai.gist.ac.kr){:target="\_blank"}, [GIST](https://www.gist.ac.kr/){:target="\_blank"}, Gwangju, Republic of Korea.
 
 We design and build autonomous computing systems to make human lives better (AI for X). Currently, we are focusing on
 1. ***Intelligent Interaction Systems***, which are essential to receive human messages, understand human intentions and infer proper services for humans, and

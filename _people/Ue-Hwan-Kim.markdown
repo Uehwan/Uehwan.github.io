@@ -1,17 +1,19 @@
 ---
-layout: page
-title: Ue-Hwan Kim
+layout: people
+name: Ue-Hwan Kim
 role: Assistant Professor
 email: uehwan@gist.ac.kr
 img: /assets/img/prof_pic.png
-importance: 1
+sequence: 1
 redirect: # /people/1_professor
 category: Faculty
 ---
 
 Assistant Professor <br/>
-[Graduate School of AI](https://ai.gist.ac.kr){:target="\_blank"} <br/>
+[AI Graduate School](https://ai.gist.ac.kr){:target="\_blank"} <br/>
 [Gwangju Institue of Science and Technology](https://www.gist.ac.kr/){:target="\_blank"}
+
+<br/>
 
 ## Education
 > ###### Korea Advanced Institute of Science and Technology (KAIST), 2015 ~ 2020
@@ -45,4 +47,4 @@ Assistant Professor <br/>
 ## Contact
 Email: uehwan@gist.ac.kr <br/>
 Phone: 82-62-715-6384 <br/>
-Office: S7-203
+Office: C11-407

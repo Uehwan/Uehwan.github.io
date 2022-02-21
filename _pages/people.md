@@ -12,7 +12,7 @@ order: 1
   {% for category in page.display_categories %}
     <h2 class="category">{{category}}</h2>
     {% assign categorized_people = site.people | where: "category", category %}
-    {% assign sorted_people = categorized_people | sort: "importance" %}
+    {% assign sorted_people = categorized_people | sort: "sequence" %}
     <!-- Generate cards for each person -->
     <div class="grid">
       {% for people in sorted_people %}
