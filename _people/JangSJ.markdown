@@ -1,6 +1,6 @@
 ---
 layout: people
-name: Ji-Ae Yoon
+name: Su-Ji Jang
 role: Integrated Course
 email: sujijang@gm.gist.ac.kr
 img: /assets/img/student_22_2_JangSJ.png
