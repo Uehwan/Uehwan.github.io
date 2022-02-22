@@ -14,8 +14,8 @@ order: 3
             <div class="card-body" style="margin-bottom: 1em;">
                 <img class="float-right" style="max-height: 124px; width: auto;" src="/assets/img/ds.png" />
                 <h4 class="card-title" style="margin-bottom: 0.15em;">Data Structures</h4>
-                <p class="card-text" style="margin-bottom: 0.7em;">EC2202</p>
-                <p style="margin-bottom: 0.7em;">Fundamental data structures; concepts and hands-on experiences.</p>
+                <p class="card-text" style="margin-bottom: 0.7em; font-size: medium">EC2202</p>
+                <p style="margin-bottom: 0.7em; font-weight: lighter">Fundamental data structures; concepts and hands-on experiences.</p>
                 <a href="./datastruct22sp" class="card-link"><b>2022 Spring</b></a>
             </div>
         </div>
