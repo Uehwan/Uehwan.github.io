@@ -5,7 +5,7 @@ description: Spring 2022
 ---
 
 **Schedule**: Tue/Thu 1:00pm-2:30pm<br/>
-**Location**: [Zoom Online]()<br/>
+**Location**: [Zoom Online](https://us06web.zoom.us/j/87925937140?pwd=Qm1XTmU4MENybXVEeWJ5eVh2Z0dKdz09)<br/>
 
 
 **Instructor**: Ue-Hwan, Kim (uehwan@gist.ac.kr)<br/>

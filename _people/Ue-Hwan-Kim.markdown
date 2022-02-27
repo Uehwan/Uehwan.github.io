@@ -43,6 +43,13 @@ Assistant Professor <br/>
   - Publicity Chair, RiTA 2021
   - Session Chair, ICCAS 2021
 
+<br />
+## Invited Talks
+AI for Intelligent Systems to Make Human Lives Better
+- Seminar at Cho Chun Shik Graduate School of Green Transportation, KAIST, Mar. 3, 2022.
+- Seminar at Gwangju and Jeonnam Federation, KOFST, Dec. 22, 2021.
+- Seminar at Intelligent Image Processing Research Center, KETI, Nov. 26, 2021.
+
 <br/>
 ## Contact
 Email: uehwan@gist.ac.kr <br/>
