@@ -13,8 +13,9 @@ description: Spring 2022
 **Office Hour**: Thu 3pm-4pm or by appointment
 
 **TAs**:<br/>
-TA1<br/>
-TA2<br/>
+Young-Hwan, Cho (jouny007@gm.gist.ac.kr) <br/>
+Yoon-Jae, Kim (rladbswo12@gm.gist.ac.kr) <br/>
+Jun-Bo, Kwon (kyle000603@gm.gist.ac.kr) <br/>
 
 ### Introduction
 This course deals with the fundamentals of data structures; the very foundation of computer science. This course covers various types of data structures such as lists, stacks, queues, trees, graphs, etc. and entails lots of hands-on experiences. After this course, students will be able to implement fundamental data structures and design their own data structures for their programs.

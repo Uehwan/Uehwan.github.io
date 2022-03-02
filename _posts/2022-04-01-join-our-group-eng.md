@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  How to Join
+title:  Join Our Group!
 date:   2022-10-01
 description: Tips for Joining ACSL
 ---
