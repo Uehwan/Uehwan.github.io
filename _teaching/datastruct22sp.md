@@ -19,6 +19,7 @@ Jun-Bo, Kwon (kyle000603@gm.gist.ac.kr)  / Office Hour: Thu 5:00pm-6:00pm<br/>
 <br/>
 
 ### Notice
+- You can freely use Lambda functions in your homeworks!
 - Due to my business trip, we will not have a live lecture on **March 22**; still I will upload the lecture video :)
 <br/>
 <br/>
@@ -53,7 +54,7 @@ This course deals with the fundamentals of data structures; the very foundation 
     <tr>
       <th scope="row">03-08</th>
       <td>Python Primer (cont'd)</td>
-      <td><!--a href="https://youtu.be/K1wwNImSDAw" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a--> <a href="https://docs.google.com/presentation/d/1m5CjvaxMdUnMHOeGV-EDElHa53rRjWhWPaLdsjkrEwY/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a> <!--a href="https://colab.research.google.com/drive/1AMq6fl3TTrTpZYB2VZhKDF0ibQliDQzY?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a--></td>
+      <td><a href="https://youtu.be/GLYbUZaWLRk" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a> <a href="https://docs.google.com/presentation/d/1m5CjvaxMdUnMHOeGV-EDElHa53rRjWhWPaLdsjkrEwY/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a> <a href="https://colab.research.google.com/drive/1S9OYcv8v-KU1w1RI_t7fEb78EGjrQ3Aw?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a></td>
       <td><a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a></td>
     </tr>
   </tbody>
