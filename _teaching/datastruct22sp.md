@@ -5,7 +5,7 @@ description: Spring 2022
 ---
 
 **Schedule**: Tue/Thu 1:00pm-2:30pm<br/>
-**Location**: [Zoom Online](https://us06web.zoom.us/j/87925937140?pwd=Qm1XTmU4MENybXVEeWJ5eVh2Z0dKdz09)<br/>
+**Location**: [Zoom Online](https://us06web.zoom.us/j/87925937140?pwd=Qm1XTmU4MENybXVEeWJ5eVh2Z0dKdz09) / [Class Colab](https://colab.research.google.com/drive/121f0BPgTaO3Nk_ImwHtcqgpU6ZInXLdv?usp=sharing)<br/>
 
 
 **Instructor**: Ue-Hwan, Kim (uehwan@gist.ac.kr)<br/>
@@ -13,9 +13,9 @@ description: Spring 2022
 **Office Hour**: Thu 3pm-4pm or by appointment
 
 **TAs**:<br/>
-Young-Hwan, Cho (jouny007@gm.gist.ac.kr) / Office Hour: Tue 5:00pm-6:00pm <br/>
-Yoon-Jae, Kim (rladbswo12@gm.gist.ac.kr) / Office Hour: Tue 4:00pm-5:00pm <br/>
-Jun-Bo, Kwon (kyle000603@gm.gist.ac.kr)  / Office Hour: Thu 5:00pm-6:00pm<br/>
+Young-Hwan, Cho (jouny007@gm.gist.ac.kr) / Office Hour: Tue 5:00pm-6:00pm / [Zoom Online](https://zoom.us/j/3411562260?pwd=b2JuMlI5TVJzWTNHZ2ZyUzVYcFh1dz09) <br/>
+Yoon-Jae, Kim (rladbswo12@gm.gist.ac.kr) / Office Hour: Tue 4:00pm-5:00pm / [Zoom Online](https://us02web.zoom.us/j/3798965936?pwd=K2RvVTZwbG0weVB6Qks2RkJvd3NTdz09) <br/>
+Jun-Bo, Kwon (kyle000603@gm.gist.ac.kr)  / Office Hour: Thu 5:00pm-6:00pm / [Zoom Online](https://us04web.zoom.us/j/8146336000?pwd=MEs1TXBkNXVHUzJXSFF3WXZ3bGYrdz09) <br/>
 <br/>
 
 ### Notice
@@ -45,7 +45,7 @@ This course deals with the fundamentals of data structures; the very foundation 
       <th scope="row">03-01</th>
       <td colspan="3">No Lecture (Independence Movement Day)</td>
     </tr>
-    <tr>
+    <tr style="border-bottom: 1.5px solid;">
       <th scope="row">03-03</th>
       <td>Introduction; Python Primer</td>
       <td><a href="https://youtu.be/K1wwNImSDAw" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a> <a href="https://docs.google.com/presentation/d/1_nuOhfVCSSdcMS-wBWcivS-SGECf1JKBZx-xbSnM0ns/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a> <a href="https://colab.research.google.com/drive/1AMq6fl3TTrTpZYB2VZhKDF0ibQliDQzY?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a></td>
@@ -57,7 +57,7 @@ This course deals with the fundamentals of data structures; the very foundation 
       <td><a href="https://youtu.be/GLYbUZaWLRk" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a> <a href="https://docs.google.com/presentation/d/1m5CjvaxMdUnMHOeGV-EDElHa53rRjWhWPaLdsjkrEwY/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a> <a href="https://colab.research.google.com/drive/1S9OYcv8v-KU1w1RI_t7fEb78EGjrQ3Aw?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a></td>
       <td><a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a></td>
     </tr>
-    <tr>
+    <tr style="border-bottom: 1.5px solid;">
       <th scope="row">03-10</th>
       <td>Recursion</td>
       <td><a href="https://youtu.be/zgdbPrBmg5A" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a> <a href="https://docs.google.com/presentation/d/1qwWXB62idf3332JFdYpbSoRAb8rkhKBZmkOKQDqmatM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a> <a href="https://colab.research.google.com/drive/1wGuKqcNkXbm1QBZanpWmaxUMK_vMglDB?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a></td>
@@ -66,6 +66,24 @@ This course deals with the fundamentals of data structures; the very foundation 
     <tr>
       <th scope="row">03-15</th>
       <td>Object Oriented Programming</td>
+      <td><!--a href="https://youtu.be/zgdbPrBmg5A" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a--> <a href="https://docs.google.com/presentation/d/13xe0XM2ijugFhMBGam6XJqpR-qC1UpVZp2pxYS3MAG4/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a> <!--a href="https://colab.research.google.com/drive/1S9OYcv8v-KU1w1RI_t7fEb78EGjrQ3Aw?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a--></td>
+      <td><a href="https://colab.research.google.com/drive/1YDG9BP5Qnqocgjs4AQu_iY__f2KPVloe?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a></td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid;">
+      <th scope="row">03-17</th>
+      <td>Algorithms</td>
+      <td><!--a href="https://youtu.be/zgdbPrBmg5A" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a--> <!--a href="https://docs.google.com/presentation/d/1qwWXB62idf3332JFdYpbSoRAb8rkhKBZmkOKQDqmatM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a--> <!--a href="https://colab.research.google.com/drive/1S9OYcv8v-KU1w1RI_t7fEb78EGjrQ3Aw?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a--></td>
+      <td><!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a--></td>
+    </tr>
+    <tr>
+      <th scope="row">03-22</th>
+      <td>Arrays & Strings</td>
+      <td><!--a href="https://youtu.be/zgdbPrBmg5A" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a--> <!--a href="https://docs.google.com/presentation/d/1qwWXB62idf3332JFdYpbSoRAb8rkhKBZmkOKQDqmatM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a--> <!--a href="https://colab.research.google.com/drive/1S9OYcv8v-KU1w1RI_t7fEb78EGjrQ3Aw?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a--></td>
+      <td><!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a--></td>
+    </tr>
+    <tr>
+      <th scope="row">03-24</th>
+      <td>Abstract Data Types</td>
       <td><!--a href="https://youtu.be/zgdbPrBmg5A" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a--> <!--a href="https://docs.google.com/presentation/d/1qwWXB62idf3332JFdYpbSoRAb8rkhKBZmkOKQDqmatM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a--> <!--a href="https://colab.research.google.com/drive/1S9OYcv8v-KU1w1RI_t7fEb78EGjrQ3Aw?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a--></td>
       <td><!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a--></td>
     </tr>
