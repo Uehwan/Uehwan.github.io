@@ -1,0 +1,11 @@
+---
+layout: people
+name: Nam-Gyu Park
+role: Research Intern
+email: lionzebra@gm.gist.ac.kr
+img: /assets/img/student_22_02_01_ParkNG.png
+sequence: 220201
+redirect: # personal page
+category: Students
+no_detail: true
+---

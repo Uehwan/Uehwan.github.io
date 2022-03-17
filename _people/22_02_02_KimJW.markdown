@@ -1,0 +1,11 @@
+---
+layout: people
+name: Jae-Woo Kim
+role: Research Intern
+email: kjw01124@gist.ac.kr
+img: /assets/img/student_22_02_02_KimJW.png
+sequence: 220202
+redirect: # personal page
+category: Students
+no_detail: true
+---

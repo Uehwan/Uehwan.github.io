@@ -45,7 +45,7 @@ This course deals with the fundamentals of data structures; the very foundation 
       <th scope="row">03-01</th>
       <td colspan="3">No Lecture (Independence Movement Day)</td>
     </tr>
-    <tr style="border-bottom: 1.5px solid;">
+    <tr style="border-bottom: 1.5px solid lightgrey;">
       <th scope="row">03-03</th>
       <td>Introduction; Python Primer</td>
       <td><a href="https://youtu.be/K1wwNImSDAw" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a> <a href="https://docs.google.com/presentation/d/1_nuOhfVCSSdcMS-wBWcivS-SGECf1JKBZx-xbSnM0ns/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a> <a href="https://colab.research.google.com/drive/1AMq6fl3TTrTpZYB2VZhKDF0ibQliDQzY?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a></td>
@@ -55,9 +55,9 @@ This course deals with the fundamentals of data structures; the very foundation 
       <th scope="row">03-08</th>
       <td>Python Primer (cont'd)</td>
       <td><a href="https://youtu.be/GLYbUZaWLRk" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a> <a href="https://docs.google.com/presentation/d/1m5CjvaxMdUnMHOeGV-EDElHa53rRjWhWPaLdsjkrEwY/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a> <a href="https://colab.research.google.com/drive/1S9OYcv8v-KU1w1RI_t7fEb78EGjrQ3Aw?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a></td>
-      <td><a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a></td>
+      <td><a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a><a href="https://colab.research.google.com/drive/14E6a0ISlWEmugaJu3xXMzSLItfBBgB-B?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a></td>
     </tr>
-    <tr style="border-bottom: 1.5px solid;">
+    <tr style="border-bottom: 1.5px solid lightgrey;">
       <th scope="row">03-10</th>
       <td>Recursion</td>
       <td><a href="https://youtu.be/zgdbPrBmg5A" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a> <a href="https://docs.google.com/presentation/d/1qwWXB62idf3332JFdYpbSoRAb8rkhKBZmkOKQDqmatM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a> <a href="https://colab.research.google.com/drive/1wGuKqcNkXbm1QBZanpWmaxUMK_vMglDB?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a></td>
@@ -69,21 +69,21 @@ This course deals with the fundamentals of data structures; the very foundation 
       <td><a href="https://youtu.be/9HmhUqXmIZ4" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a> <a href="https://docs.google.com/presentation/d/13xe0XM2ijugFhMBGam6XJqpR-qC1UpVZp2pxYS3MAG4/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a> <a href="https://colab.research.google.com/drive/1Rxww68YTTAG9MAUoakJ-ACkykvKH4Sn3?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a></td>
       <td><a href="https://colab.research.google.com/drive/1YDG9BP5Qnqocgjs4AQu_iY__f2KPVloe?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a></td>
     </tr>
-    <tr style="border-bottom: 1.5px solid;">
+    <tr style="border-bottom: 1.5px solid lightgrey;">
       <th scope="row">03-17</th>
       <td>Algorithms</td>
-      <td><!--a href="https://youtu.be/zgdbPrBmg5A" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a--> <!--a href="https://docs.google.com/presentation/d/1qwWXB62idf3332JFdYpbSoRAb8rkhKBZmkOKQDqmatM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a--> <!--a href="https://colab.research.google.com/drive/1S9OYcv8v-KU1w1RI_t7fEb78EGjrQ3Aw?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a--></td>
+      <td><!--a href="https://youtu.be/zgdbPrBmg5A" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a--> <a href="https://docs.google.com/presentation/d/195jGjbkrAM2--ZzvgeM7QMLu8pGMDXWuda0G_3lHLCQ/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a> <!--a href="https://colab.research.google.com/drive/1S9OYcv8v-KU1w1RI_t7fEb78EGjrQ3Aw?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a--></td>
       <td><!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a--></td>
     </tr>
     <tr>
       <th scope="row">03-22</th>
-      <td>Arrays & Strings</td>
+      <td>Abstract Data Types</td>
       <td><!--a href="https://youtu.be/zgdbPrBmg5A" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a--> <!--a href="https://docs.google.com/presentation/d/1qwWXB62idf3332JFdYpbSoRAb8rkhKBZmkOKQDqmatM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a--> <!--a href="https://colab.research.google.com/drive/1S9OYcv8v-KU1w1RI_t7fEb78EGjrQ3Aw?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a--></td>
       <td><!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a--></td>
     </tr>
     <tr>
       <th scope="row">03-24</th>
-      <td>Abstract Data Types</td>
+      <td>Arrays & Strings</td>
       <td><!--a href="https://youtu.be/zgdbPrBmg5A" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a--> <!--a href="https://docs.google.com/presentation/d/1qwWXB62idf3332JFdYpbSoRAb8rkhKBZmkOKQDqmatM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a--> <!--a href="https://colab.research.google.com/drive/1S9OYcv8v-KU1w1RI_t7fEb78EGjrQ3Aw?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a--></td>
       <td><!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a--></td>
     </tr>
