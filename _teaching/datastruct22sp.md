@@ -78,7 +78,7 @@ This course deals with the fundamentals of data structures; the very foundation 
     <tr>
       <th scope="row">03-22</th>
       <td>Abstract Data Types</td>
-      <td><!--a href="https://youtu.be/zgdbPrBmg5A" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a--> <!--a href="https://docs.google.com/presentation/d/1qwWXB62idf3332JFdYpbSoRAb8rkhKBZmkOKQDqmatM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a--> <!--a href="https://colab.research.google.com/drive/1S9OYcv8v-KU1w1RI_t7fEb78EGjrQ3Aw?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a--></td>
+      <td><a href="https://youtu.be/vfj-PCNiwuA" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a> <a href="https://docs.google.com/presentation/d/1ybR2b2pv6jt8tCTz86Jx0hqytQ9YU8lquXWTqhVljpM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a> <a href="https://colab.research.google.com/drive/1PVNwc4qtWZNtRiLNmeueEdxeOb8ZPqCk?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a></td>
       <td><!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a--></td>
     </tr>
     <tr>
