@@ -19,9 +19,9 @@ Jun-Bo, Kwon (kyle000603@gm.gist.ac.kr)  / Office Hour: Thu 5:00pm-6:00pm / [Zoo
 <br/>
 
 ### Notice
-- [**Midterm**] Date: Apr. 19, 1pm-3pm / Location: GIST College Building C (N6),  Room 104
 - You can freely use Lambda functions in your homeworks!
 - Due to my business trip, we will not have a live lecture on **March 22**; still I will upload the lecture video :)
+- [**Midterm**] Date: Apr. 19, 1pm-3pm / Location: GIST College Building C (N6),  Room 104
 <br/>
 <br/>
 
@@ -154,7 +154,7 @@ This course deals with the fundamentals of data structures; the very foundation 
         <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
       </td>
     </tr>
-    <tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
       <th scope="row">04-14</th>
       <td>Midterm Review</td>
       <td>
@@ -165,6 +165,23 @@ This course deals with the fundamentals of data structures; the very foundation 
       <td>
         <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
       </td>
+    </tr>
+    <tr>
+      <th scope="row">04-19</th>
+      <td>Midterm</td>
+      <td>
+        <!--a href="https://youtu.be/o8dXKCL00Dc" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <!--a href="https://docs.google.com/presentation/d/1qwWXB62idf3332JFdYpbSoRAb8rkhKBZmkOKQDqmatM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <!--a href="https://colab.research.google.com/drive/1S9OYcv8v-KU1w1RI_t7fEb78EGjrQ3Aw?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
+      </td>
+      <td>
+        <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
+        <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">04-21</th>
+      <td colspan="3">No Lecture (Midterm Period)</td>
     </tr>
   </tbody>
 </table>
