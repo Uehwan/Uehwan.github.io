@@ -170,6 +170,36 @@ This course deals with the fundamentals of data structures; the very foundation 
       <th scope="row">04-19</th>
       <td>Midterm</td>
       <td>
+        <a href="https://docs.google.com/document/d/1ZezFKEIuI8E7lmz54wwmatWzAiKHMHrx8jZOQkKptpM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
+        <a href="https://docs.google.com/spreadsheets/d/1vP8FWsrKHvDhLBF8zuRCNaox38V8enCf1L7e0WgjbIg/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
+        <a href="https://docs.google.com/spreadsheets/d/1IYq5zVdDuJM6weCha7yGQK89F9kPSlpxTfuieL5Toqg/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Claim</a>
+      </td>
+      <td>
+        <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
+        <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+      </td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">04-21</th>
+      <td colspan="3">No Lecture (Midterm Period)</td>
+    </tr>
+    <tr>
+      <th scope="row">04-26</th>
+      <td>Sets and Maps</td>
+      <td>
+        <!--a href="https://youtu.be/o8dXKCL00Dc" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <a href="https://docs.google.com/presentation/d/1azcgcVMUuwMhR2BWDFcAUa1qoTKqmIbEmNLuFXhwGeo/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <!--a href="https://colab.research.google.com/drive/1S9OYcv8v-KU1w1RI_t7fEb78EGjrQ3Aw?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
+      </td>
+      <td>
+        <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
+        <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+      </td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">04-28</th>
+      <td>Hashing</td>
+      <td>
         <!--a href="https://youtu.be/o8dXKCL00Dc" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
         <!--a href="https://docs.google.com/presentation/d/1qwWXB62idf3332JFdYpbSoRAb8rkhKBZmkOKQDqmatM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
         <!--a href="https://colab.research.google.com/drive/1S9OYcv8v-KU1w1RI_t7fEb78EGjrQ3Aw?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
@@ -180,8 +210,21 @@ This course deals with the fundamentals of data structures; the very foundation 
       </td>
     </tr>
     <tr>
-      <th scope="row">04-21</th>
-      <td colspan="3">No Lecture (Midterm Period)</td>
+      <th scope="row">05-03</th>
+      <td>Tree</td>
+      <td>
+        <!--a href="https://youtu.be/o8dXKCL00Dc" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <!--a href="https://docs.google.com/presentation/d/1qwWXB62idf3332JFdYpbSoRAb8rkhKBZmkOKQDqmatM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <!--a href="https://colab.research.google.com/drive/1S9OYcv8v-KU1w1RI_t7fEb78EGjrQ3Aw?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
+      </td>
+      <td>
+        <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
+        <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">05-05</th>
+      <td colspan="3">No Lecture (Children's Day)</td>
     </tr>
   </tbody>
 </table>
