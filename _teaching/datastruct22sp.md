@@ -22,6 +22,7 @@ Jun-Bo, Kwon (kyle000603@gm.gist.ac.kr)  / Office Hour: Thu 5:00pm-6:00pm / [Zoo
 - You can freely use Lambda functions in your homeworks!
 - Due to my business trip, we will not have a live lecture on **March 22**; still I will upload the lecture video :)
 - [**Midterm**] Date: Apr. 19, 1pm-3pm / Location: GIST College Building C (N6),  Room 104
+- Midterm claim registration due on May 29
 <br/>
 <br/>
 
@@ -201,7 +202,7 @@ This course deals with the fundamentals of data structures; the very foundation 
       <td>Hashing</td>
       <td>
         <!--a href="https://youtu.be/o8dXKCL00Dc" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="https://docs.google.com/presentation/d/1qwWXB62idf3332JFdYpbSoRAb8rkhKBZmkOKQDqmatM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <a href="https://docs.google.com/presentation/d/1EYJ7qOhUqCC1_Il8KL4mzmF4LZ9hHXIpGvmF2prY3wg/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
         <!--a href="https://colab.research.google.com/drive/1S9OYcv8v-KU1w1RI_t7fEb78EGjrQ3Aw?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
       </td>
       <td>
