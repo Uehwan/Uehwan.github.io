@@ -201,9 +201,9 @@ This course deals with the fundamentals of data structures; the very foundation 
       <th scope="row">04-28</th>
       <td>Hashing</td>
       <td>
-        <!--a href="https://youtu.be/o8dXKCL00Dc" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <a href="https://youtu.be/UOoLae7Y9_A" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
         <a href="https://docs.google.com/presentation/d/1EYJ7qOhUqCC1_Il8KL4mzmF4LZ9hHXIpGvmF2prY3wg/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
-        <!--a href="https://colab.research.google.com/drive/1S9OYcv8v-KU1w1RI_t7fEb78EGjrQ3Aw?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
+        <a href="https://colab.research.google.com/drive/1eF-q3EJe5768AeClfBYwu1J5zZ5Kq-82?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a>
       </td>
       <td>
         <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
