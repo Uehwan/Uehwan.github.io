@@ -23,6 +23,7 @@ Jun-Bo, Kwon (kyle000603@gm.gist.ac.kr)  / Office Hour: Thu 5:00pm-6:00pm / [Zoo
 - Due to my business trip, we will not have a live lecture on **March 22**; still I will upload the lecture video :)
 - [**Midterm**] Date: Apr. 19, 1pm-3pm / Location: GIST College Building C (N6),  Room 104
 - Midterm claim registration due on May 29
+- Due to my family affair, we will not have a lecture on **May 10**.
 <br/>
 <br/>
 
@@ -85,7 +86,7 @@ This course deals with the fundamentals of data structures; the very foundation 
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
       <th scope="row">03-24</th>
-      <td>Arrays & Strings</td>
+      <td>Arrays and Strings</td>
       <td>
         <a href="https://youtu.be/XDBlCoztXRg" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
         <a href="https://docs.google.com/presentation/d/16-_ld_NE6VhPBf4CSTwG8lpVhsoOTQYw4KnHm47zulE/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
@@ -212,20 +213,37 @@ This course deals with the fundamentals of data structures; the very foundation 
     </tr>
     <tr>
       <th scope="row">05-03</th>
-      <td>Tree</td>
+      <td>Trees</td>
       <td>
-        <!--a href="https://youtu.be/o8dXKCL00Dc" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <a href="https://youtu.be/ct4u8Kr9Px4" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
         <a href="https://docs.google.com/presentation/d/1r2V0T0YVbBkEInCGVWhR7ZTNLylulIQz8v-JcJ5gDOY/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
-        <!--a href="https://colab.research.google.com/drive/1S9OYcv8v-KU1w1RI_t7fEb78EGjrQ3Aw?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
+        <a href="https://colab.research.google.com/drive/1Dg6gmCcntKibeZ5ahHVhRd10PimNvh5J?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a>
       </td>
       <td>
         <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
         <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
       </td>
     </tr>
-    <tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
       <th scope="row">05-05</th>
       <td colspan="3">No Lecture (Children's Day)</td>
+    </tr>
+    <tr>
+      <th scope="row">05-10</th>
+      <td colspan="3">No Lecture (Family Affair)</td>
+    </tr>
+    <tr>
+      <th scope="row">05-12</th>
+      <td>Heaps and Priority Queues</td>
+      <td>
+        <!--a href="https://youtu.be/ct4u8Kr9Px4" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <!--a href="https://docs.google.com/presentation/d/1r2V0T0YVbBkEInCGVWhR7ZTNLylulIQz8v-JcJ5gDOY/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <!--a href="https://colab.research.google.com/drive/1Dg6gmCcntKibeZ5ahHVhRd10PimNvh5J?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
+      </td>
+      <td>
+        <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
+        <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+      </td>
     </tr>
   </tbody>
 </table>
