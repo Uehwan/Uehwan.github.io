@@ -215,7 +215,7 @@ This course deals with the fundamentals of data structures; the very foundation 
       <td>Tree</td>
       <td>
         <!--a href="https://youtu.be/o8dXKCL00Dc" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="https://docs.google.com/presentation/d/1qwWXB62idf3332JFdYpbSoRAb8rkhKBZmkOKQDqmatM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <a href="https://docs.google.com/presentation/d/1r2V0T0YVbBkEInCGVWhR7ZTNLylulIQz8v-JcJ5gDOY/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
         <!--a href="https://colab.research.google.com/drive/1S9OYcv8v-KU1w1RI_t7fEb78EGjrQ3Aw?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
       </td>
       <td>
