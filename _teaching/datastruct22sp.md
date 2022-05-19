@@ -262,9 +262,9 @@ This course deals with the fundamentals of data structures; the very foundation 
       <th scope="row">05-19</th>
       <td>AVL Trees</td>
       <td>
-        <!--a href="https://youtu.be/ct4u8Kr9Px4" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="https://docs.google.com/presentation/d/1r2V0T0YVbBkEInCGVWhR7ZTNLylulIQz8v-JcJ5gDOY/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
-        <!--a href="https://colab.research.google.com/drive/1Dg6gmCcntKibeZ5ahHVhRd10PimNvh5J?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
+        <a href="https://youtu.be/m0qZiTncmiw" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
+        <a href="https://docs.google.com/presentation/d/1ADACHPI0ua__W9p7DcprzhvZ2ZWSCfQMZPX2JKMcbe0/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="https://colab.research.google.com/drive/1o11yn95WQv-2KUk6RNBdxvc7OoUDrD2E?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a>
       </td>
       <td>
         <a href="https://colab.research.google.com/drive/11ZrrmS50XatmuMvt-g2thqbIhXTk8Flp?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a>
