@@ -275,7 +275,7 @@ This course deals with the fundamentals of data structures; the very foundation 
       <th scope="row">05-24</th>
       <td>234 Trees and Red-Black Trees</td>
       <td>
-        <!--a href="https://youtu.be/ct4u8Kr9Px4" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <a href="https://youtu.be/dKpAHdanf88" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
         <a href="https://docs.google.com/presentation/d/1DWDnVYIWDtzksOjsa2BWKciT1cgK8YISIJnTHnRU2wk/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
         <!--a href="https://colab.research.google.com/drive/1Dg6gmCcntKibeZ5ahHVhRd10PimNvh5J?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
       </td>
