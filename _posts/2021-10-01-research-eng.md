@@ -41,7 +41,7 @@ Figure 1. Overview of the proposed SimVODIS. SimVODIS receives a set of three co
 <tr>
 <td style="text-align: center">
 <iframe style="width:100%; height:300px;"
-src="https://www.youtube.com/embed/RF4bf7ZlAX4">
+src="https://www.youtube.com/embed/GXNQAMYU-yQ">
 </iframe>
 </td>
 </tr>
@@ -57,7 +57,7 @@ src="https://www.youtube.com/embed/RF4bf7ZlAX4">
 <tr>
 <td style="text-align: center">
 <iframe style="width:100%; height:300px;"
-src="https://www.youtube.com/embed/ikwAOQM7Chk">
+src="https://www.youtube.com/embed/7ES-n5MLqmY">
 </iframe>
 </td>
 </tr>
