@@ -286,7 +286,7 @@ This course deals with the fundamentals of data structures; the very foundation 
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
       <th scope="row">05-26</th>
-      <td>Graphs</td>
+      <td>Graphs (1)</td>
       <td>
         <a href="https://youtu.be/8ays_br3kLk" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
         <a href="https://docs.google.com/presentation/d/1bi1TszVz4xdNFI-S_pWi3QXV9dGEaL0NMJAsqI8PD8k/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
@@ -299,10 +299,10 @@ This course deals with the fundamentals of data structures; the very foundation 
     </tr>
     <tr>
       <th scope="row">05-31</th>
-      <td>Graphs (cont'd)</td>
+      <td>Graphs (2)</td>
       <td>
         <!--a href="https://youtu.be/ct4u8Kr9Px4" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="https://docs.google.com/presentation/d/1r2V0T0YVbBkEInCGVWhR7ZTNLylulIQz8v-JcJ5gDOY/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <a href="https://docs.google.com/presentation/d/1X13Cs6MlZxkjlhWvy8NZQ2z7FQwcePczOJsEktdWZRs/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
         <!--a href="https://colab.research.google.com/drive/1Dg6gmCcntKibeZ5ahHVhRd10PimNvh5J?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
       </td>
       <td>
@@ -312,7 +312,7 @@ This course deals with the fundamentals of data structures; the very foundation 
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
       <th scope="row">06-02</th>
-      <td>Dynamic Prgrogramming</td>
+      <td>Graphs (3)</td>
       <td>
         <!--a href="https://youtu.be/ct4u8Kr9Px4" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
         <!--a href="https://docs.google.com/presentation/d/1r2V0T0YVbBkEInCGVWhR7ZTNLylulIQz8v-JcJ5gDOY/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
@@ -325,16 +325,7 @@ This course deals with the fundamentals of data structures; the very foundation 
     </tr>
     <tr>
       <th scope="row">06-07</th>
-      <td>Dynamic Prgrogramming (cont'd)</td>
-      <td>
-        <!--a href="https://youtu.be/ct4u8Kr9Px4" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="https://docs.google.com/presentation/d/1r2V0T0YVbBkEInCGVWhR7ZTNLylulIQz8v-JcJ5gDOY/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
-        <!--a href="https://colab.research.google.com/drive/1Dg6gmCcntKibeZ5ahHVhRd10PimNvh5J?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
-      </td>
-      <td>
-        <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
-        <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
-      </td>
+      <td colspan="3">No Lecture (Final Exam Preparation)</td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
       <th scope="row">06-09</th>
