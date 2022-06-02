@@ -24,6 +24,7 @@ Jun-Bo, Kwon (kyle000603@gm.gist.ac.kr)  / Office Hour: Thu 5:00pm-6:00pm / [Zoo
 - [**Midterm**] Date: Apr. 19, 1pm-3pm / Location: GIST College Building C (N6),  Room 104
 - Midterm claim registration due on May 29
 - Due to my family affair, we will not have a lecture on **May 10**.
+- [**Final Exam**] Date: Jun. 14, 1pm-3pm / Location: GIST College Building C (N6),  Room 104
 <br/>
 <br/>
 
@@ -314,9 +315,9 @@ This course deals with the fundamentals of data structures; the very foundation 
       <th scope="row">06-02</th>
       <td>Graphs (3)</td>
       <td>
-        <!--a href="https://youtu.be/ct4u8Kr9Px4" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="https://docs.google.com/presentation/d/1r2V0T0YVbBkEInCGVWhR7ZTNLylulIQz8v-JcJ5gDOY/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
-        <!--a href="https://colab.research.google.com/drive/1Dg6gmCcntKibeZ5ahHVhRd10PimNvh5J?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
+        <a href="https://youtu.be/hywa75Wg1L0" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
+        <a href="https://docs.google.com/presentation/d/1ixt5Sk6SALjfrneJp4ebD2lwxzegyIqSEBv9qEC5bzU/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="https://colab.research.google.com/drive/1qCP7wYRlooaUWRW46YjnnlNJ2UNjabMK?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a>
       </td>
       <td>
         <a href="https://colab.research.google.com/drive/1RyQ1xyVZcrGy4DrWUOhKgNhxZcX9Hidq?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a>
