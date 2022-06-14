@@ -25,6 +25,9 @@ Jun-Bo, Kwon (kyle000603@gm.gist.ac.kr)  / Office Hour: Thu 5:00pm-6:00pm / [Zoo
 - Midterm claim registration due on May 29
 - Due to my family affair, we will not have a lecture on **May 10**.
 - [**Final Exam**] Date: Jun. 14, 1pm-3pm / Location: GIST College Building C (N6),  Room 104
+  - Result will be out on **Jun. 20**
+  - Claim registration due on **Jun. 21**
+  - Claim during **Jun. 22 2:30 pm - 4:00 pm**
 <br/>
 <br/>
 
