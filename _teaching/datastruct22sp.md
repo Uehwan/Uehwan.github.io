@@ -28,6 +28,8 @@ Jun-Bo, Kwon (kyle000603@gm.gist.ac.kr)  / Office Hour: Thu 5:00pm-6:00pm / [Zoo
   - Result will be out on **Jun. 20**
   - Claim registration due on **Jun. 21**
   - Claim during **Jun. 22 2:30 pm - 4:00 pm**
+- [**Homework**] Check your homework submission result [here](https://docs.google.com/spreadsheets/d/1zOlDAX1o0DCY2yC28dowLMV5pF4kQlwKywIPv_ML8Ao/edit?usp=sharing).
+  - If something went wrong, let us know until **Jun. 20** on this [sheet](https://docs.google.com/spreadsheets/d/1FX12S1_3DutVXrcKmKA3sSzATFkLR41zHnQ8TD-zawE/edit?usp=sharing)
 <br/>
 <br/>
 
