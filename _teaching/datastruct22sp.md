@@ -25,7 +25,7 @@ Jun-Bo, Kwon (kyle000603@gm.gist.ac.kr)  / Office Hour: Thu 5:00pm-6:00pm / [Zoo
 - Midterm claim registration due on May 29
 - Due to my family affair, we will not have a lecture on **May 10**.
 - [**Final Exam**] Date: Jun. 14, 1pm-3pm / Location: GIST College Building C (N6),  Room 104
-  - Result will be out on **Jun. 20**
+  - Result will be out on **Jun. 20** (Released!)
   - Claim registration due on **Jun. 21**
   - Claim during **Jun. 22 2:30 pm - 4:00 pm**
 - [**Homework**] Check your homework submission result [here](https://docs.google.com/spreadsheets/d/1zOlDAX1o0DCY2yC28dowLMV5pF4kQlwKywIPv_ML8Ao/edit?usp=sharing).
@@ -350,9 +350,9 @@ This course deals with the fundamentals of data structures; the very foundation 
       <th scope="row">06-14</th>
       <td>Final Exam</td>
       <td>
-        <!--a href="https://youtu.be/ct4u8Kr9Px4" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="https://docs.google.com/presentation/d/1r2V0T0YVbBkEInCGVWhR7ZTNLylulIQz8v-JcJ5gDOY/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
-        <!--a href="https://colab.research.google.com/drive/1Dg6gmCcntKibeZ5ahHVhRd10PimNvh5J?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
+        <a href="https://docs.google.com/document/d/1rcwwmXmnqJX0Jbk5dm_56BgJENnamLWC8nrL8nEdK34/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
+        <a href="https://docs.google.com/spreadsheets/d/1O7CDQ23qsRW_FKKYqLgyRPkX5MvnhvFslRbQ9zdqDMk/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
+        <a href="https://docs.google.com/spreadsheets/d/1qwJSR7f1fZS8CezfBgiGWFInIro3Ks6t_tcXz3rlWdk/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Claim</a>
       </td>
       <td>
         <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
