@@ -46,6 +46,7 @@ Assistant Professor <br/>
 <br />
 ## Invited Talks
 AI for Intelligent Systems to Make Human Lives Better
+- Seminar at Institute of Control, Robotics and Systems (ICROS), Jun. 23, 2022.
 - Seminar at Cho Chun Shik Graduate School of Green Transportation, KAIST, Mar. 3, 2022.
 - Seminar at Gwangju and Jeonnam Federation, KOFST, Dec. 22, 2021.
 - Seminar at Intelligent Image Processing Research Center, KETI, Nov. 26, 2021.

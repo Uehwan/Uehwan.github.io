@@ -24,6 +24,6 @@ We design and build autonomous computing systems to make human lives better (AI 
 2. ***Semantic and Geometric Understanding of Environments***, which are essential to implement customized services.
 
 For more details, refer to our <br/>
-- [research statement (English)](blog/2021/research-eng/), and
-- [advising statement (한국어)](blog/2021/advising-kor/).
-<!-- - [join our group (한국어)](blog/2022/how-to-join-kor/). -->
+- [research statement (English)](blog/2021/research-eng/),
+- [advising statement (한국어)](blog/2021/advising-kor/), and
+- [open positions (한국어)](blog/2022/open-positions-kor/).

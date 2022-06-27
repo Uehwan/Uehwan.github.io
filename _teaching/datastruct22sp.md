@@ -28,8 +28,8 @@ Jun-Bo, Kwon (kyle000603@gm.gist.ac.kr)  / Office Hour: Thu 5:00pm-6:00pm / [Zoo
   - Result will be out on **Jun. 20** (Released!)
   - Claim registration due on **Jun. 21**
   - Claim during **Jun. 22 2:30 pm - 4:00 pm**
-- [**Homework**] Check your homework submission result [here](https://docs.google.com/spreadsheets/d/1zOlDAX1o0DCY2yC28dowLMV5pF4kQlwKywIPv_ML8Ao/edit?usp=sharing).
-  - If something went wrong, let us know until **Jun. 20** on this [sheet](https://docs.google.com/spreadsheets/d/1FX12S1_3DutVXrcKmKA3sSzATFkLR41zHnQ8TD-zawE/edit?usp=sharing)
+- [**Homework**] Check your homework submission result [here]().<!--(https://docs.google.com/spreadsheets/d/1zOlDAX1o0DCY2yC28dowLMV5pF4kQlwKywIPv_ML8Ao/edit?usp=sharing)-->
+  - If something went wrong, let us know until **Jun. 20** on this [sheet]().<!--(https://docs.google.com/spreadsheets/d/1FX12S1_3DutVXrcKmKA3sSzATFkLR41zHnQ8TD-zawE/edit?usp=sharing)-->
 <br/>
 <br/>
 
@@ -179,8 +179,8 @@ This course deals with the fundamentals of data structures; the very foundation 
       <td>Midterm</td>
       <td>
         <a href="https://docs.google.com/document/d/1ZezFKEIuI8E7lmz54wwmatWzAiKHMHrx8jZOQkKptpM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
-        <a href="https://docs.google.com/spreadsheets/d/1vP8FWsrKHvDhLBF8zuRCNaox38V8enCf1L7e0WgjbIg/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
-        <a href="https://docs.google.com/spreadsheets/d/1IYq5zVdDuJM6weCha7yGQK89F9kPSlpxTfuieL5Toqg/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Claim</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Claim</a>
       </td>
       <td>
         <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
@@ -351,8 +351,8 @@ This course deals with the fundamentals of data structures; the very foundation 
       <td>Final Exam</td>
       <td>
         <a href="https://docs.google.com/document/d/1rcwwmXmnqJX0Jbk5dm_56BgJENnamLWC8nrL8nEdK34/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
-        <a href="https://docs.google.com/spreadsheets/d/1O7CDQ23qsRW_FKKYqLgyRPkX5MvnhvFslRbQ9zdqDMk/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
-        <a href="https://docs.google.com/spreadsheets/d/1qwJSR7f1fZS8CezfBgiGWFInIro3Ks6t_tcXz3rlWdk/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Claim</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Claim</a>
       </td>
       <td>
         <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
