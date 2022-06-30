@@ -65,7 +65,7 @@ youtube_url: UCTbB2sKIjQJ1aAyVflGf_dQ
 
 contact_note:
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: G-JG6HYJP07P # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
@@ -176,7 +176,7 @@ scholar:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:    false  # enables google analytics
+enable_google_analytics:    true  # enables google analytics
 enable_panelbear_analytics: false  # enables panelbear analytics
 enable_mansory:             true   # enables automatic people cards arangement
 enable_math:                true   # enables math typesetting (uses MathJax)
