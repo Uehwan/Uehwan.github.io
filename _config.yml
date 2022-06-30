@@ -147,6 +147,13 @@ plugins:
 # Extras
 github: [metadata]
 
+# Analytics
+analytics:
+  provider               : "google-gtag" 
+  google:
+    tracking_id          : "G-JG6HYJP07P"
+    anonymize_ip         : false
+
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
