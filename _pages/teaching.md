@@ -23,7 +23,7 @@ order: 3
         <div class="card" style="width: 90%; margin-bottom: 2em;">
             <div class="card-body" style="margin-bottom: 1em;">
                 <h4 class="card-title">AI Experience Laboratory</h4>
-                <h6 class="card-subtitle mb-2 text-muted">AI5214 / EC5214</h6>
+                <h6 class="card-subtitle mb-2 text-muted">AI4003 / AI5214 / EC5214</h6>
                 <p class="card-text">Hands-on practices about machine learning and deep learning.</p>
                 <a href="./datastruct22sp" class="card-link"><b>2021 Fall</b></a>
             </div>
