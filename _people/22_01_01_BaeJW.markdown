@@ -5,7 +5,7 @@ role: Ph.D. Course
 email: jaewonbae@gm.gist.ac.kr
 img: /assets/img/student_22_01_01_BaeJW.png
 sequence: 220101
-redirect: # personal page
+redirect: https://jaewonbae.github.io/
 category: Students
 no_detail: true
 ---

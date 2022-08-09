@@ -19,16 +19,15 @@ order: 3
                 <a href="./datastruct22sp" class="card-link"><b>2022 Spring</b></a>
             </div>
         </div>
-        <!--
-        <div class="card" style="width: 90%; margin-bottom: 2em;">
+        <div class="card" style="width: 95%; margin-bottom: 2em;">
             <div class="card-body" style="margin-bottom: 1em;">
-                <h4 class="card-title">AI Experience Laboratory</h4>
-                <h6 class="card-subtitle mb-2 text-muted">AI4003 / AI5214 / EC5214</h6>
-                <p class="card-text">Hands-on practices about machine learning and deep learning.</p>
-                <a href="./datastruct22sp" class="card-link"><b>2021 Fall</b></a>
+                <img class="float-right" style="max-height: 124px; width: auto;" src="/assets/img/ds.png" />
+                <h4 class="card-title" style="margin-bottom: 0.15em;">AI Experience Laboratory</h4>
+                <p class="card-text" style="margin-bottom: 0.7em; font-size: medium">AI4003 / AI5214 / EC5214</p>
+                <p style="margin-bottom: 0.7em; font-weight: lighter">Hands-on practices on machine learning and deep learning.</p>
+                <a href="./aiexplab22fall" class="card-link"><b>2022 Fall</b></a>
             </div>
         </div>
-        -->
     </div>
     <!--
     <div class="row">

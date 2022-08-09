@@ -5,7 +5,7 @@ role: Integrated Course
 email: jiaeyoon@gm.gist.ac.kr
 img: /assets/img/student_22_01_03_YoonJA.png
 sequence: 220103
-redirect: # personal page
+redirect: https://jiaeyoon.notion.site/Jiae-Yoon-905908b9308747818ca4f5f0a77de777
 category: Students
 no_detail: true
 ---
