@@ -21,7 +21,7 @@ order: 3
         </div>
         <div class="card" style="width: 95%; margin-bottom: 2em;">
             <div class="card-body" style="margin-bottom: 1em;">
-                <img class="float-right" style="max-height: 124px; width: auto;" src="/assets/img/ds.png" />
+                <img class="float-right" style="max-height: 124px; width: auto;" src="/assets/img/aiexplab.png" />
                 <h4 class="card-title" style="margin-bottom: 0.15em;">AI Experience Laboratory</h4>
                 <p class="card-text" style="margin-bottom: 0.7em; font-size: medium">AI4003 / AI5214 / EC5214</p>
                 <p style="margin-bottom: 0.7em; font-weight: lighter">Hands-on practices on machine learning and deep learning.</p>

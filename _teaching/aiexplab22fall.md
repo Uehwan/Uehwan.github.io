@@ -172,7 +172,7 @@ This course will showcase various methods in machine learning and deep learning.
     </tr>
     <tr>
       <th scope="row">11-01</th>
-      <td class="text-left"><b>[Lec XX]</b> &nbsp; Team Meet-up</td>
+      <td class="text-left"><b>[Project]</b> &nbsp; Team Meet-up & Proposal</td>
       <td>
         <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
         <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
@@ -252,7 +252,7 @@ This course will showcase various methods in machine learning and deep learning.
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
       <th scope="row">12-08</th>
-      <td class="text-left"><b>[Lec XX]</b> &nbsp; Project Presentation</td>
+      <td class="text-left"><b>[Project]</b> &nbsp; Project Presentation</td>
       <td>
         <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
         <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
