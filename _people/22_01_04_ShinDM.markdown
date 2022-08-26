@@ -4,7 +4,7 @@ name: Dong-Min Shin
 role: Research Intern
 email: newdm2000@gm.gist.ac.kr
 img: /assets/img/student_22_01_04_ShinDM.png
-sequence: 220104
+sequence: 2220104
 redirect: # personal page
 category: Students
 no_detail: true

@@ -24,6 +24,7 @@ This course will showcase various methods in machine learning and deep learning.
 <br/>
 
 ### References
+* Deep Learning for Computer Vision @ Stanford [Link](http://cs231n.stanford.edu/)
 * Natural Language Processing with Deep Learning @ Stanford [Link](https://web.stanford.edu/class/cs224n/)
 * Programming for AI @ KAIST [Link](https://mp2893.com/course.html)
 * Deep Learning @ University of Amsterdam [Link](https://uvadlc.github.io/)
