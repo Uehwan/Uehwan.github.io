@@ -5,7 +5,7 @@ description: Fall 2022
 ---
 
 **Schedule**: Tue/Thu 1:00pm-3:30pm<br/>
-**Location**: GIST College Building A (N4), Room 227<br/>
+**Location**: GIST EECS C2, Haerim Hall (F1)<br/>
 
 
 **Instructor**: Ue-Hwan, Kim (uehwan@gist.ac.kr)<br/>
@@ -13,9 +13,8 @@ description: Fall 2022
 **Office Hour**: Tue 4pm-5pm or by appointment
 
 **TAs**:<br/>
-TA1 / Office-Hour: <br/>
-TA2 / Office-Hour: <br/>
-TA3 / Office-Hour: <br/>
+Jae-Won, Bae (jaewonbae@gm.gist.ac.kr) <br/>
+Su-Ji, Jang (sujijang@gm.gist.ac.kr) <br/>
 <br/>
 
 ### Introduction
@@ -48,20 +47,20 @@ This course will showcase various methods in machine learning and deep learning.
   <tbody>
     <tr>
       <th scope="row">08-30</th>
-      <td class="text-left"><b>[Lec 00]</b> &nbsp;Introduction; Preliminaries</td>
+      <td class="text-left"><b>[Lec 00]</b> &nbsp;Introduction</td>
       <td></td>
       <td>
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <a href="https://docs.google.com/presentation/d/1Rqgy6Gc--kJjimmnf_W5UISFkl5qR20v-7fZMrF3RG4/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
       </td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
       <th scope="row">09-01</th>
-      <td class="text-left"><b>[Lec 01]</b> &nbsp;Pytorch Fundamentals; Neural Networks</td>
+      <td class="text-left"><b>[Lec 01]</b> &nbsp;Neural Networks; Pytorch Fundamentals</td>
       <td></td>
       <td>
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
       </td>
     </tr>
     <tr>
@@ -69,8 +68,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lab 01]</b> &nbsp;Pytorch Fundamentals; Neural Networks</td>
       <td></td>
       <td>
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
       </td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
@@ -82,8 +81,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lec 02]</b> &nbsp;Convolutional Neural Networks (CNNs)</td>
       <td><b>Quiz 01</b></td>
       <td>
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
       </td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
@@ -91,8 +90,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lab 02]</b> &nbsp;Convolutional Neural Networks (CNNs)</td>
       <td></td>
       <td>
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
       </td>
     </tr>
     <tr>
@@ -100,8 +99,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lec 03]</b> &nbsp;Word Embeddings</td>
       <td><b>Quiz 02</b></td>
       <td>
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
       </td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
@@ -109,8 +108,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lab 03]</b> &nbsp;Word Embeddings</td>
       <td></td>
       <td>
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
       </td>
     </tr>
     <tr>
@@ -118,8 +117,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lec 04]</b> &nbsp;Recurrent Neural Networks (RNNs)</td>
       <td><b>Quiz 03</b></td>
       <td>
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
       </td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
@@ -131,8 +130,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lab 04]</b> &nbsp;Recurrent Neural Networks (RNNs)</td>
       <td></td>
       <td>
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
       </td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
@@ -140,8 +139,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lec 05]</b> &nbsp;Transformers</td>
       <td><b>Quiz 04</b></td>
       <td>
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
       </td>
     </tr>
     <tr>
@@ -149,8 +148,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lab 05]</b> &nbsp;Transformers</td>
       <td></td>
       <td>
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
       </td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
@@ -158,8 +157,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lec 06]</b> &nbsp;BERT; GPT</td>
       <td><b>Quiz 05</b></td>
       <td>
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
       </td>
     </tr>
     <tr>
@@ -167,8 +166,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lab 06]</b> &nbsp;BERT; GPT</td>
       <td></td>
       <td>
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
       </td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
@@ -187,8 +186,8 @@ This course will showcase various methods in machine learning and deep learning.
       <th scope="row">11-01</th>
       <td class="text-left"><b>[Project]</b> &nbsp;Team Meet-up & Proposal</td>
       <td>
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
       </td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
@@ -200,8 +199,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lec 07]</b> &nbsp;Vision Transformers</td>
       <td><b>Quiz 06</b></td>
       <td>
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
       </td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
@@ -209,8 +208,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lab 07]</b> &nbsp;Vision Transformers</td>
       <td></td>
       <td>
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
       </td>
     </tr>
     <tr>
@@ -218,8 +217,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lec 08]</b> &nbsp;Graph Neural Networks (GNNs)</td>
       <td><b>Quiz 07</b></td>
       <td>
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
       </td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
@@ -231,8 +230,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lab 08]</b> &nbsp;Graph Neural Networks (GNNs)</td>
       <td></td>
       <td>
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
       </td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
@@ -240,8 +239,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lec 09]</b> &nbsp;Meta Learning: Learning to Learn</td>
       <td><b>Quiz 08</b></td>
       <td>
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
       </td>
     </tr>
     <tr>
@@ -249,8 +248,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lab 09]</b> &nbsp;Meta Learning: Learning to Learn</td>
       <td></td>
       <td>
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
       </td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
@@ -258,8 +257,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lec 10]</b> &nbsp;Generative Adversarial Networks (GANs)</td>
       <td><b>Quiz 09</b></td>
       <td>
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
       </td>
     </tr>
     <tr>
@@ -267,8 +266,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lab 10]</b> &nbsp;Generative Adversarial Networks (GANs)</td>
       <td></td>
       <td>
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
       </td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
@@ -276,8 +275,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Project]</b> &nbsp;Project Presentation</td>
       <td><b>Quiz 10</b></td>
       <td>
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
       </td>
     </tr>
     <tr>
