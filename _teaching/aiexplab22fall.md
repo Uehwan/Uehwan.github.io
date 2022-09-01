@@ -60,7 +60,7 @@ This course will showcase various methods in machine learning and deep learning.
       <td></td>
       <td>
         <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <a href="https://docs.google.com/presentation/d/1OK9RSY6LbabCUANfa1elqQO6Y07NdvFri2Oo0cOvMUM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
       </td>
     </tr>
     <tr>
