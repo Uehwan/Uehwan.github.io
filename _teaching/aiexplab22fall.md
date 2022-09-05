@@ -59,7 +59,7 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lec 01]</b> &nbsp;Neural Networks; Pytorch Fundamentals</td>
       <td></td>
       <td>
-        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <a href="https://youtu.be/aQZvt98cgKw" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
         <a href="https://docs.google.com/presentation/d/1OK9RSY6LbabCUANfa1elqQO6Y07NdvFri2Oo0cOvMUM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
       </td>
     </tr>
@@ -68,7 +68,7 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lab 01]</b> &nbsp;Pytorch Fundamentals; Neural Networks</td>
       <td></td>
       <td>
-        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <a href="https://colab.research.google.com/drive/1nQM5Fbladmo_XUTWz8MRyNqsQ1n5N0j8?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lab</a>
         <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
       </td>
     </tr>
