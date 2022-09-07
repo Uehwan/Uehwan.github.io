@@ -26,6 +26,7 @@ This course will showcase various methods in machine learning and deep learning.
 * Deep Learning for Computer Vision @ Stanford [Link](http://cs231n.stanford.edu/)
 * Natural Language Processing with Deep Learning @ Stanford [Link](https://web.stanford.edu/class/cs224n/)
 * Programming for AI @ KAIST [Link](https://mp2893.com/course.html)
+* Introduction to Artificial Intelligence @ KAIST [Link](https://docs.google.com/document/d/1RGH5LqLvPuVt0mMciJWOg6iwQU00YcCTi8ER2JAZgmk/edit)
 * Deep Learning @ University of Amsterdam [Link](https://uvadlc.github.io/)
 * Deep Learning & Applied AI @ Sapienza University [Link](https://erodola.github.io/DLAI-s2-2022/)
 * Learn PyTorch for Deep Learning @ ZTM [Link](https://github.com/mrdbourke/pytorch-deep-learning)
@@ -69,7 +70,7 @@ This course will showcase various methods in machine learning and deep learning.
       <td></td>
       <td>
         <a href="https://colab.research.google.com/drive/1nQM5Fbladmo_XUTWz8MRyNqsQ1n5N0j8?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lab</a>
-        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <a href="https://colab.research.google.com/drive/1vwQfFRnMRwxjIReCUJsmnemuWhSjSqzr?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Sol</a>
       </td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
