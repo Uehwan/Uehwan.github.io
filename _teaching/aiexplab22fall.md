@@ -91,7 +91,7 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lab 02]</b> &nbsp;Convolutional Neural Networks (CNNs)</td>
       <td></td>
       <td>
-        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <a href="https://colab.research.google.com/drive/1X9w5Q6VxFdtxu7KqNjrlFEnr-yEoG7sG?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lab</a>
         <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
       </td>
     </tr>
