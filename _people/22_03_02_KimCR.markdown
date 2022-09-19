@@ -1,0 +1,11 @@
+---
+layout: people
+name: Curie Kim
+role: Research Engineer
+email: curie3170@gist.ac.kr
+img: /assets/img/staff_22_03_02_KimCR.jpeg
+sequence: 2220302
+redirect: https://github.com/curie3170
+category: Staff
+no_detail: true
+---

@@ -1,0 +1,11 @@
+---
+layout: people
+name: Ju-Chan Lee
+role: Research Intern
+email: jclee0109@gist.ac.kr
+img: /assets/img/student_22_04_04_LeeJC.jpg
+sequence: 2220404
+redirect: https://band-action-8e1.notion.site/Juchan-Lee-1d7510dfdc894025ab1b98a709f00a80
+category: Students
+no_detail: true
+---
