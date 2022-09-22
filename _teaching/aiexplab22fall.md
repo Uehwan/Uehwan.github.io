@@ -100,7 +100,7 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lec 03]</b> &nbsp;Word Embeddings</td>
       <td><b>Quiz 02</b></td>
       <td>
-        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <a href="https://youtu.be/FtaHN7f10S0" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
         <a href="https://docs.google.com/presentation/d/1vBU9PIGUJYfqzMocB0cvXUCNGB22hnJ4NpM6hk6zTgQ/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
       </td>
     </tr>
