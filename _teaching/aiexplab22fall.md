@@ -69,8 +69,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lab 01]</b> &nbsp;Pytorch Fundamentals; Neural Networks</td>
       <td></td>
       <td>
-        <a href="https://colab.research.google.com/drive/1nQM5Fbladmo_XUTWz8MRyNqsQ1n5N0j8?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lab</a>
-        <a href="https://colab.research.google.com/drive/1vwQfFRnMRwxjIReCUJsmnemuWhSjSqzr?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Sol</a>
+        <a href="https://colab.research.google.com/drive/1nQM5Fbladmo_XUTWz8MRyNqsQ1n5N0j8?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Questions</a>
+        <a href="https://colab.research.google.com/drive/1vwQfFRnMRwxjIReCUJsmnemuWhSjSqzr?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
       </td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
@@ -91,8 +91,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lab 02]</b> &nbsp;Convolutional Neural Networks (CNNs)</td>
       <td></td>
       <td>
-        <a href="https://colab.research.google.com/drive/1X9w5Q6VxFdtxu7KqNjrlFEnr-yEoG7sG?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lab</a>
-        <a href="https://colab.research.google.com/drive/1M0ykQf2OIwDl-gmPtLeWViEURaQ1IuYW?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Sol</a>
+        <a href="https://colab.research.google.com/drive/1X9w5Q6VxFdtxu7KqNjrlFEnr-yEoG7sG?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Questions</a>
+        <a href="https://colab.research.google.com/drive/1M0ykQf2OIwDl-gmPtLeWViEURaQ1IuYW?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
       </td>
     </tr>
     <tr>
@@ -109,8 +109,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lab 03]</b> &nbsp;Word Embeddings</td>
       <td></td>
       <td>
-        <a href="https://colab.research.google.com/drive/1QFZP_wXsl2k85FArvyoleGKg6VvuCiMt?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lab</a>
-        <a href="https://colab.research.google.com/drive/1pqdipJrGWtTXo6eZsowTOZR6zyiQRS3C?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Sol</a>
+        <a href="https://colab.research.google.com/drive/1QFZP_wXsl2k85FArvyoleGKg6VvuCiMt?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Questions</a>
+        <a href="https://colab.research.google.com/drive/1pqdipJrGWtTXo6eZsowTOZR6zyiQRS3C?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
       </td>
     </tr>
     <tr>
