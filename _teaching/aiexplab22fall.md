@@ -17,6 +17,9 @@ Jae-Won, Bae (jaewonbae@gm.gist.ac.kr) <br/>
 Su-Ji, Jang (sujijang@gm.gist.ac.kr) <br/>
 <br/>
 
+### Notice
+* [**Quiz**] Check your quiz scores [here](https://docs.google.com/spreadsheets/d/10IeoblUo2XZzaxmPa1iKT1kFZcDOIXJ6n8B7nxOPm9I/edit?usp=sharing)
+
 ### Introduction
 This course will showcase various methods in machine learning and deep learning. Throughout the semester, emphasis will be put on practical use cases. Examples of specific methods this course covers includes convolutional neural networks, recurrent neural networks, transformers and generative adversarial networks. Further, we will use Google Colab as our development environment.
 <br/>
@@ -132,7 +135,7 @@ This course will showcase various methods in machine learning and deep learning.
       <td></td>
       <td>
         <a href="https://colab.research.google.com/drive/1I01ZpdMt8seGoUzvsYsdFu9fVsAd2qte?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Questions</a>
-        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+        <a href="https://colab.research.google.com/drive/11X8tYoa3SsVJk6bE0V2wcO5CQE3Zqlfo?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
       </td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
@@ -141,7 +144,7 @@ This course will showcase various methods in machine learning and deep learning.
       <td><b>Quiz 04</b></td>
       <td>
         <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <a href="https://docs.google.com/presentation/d/1AQOcvT9C2DK_FlgxHYOjVkxEiZ3xcCUqwEZJAEuaigI/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
       </td>
     </tr>
     <tr>
