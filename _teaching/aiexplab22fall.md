@@ -140,7 +140,7 @@ This course will showcase various methods in machine learning and deep learning.
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
       <th scope="row">10-06</th>
-      <td class="text-left"><b>[Lec 05]</b> &nbsp;Transformers</td>
+      <td class="text-left"><b>[Lec 05]</b> &nbsp;Autoregressive Models</td>
       <td><b>Quiz 04</b></td>
       <td>
         <a href="https://youtu.be/eu-zrZvZSHs" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
@@ -149,16 +149,16 @@ This course will showcase various methods in machine learning and deep learning.
     </tr>
     <tr>
       <th scope="row">10-11</th>
-      <td class="text-left"><b>[Lab 05]</b> &nbsp;Transformers</td>
+      <td class="text-left"><b>[Lab 05]</b> &nbsp;Autoregressive Models</td>
       <td></td>
       <td>
-        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Questions</a-->
+        <a href="https://colab.research.google.com/drive/1L8zk-h2euLHEy6GHMPu6fIpmUAeaYbrc?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Questions</a>
         <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
       </td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
       <th scope="row">10-13</th>
-      <td class="text-left"><b>[Lec 06]</b> &nbsp;BERT; GPT</td>
+      <td class="text-left"><b>[Lec 06]</b> &nbsp;Transformers and Pretraining</td>
       <td><b>Quiz 05</b></td>
       <td>
         <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
@@ -167,7 +167,7 @@ This course will showcase various methods in machine learning and deep learning.
     </tr>
     <tr>
       <th scope="row">10-18</th>
-      <td class="text-left"><b>[Lab 06]</b> &nbsp;BERT; GPT</td>
+      <td class="text-left"><b>[Lab 06]</b> &nbsp;Transformers and Pretraining</td>
       <td></td>
       <td>
         <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Questions</a-->
