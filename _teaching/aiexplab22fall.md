@@ -161,7 +161,7 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lec 06]</b> &nbsp;Transformers and Pretraining</td>
       <td><b>Quiz 05</b></td>
       <td>
-        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <a href="https://youtu.be/YPA4bLzNdUM" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
         <a href="https://docs.google.com/presentation/d/1RTbXJXE22DzRtNL7yzmaMvatCq54KgbGdCvnDqMVWUg/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
       </td>
     </tr>
