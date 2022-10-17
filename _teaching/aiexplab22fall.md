@@ -19,6 +19,7 @@ Su-Ji, Jang (sujijang@gm.gist.ac.kr) <br/>
 
 ### Notice
 * [**Quiz**] Check your quiz scores [here](https://docs.google.com/spreadsheets/d/10IeoblUo2XZzaxmPa1iKT1kFZcDOIXJ6n8B7nxOPm9I/edit?usp=sharing)
+* [**Schedule**] No lab on Nov. 1st (Fall Festival)
 
 ### Introduction
 This course will showcase various methods in machine learning and deep learning. Throughout the semester, emphasis will be put on practical use cases. Examples of specific methods this course covers includes convolutional neural networks, recurrent neural networks, transformers and generative adversarial networks. Further, we will use Google Colab as our development environment.
@@ -170,7 +171,7 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lab 06]</b> &nbsp;Transformers and Pretraining</td>
       <td></td>
       <td>
-        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Questions</a-->
+        <a href="https://colab.research.google.com/drive/1lCI-Z-l85NJf68pMfF94EIQDkTjtEdMT?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Questions</a>
         <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
       </td>
     </tr>
@@ -188,16 +189,16 @@ This course will showcase various methods in machine learning and deep learning.
     </tr>
     <tr>
       <th scope="row">11-01</th>
+      <td colspan="3">No Lecture (Fall Festival)</td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">11-03</th>
       <td class="text-left"><b>[Project]</b> &nbsp;Team Meet-up & Proposal</td>
       <td></td>
       <td>
         <a href="https://docs.google.com/document/d/1Lp6Md8KaKkhFz6f30LzNFZet8xp9r6muzRhb3BDSpRg/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Template</a>
         <!--a href="https://drive.google.com/drive/folders/1RS8-tlGrvDl8JxO4p8HMLUaNGPdc26qJ?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Upload</a-->
       </td>
-    </tr>
-    <tr style="border-bottom: 1.5px solid lightgrey;">
-      <th scope="row">11-03</th>
-      <td colspan="3">No Lecture (Fall Festival)</td>
     </tr>
     <tr>
       <th scope="row">11-08</th>
