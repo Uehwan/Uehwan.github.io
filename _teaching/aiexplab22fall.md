@@ -205,7 +205,7 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lec 07]</b> &nbsp;Vision Transformers</td>
       <td><b>Quiz 06</b></td>
       <td>
-        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <a href="https://youtu.be/9Own9vJbDt8" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
         <a href="https://docs.google.com/presentation/d/11WxFcxCadumjJpWkLOw1ZaLp5wdAR38IyJTQn8Clx_M/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
       </td>
     </tr>
@@ -214,7 +214,7 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lab 07]</b> &nbsp;Vision Transformers</td>
       <td></td>
       <td>
-        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Questions</a-->
+        <a href="https://colab.research.google.com/drive/1gT2qbod4K32wzE4vAeLqCSSUoCcsjS6V?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Questions</a>
         <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
       </td>
     </tr>
