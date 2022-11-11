@@ -215,7 +215,7 @@ This course will showcase various methods in machine learning and deep learning.
       <td></td>
       <td>
         <a href="https://colab.research.google.com/drive/1gT2qbod4K32wzE4vAeLqCSSUoCcsjS6V?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Questions</a>
-        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+        <a href="https://colab.research.google.com/drive/1ZtyGoX3pjutVmINq3AIwQ5uVO8IIIg7K?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
       </td>
     </tr>
     <tr>
