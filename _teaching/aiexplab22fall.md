@@ -236,7 +236,7 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lab 08]</b> &nbsp;Graph Neural Networks (GNNs)</td>
       <td></td>
       <td>
-        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Questions</a-->
+        <a href="https://colab.research.google.com/drive/14ZxfqMDzVL7VmlYPEn6ZzM4z4i1-o4QV?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Questions</a>
         <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
       </td>
     </tr>
