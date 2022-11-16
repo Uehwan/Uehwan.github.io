@@ -223,7 +223,7 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lec 08]</b> &nbsp;Graph Neural Networks (GNNs)</td>
       <td><b>Quiz 07</b></td>
       <td>
-        <a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
+        <a href="https://youtu.be/Psa7uepq7BQ" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
         <a href="https://docs.google.com/presentation/d/1kNInQWyPG380WzfCn5AIPdSf9imLNlUUBtMLOx81R6E/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
       </td>
     </tr>
