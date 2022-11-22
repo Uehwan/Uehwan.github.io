@@ -237,7 +237,7 @@ This course will showcase various methods in machine learning and deep learning.
       <td></td>
       <td>
         <a href="https://colab.research.google.com/drive/14ZxfqMDzVL7VmlYPEn6ZzM4z4i1-o4QV?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Questions</a>
-        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+        <a href="https://colab.research.google.com/drive/1Gbz4eUU8P3lJXuIpOORUeJoS2_NF840e?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
       </td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
@@ -246,7 +246,7 @@ This course will showcase various methods in machine learning and deep learning.
       <td><b>Quiz 08</b></td>
       <td>
         <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <a href="https://docs.google.com/presentation/d/1IW02YKOmW9453uoDCxGOiD7LWyXonlhaJJ6m4HBULVY/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
       </td>
     </tr>
     <tr>

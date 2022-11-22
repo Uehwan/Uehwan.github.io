@@ -45,7 +45,14 @@ Assistant Professor <br/>
 
 <br />
 ## Invited Talks
-AI for Intelligent Systems to Make Human Lives Better
+
+**Layout-Free Text-Entry Methods for a Metaverse**
+- Seminar at information Technology and Industry Prospects (iTIP 2022), Sep. 19, 2022.
+
+**Geometric and Semantic Image Understanding for Autonomous Vehicles**
+- Seminar at GIST-ETRI AI Workshop, Jul. 27, 2022,
+
+**AI for Intelligent Systems to Make Human Lives Better**
 - Seminar at Institute of Control, Robotics and Systems (ICROS), Jun. 23, 2022.
 - Seminar at Cho Chun Shik Graduate School of Green Transportation, KAIST, Mar. 3, 2022.
 - Seminar at Gwangju and Jeonnam Federation, KOFST, Dec. 22, 2021.
