@@ -281,7 +281,7 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Project]</b> &nbsp;Project Presentation</td>
       <td><b>Quiz 10</b></td>
       <td>
-        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <a href="https://docs.google.com/spreadsheets/d/18GOHp4pr92Tfpoutta1LWURryymER5SPNrRR1_bFWR0/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Upload</a>
         <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
       </td>
     </tr>
