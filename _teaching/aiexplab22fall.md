@@ -245,7 +245,7 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lec 09]</b> &nbsp;Meta Learning: Learning to Learn</td>
       <td><b>Quiz 08</b></td>
       <td>
-        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <a href="https://youtu.be/hP_BOb68VTI" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
         <a href="https://docs.google.com/presentation/d/1IW02YKOmW9453uoDCxGOiD7LWyXonlhaJJ6m4HBULVY/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
       </td>
     </tr>
@@ -254,7 +254,7 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lab 09]</b> &nbsp;Meta Learning: Learning to Learn</td>
       <td></td>
       <td>
-        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Questions</a-->
+        <a href="https://colab.research.google.com/drive/1QwAV6l-ASGiQyVuhkO9kV9U_eE3k3L0R?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Questions</a>
         <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
       </td>
     </tr>
