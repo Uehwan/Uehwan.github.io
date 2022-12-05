@@ -272,7 +272,7 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lab 10]</b> &nbsp;Generative Adversarial Networks (GANs)</td>
       <td></td>
       <td>
-        <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Questions</a-->
+        <a href="https://colab.research.google.com/drive/1E1FPNw895lnymjSMbvojnVaoeGSB0rgQ?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Questions</a>
         <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
       </td>
     </tr>
