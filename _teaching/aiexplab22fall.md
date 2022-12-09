@@ -19,6 +19,7 @@ Su-Ji, Jang (sujijang@gm.gist.ac.kr) <br/>
 
 ### Notice
 * [**Quiz**] Check your quiz scores [here](https://docs.google.com/spreadsheets/d/10IeoblUo2XZzaxmPa1iKT1kFZcDOIXJ6n8B7nxOPm9I/edit?usp=sharing)
+* [**Project**] Check your project scores [here](https://docs.google.com/spreadsheets/d/140n1NAdzIScP-4A4rAJtC8kwjaMBpRZ6ezr_YwMJj6s/edit?usp=sharing)
 * [**Schedule**] No lab on Nov. 1st (Fall Festival)
 
 ### Introduction
