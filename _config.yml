@@ -106,6 +106,8 @@ news_limit: 5
 # -----------------------------------------------------------------------------
 # Jekyll settings
 # -----------------------------------------------------------------------------
+- name: Setup Ruby, JRuby and TruffleRuby
+  uses: ruby/setup-ruby@v1.127.0
 
 # Markdown and syntax highlight
 markdown: kramdown
