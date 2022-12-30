@@ -31,7 +31,7 @@ If you are thinking of proceeding to graduate school, we recommend that you appl
   - ###### In-depth prior research experience is not required for students applying for the Master's program.
   - ###### However, meaningful prior research experience is a powerful advantage.
   - ###### This is the recruitment process: 1) reviewing application documents and 2) interviews with coding tests.
-  - ###### [How to apply] Please email me your answers to the questions below and your CV.
+  - ###### [How to apply] Please email me your answers to the questions below and your CV and transcripts.
     - ###### Reasons for entering the Master's program (Korean or English)
     - ###### Your career plan after the Master's program (Korean or English)
     - ###### Reasons for applying to our lab (Korean or English)

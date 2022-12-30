@@ -53,6 +53,7 @@ Assistant Professor <br/>
 - Seminar at GIST-ETRI AI Workshop, Jul. 27, 2022.
 
 **AI for Intelligent Systems to Make Human Lives Better**
+- Seminar at Hankuk Academy of Foreign Studies (HAFS), Dec. 14, 2022.
 - Seminar at Institute of Control, Robotics and Systems (ICROS), Jun. 23, 2022.
 - Seminar at Cho Chun Shik Graduate School of Green Transportation, KAIST, Mar. 3, 2022.
 - Seminar at Gwangju and Jeonnam Federation, KOFST, Dec. 22, 2021.
