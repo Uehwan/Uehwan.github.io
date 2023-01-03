@@ -1,0 +1,11 @@
+---
+layout: people
+name: Jun-Bo Kwon
+role: Research Intern
+email: kyle000603@gm.gist.ac.kr
+img: /assets/img/student_23_01_04_KownJB.jpeg
+sequence: 2230104
+redirect:
+category: Students
+no_detail: true
+---

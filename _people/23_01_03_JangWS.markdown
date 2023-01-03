@@ -1,0 +1,11 @@
+---
+layout: people
+name: Won-Shik Jang
+role: Research Intern
+email: wonsicjang@gm.gist.ac.kr
+img: /assets/img/student_23_01_03_JangWS.jpeg
+sequence: 2230103
+redirect:
+category: Students
+no_detail: true
+---
