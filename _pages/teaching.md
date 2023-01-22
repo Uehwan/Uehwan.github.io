@@ -16,7 +16,7 @@ order: 3
                 <h4 class="card-title" style="margin-bottom: 0.15em;">Data Structures</h4>
                 <p class="card-text" style="margin-bottom: 0.7em; font-size: medium">EC2202</p>
                 <p style="margin-bottom: 0.7em; font-weight: lighter">Fundamental data structures; concepts and hands-on experiences.</p>
-                <a href="./datastruct22sp" class="card-link"><b>2022 Spring</b></a>
+                <a href="./datastruct23sp"><b>2023 Spring</b></a> / <a href="./datastruct22sp"><b>2022 Spring</b></a>
             </div>
         </div>
         <div class="card" style="width: 95%; margin-bottom: 2em;">
@@ -25,7 +25,7 @@ order: 3
                 <h4 class="card-title" style="margin-bottom: 0.15em;">AI Experience Laboratory</h4>
                 <p class="card-text" style="margin-bottom: 0.7em; font-size: medium">AI4003 / AI5214 / EC5214</p>
                 <p style="margin-bottom: 0.7em; font-weight: lighter">Hands-on practices on machine learning and deep learning.</p>
-                <a href="./aiexplab22fall" class="card-link"><b>2022 Fall</b></a>
+                <a href="./aiexplab22fall"><b>2022 Fall</b></a>
             </div>
         </div>
     </div>
