@@ -366,7 +366,7 @@ This course deals with the fundamentals of data structures; the very foundation 
       <td colspan="3">No Lecture (Final Exam Preparation)</td>
     </tr>
     <tr>
-      <th scope="row">06-14</th>
+      <th scope="row">06-13</th>
       <td>Final Exam</td>
       <td>
         <!--a href="https://docs.google.com/document/d/1rcwwmXmnqJX0Jbk5dm_56BgJENnamLWC8nrL8nEdK34/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
@@ -379,7 +379,7 @@ This course deals with the fundamentals of data structures; the very foundation 
       </td>
     </tr>
     <tr>
-      <th scope="row">06-16</th>
+      <th scope="row">06-15</th>
       <td colspan="3">No Lecture (Final Exam Period)</td>
     </tr>
   </tbody>
