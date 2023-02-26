@@ -5,7 +5,7 @@ description: Spring 2023
 ---
 
 **Schedule**: Tue/Thu 1:00pm-2:30pm<br/>
-**Location**: GIST EECS C2, Haerim Hall ([Zoom Online](https://us06web.zoom.us/j/87925937140?pwd=Qm1XTmU4MENybXVEeWJ5eVh2Z0dKdz09)) / [Class Colab](https://colab.research.google.com/drive/121f0BPgTaO3Nk_ImwHtcqgpU6ZInXLdv?usp=sharing)<br/>
+**Location**: GIST College Building C (N6), Room 104 ([Zoom Online](https://us06web.zoom.us/j/87925937140?pwd=Qm1XTmU4MENybXVEeWJ5eVh2Z0dKdz09)) / [Class Colab](https://colab.research.google.com/drive/121f0BPgTaO3Nk_ImwHtcqgpU6ZInXLdv?usp=sharing)<br/>
 
 
 **Instructor**: Ue-Hwan, Kim (uehwan@gist.ac.kr)<br/>
@@ -13,6 +13,9 @@ description: Spring 2023
 **Office Hour**: Thu 3pm-4pm or by appointment
 
 **TAs**:<br/>
+Song-Don, Lee (songdon11@gm.gist.ac.kr) <br/>
+Eun-Gyeol, Lee (doryeon514@gm.gist.ac.kr) <br/>
+Jae-Sun, Lee (rejaealsun@gm.gist.ac.kr) <br/>
 <br/>
 
 ### Notice
@@ -40,7 +43,8 @@ This course deals with the fundamentals of data structures; the very foundation 
       <th scope="row">02-28</th>
       <td>Introduction; Python Primer</td>
       <td>
-        <!--a href="https://youtu.be/K1wwNImSDAw" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a--> <!--a href="https://docs.google.com/presentation/d/1_nuOhfVCSSdcMS-wBWcivS-SGECf1JKBZx-xbSnM0ns/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <!--a href="https://youtu.be/K1wwNImSDAw" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <a href="https://docs.google.com/presentation/d/1_nuOhfVCSSdcMS-wBWcivS-SGECf1JKBZx-xbSnM0ns/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
         <!--a href="https://colab.research.google.com/drive/1AMq6fl3TTrTpZYB2VZhKDF0ibQliDQzY?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
       </td>
       <td><!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Homework</a--></td>
