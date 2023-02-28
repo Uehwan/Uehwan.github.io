@@ -43,9 +43,9 @@ This course deals with the fundamentals of data structures; the very foundation 
       <th scope="row">02-28</th>
       <td>Introduction; Python Primer</td>
       <td>
-        <!--a href="https://youtu.be/K1wwNImSDAw" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <a href="https://youtu.be/rWTv_dBuHcQ" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
         <a href="https://docs.google.com/presentation/d/1_nuOhfVCSSdcMS-wBWcivS-SGECf1JKBZx-xbSnM0ns/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
-        <!--a href="https://colab.research.google.com/drive/1AMq6fl3TTrTpZYB2VZhKDF0ibQliDQzY?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
+        <a href="https://colab.research.google.com/drive/1AMq6fl3TTrTpZYB2VZhKDF0ibQliDQzY?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a>
       </td>
       <td><!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Homework</a--></td>
     </tr>
