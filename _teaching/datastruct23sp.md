@@ -19,6 +19,7 @@ Jae-Sun, Lee (rejaealsun@gm.gist.ac.kr) <br/>
 <br/>
 
 ### Notice
+- We will have an online lecture on **March 2**
 <br/>
 <br/>
 
