@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Open Positions (ENG)
-date:   2022-11-28
+date:   2023-03-01
 description: Information for Joining ACSL
 ---
 
@@ -10,7 +10,7 @@ This article covers information that will help you join our lab. If you are inte
 ---
 
 ## Number of Openings
-Our laboratory recruits around 3 new members every year through [AI graduate school](https://ai.gist.ac.kr/ai/) and [future automobile manpower training degree course](http://yonseiscd.web4in1.com/). We recruit students for Ph.D./Integrated/Master's programs. However, there are not many openings for the Master's program, and only those who are expected to achieve meaningful research outcomes during the Master's program are recruited. This is to let M.S. students gain meaningful research experience in our laboratory and it is also helpful for their careers.
+Our laboratory recruits around 3 new members every year through [AI graduate school](https://ai.gist.ac.kr/ai/), [future automobile manpower training degree course](http://yonseiscd.web4in1.com/) and [intelligent motor track](https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-gist%EC%99%80-%EC%B1%84%EC%9A%A9%EC%97%B0%EA%B3%84-%EA%B3%BC%EC%A0%95-%ED%98%91%EB%A0%A5-%EC%A7%80%EB%8A%A5%ED%98%95-%EB%AA%A8%ED%84%B0-%EA%B0%9C). We recruit students for Ph.D./Integrated/Master's programs. However, there are not many openings for the Master's program, and only those who are expected to achieve meaningful research outcomes during the Master's program are recruited. This is to let M.S. students gain meaningful research experience in our laboratory and it is also helpful for their careers.
 
 *For research interns, the number of openings is flexible (see below).<br/>
 *For postdoctoral researcher positions, please contact me with your CV.<br/>

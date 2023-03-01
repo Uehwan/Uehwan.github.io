@@ -18,8 +18,8 @@ Su-Ji, Jang (sujijang@gm.gist.ac.kr) <br/>
 <br/>
 
 ### Notice
-* [**Quiz**] Check your quiz scores [here](https://docs.google.com/spreadsheets/d/10IeoblUo2XZzaxmPa1iKT1kFZcDOIXJ6n8B7nxOPm9I/edit?usp=sharing)
-* [**Project**] Check your project scores [here](https://docs.google.com/spreadsheets/d/140n1NAdzIScP-4A4rAJtC8kwjaMBpRZ6ezr_YwMJj6s/edit?usp=sharing)
+* [**Quiz**] Check your quiz scores [here]()
+* [**Project**] Check your project scores [here]()
 * [**Schedule**] No lab on Nov. 1st (Fall Festival)
 
 ### Introduction
@@ -198,7 +198,7 @@ This course will showcase various methods in machine learning and deep learning.
       <td></td>
       <td>
         <a href="https://docs.google.com/document/d/1Lp6Md8KaKkhFz6f30LzNFZet8xp9r6muzRhb3BDSpRg/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Template</a>
-        <a href="https://drive.google.com/drive/folders/1RS8-tlGrvDl8JxO4p8HMLUaNGPdc26qJ?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Upload</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Upload</a>
       </td>
     </tr>
     <tr>
@@ -282,7 +282,7 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Project]</b> &nbsp;Project Presentation</td>
       <td><b>Quiz 10</b></td>
       <td>
-        <a href="https://docs.google.com/spreadsheets/d/18GOHp4pr92Tfpoutta1LWURryymER5SPNrRR1_bFWR0/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Upload</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Upload</a>
         <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
       </td>
     </tr>
