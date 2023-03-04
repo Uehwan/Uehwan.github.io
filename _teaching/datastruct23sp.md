@@ -66,9 +66,10 @@ This course deals with the fundamentals of data structures; the very foundation 
     </tr>
     <tr>
       <th scope="row">03-07</th>
-      <td>Recursion</td>
+      <td>Python Primer (cont'd)</td>
       <td>
-        <!--a href="https://youtu.be/zgdbPrBmg5A" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a--> <!--a href="https://docs.google.com/presentation/d/1qwWXB62idf3332JFdYpbSoRAb8rkhKBZmkOKQDqmatM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <!--a href="https://youtu.be/zgdbPrBmg5A" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <a href="https://docs.google.com/presentation/d/1qb9NbYH4cQoKhvGvUg39nhaw-tiNghu-19RNDlmEgKw/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
         <!--a href="https://colab.research.google.com/drive/1wGuKqcNkXbm1QBZanpWmaxUMK_vMglDB?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
       </td>
       <td>
@@ -78,12 +79,30 @@ This course deals with the fundamentals of data structures; the very foundation 
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
       <th scope="row">03-09</th>
-      <td>Object Oriented Programming</td>
-      <td><!--a href="https://youtu.be/9HmhUqXmIZ4" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a--> <!--a href="https://docs.google.com/presentation/d/13xe0XM2ijugFhMBGam6XJqpR-qC1UpVZp2pxYS3MAG4/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a--> <!--a href="https://colab.research.google.com/drive/1Rxww68YTTAG9MAUoakJ-ACkykvKH4Sn3?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a--></td>
-      <td><!--a href="https://colab.research.google.com/drive/1YDG9BP5Qnqocgjs4AQu_iY__f2KPVloe?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a--> <!--a href="https://colab.research.google.com/drive/1RGeAqdTJMDgsGlOxbDZX6eI-pY7iKJbJ?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a--></td>
+      <td>Recursion</td>
+      <td>
+        <!--a href="https://youtu.be/zgdbPrBmg5A" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a--> <!--a href="https://docs.google.com/presentation/d/1qwWXB62idf3332JFdYpbSoRAb8rkhKBZmkOKQDqmatM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <!--a href="https://colab.research.google.com/drive/1wGuKqcNkXbm1QBZanpWmaxUMK_vMglDB?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
+      </td>
+      <td>
+        <!--a href="https://drive.google.com/file/d/1HUBCWa1AEXA-ZaQUIvjSUFUmokA29UjB/view?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">&nbsp;Recitation&nbsp;</a-->
+        <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+      </td>
     </tr>
     <tr>
       <th scope="row">03-14</th>
+      <td>Object Oriented Programming</td>
+      <td>
+        <!--a href="https://youtu.be/9HmhUqXmIZ4" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a--> <!--a href="https://docs.google.com/presentation/d/13xe0XM2ijugFhMBGam6XJqpR-qC1UpVZp2pxYS3MAG4/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <!--a href="https://colab.research.google.com/drive/1Rxww68YTTAG9MAUoakJ-ACkykvKH4Sn3?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
+      </td>
+      <td>
+        <!--a href="https://colab.research.google.com/drive/1YDG9BP5Qnqocgjs4AQu_iY__f2KPVloe?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
+        <!--a href="https://colab.research.google.com/drive/1RGeAqdTJMDgsGlOxbDZX6eI-pY7iKJbJ?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+      </td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">03-16</th>
       <td>Algorithms</td>
       <td>
         <!--a href="https://youtu.be/8dKNStuJKwk" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a--> <!--a href="https://docs.google.com/presentation/d/195jGjbkrAM2--ZzvgeM7QMLu8pGMDXWuda0G_3lHLCQ/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
@@ -93,8 +112,8 @@ This course deals with the fundamentals of data structures; the very foundation 
         <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
       </td>
     </tr>
-    <tr style="border-bottom: 1.5px solid lightgrey;">
-      <th scope="row">03-16</th>
+    <tr>
+      <th scope="row">03-21</th>
       <td>Abstract Data Types</td>
       <td>
         <!--a href="https://youtu.be/vfj-PCNiwuA" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a--> <!--a href="https://docs.google.com/presentation/d/1ybR2b2pv6jt8tCTz86Jx0hqytQ9YU8lquXWTqhVljpM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
@@ -104,8 +123,8 @@ This course deals with the fundamentals of data structures; the very foundation 
         <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
       </td>
     </tr>
-    <tr>
-      <th scope="row">03-21</th>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">03-23</th>
       <td>Arrays and Strings</td>
       <td>
         <!--a href="https://youtu.be/XDBlCoztXRg" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
@@ -116,8 +135,8 @@ This course deals with the fundamentals of data structures; the very foundation 
         <!--a href="https://colab.research.google.com/drive/1EasIwcNPzGu9oN83XkbfhN8v5hw-ocFY?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
       </td>
     </tr>
-    <tr style="border-bottom: 1.5px solid lightgrey;">
-      <th scope="row">03-23</th>
+    <tr>
+      <th scope="row">03-28</th>
       <td>Linked Lists</td>
       <td>
         <!--a href="https://youtu.be/-aKjUSBBWhY" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
@@ -126,8 +145,8 @@ This course deals with the fundamentals of data structures; the very foundation 
       </td>
       <td><!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a--></td>
     </tr>
-    <tr>
-      <th scope="row">03-28</th>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">03-30</th>
       <td>Stacks</td>
       <td>
         <!--a href="https://youtu.be/riwHEOX2wlY" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
@@ -139,8 +158,8 @@ This course deals with the fundamentals of data structures; the very foundation 
         <!--a href="https://colab.research.google.com/drive/1XIsNG2av85ooGmvPjWSx_XTkkoqKYxcv?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
       </td>
     </tr>
-    <tr style="border-bottom: 1.5px solid lightgrey;">
-      <th scope="row">03-30</th>
+    <tr>
+      <th scope="row">04-04</th>
       <td>Queues</td>
       <td>
         <!--a href="https://youtu.be/N3mRBDInw88" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
@@ -151,8 +170,8 @@ This course deals with the fundamentals of data structures; the very foundation 
         <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
       </td>
     </tr>
-    <tr>
-      <th scope="row">04-04</th>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">04-06</th>
       <td>Binary Search</td>
       <td>
         <!--a href="https://youtu.be/L_-_yO_lQqE" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
@@ -164,8 +183,8 @@ This course deals with the fundamentals of data structures; the very foundation 
         <!--a href="https://colab.research.google.com/drive/1lGUQxlTXZXzKCMBaO1h-q-o0MZZOTW8E?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
       </td>
     </tr>
-    <tr style="border-bottom: 1.5px solid lightgrey;">
-      <th scope="row">04-06</th>
+    <tr>
+      <th scope="row">04-11</th>
       <td>Sorting</td>
       <td>
         <!--a href="https://youtu.be/f7hnSFe4qXk" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
@@ -176,8 +195,8 @@ This course deals with the fundamentals of data structures; the very foundation 
         <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
       </td>
     </tr>
-    <tr>
-      <th scope="row">04-11</th>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">04-13</th>
       <td>Midterm Review</td>
       <td>
         <!--a href="https://youtu.be/o8dXKCL00Dc" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
@@ -187,10 +206,6 @@ This course deals with the fundamentals of data structures; the very foundation 
       <td>
         <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
       </td>
-    </tr>
-    <tr style="border-bottom: 1.5px solid lightgrey;">
-      <th scope="row">04-13</th>
-      <td colspan="3">No Lecture (Midterm Preparation)</td>
     </tr>
     <tr>
       <th scope="row">04-18</th>
