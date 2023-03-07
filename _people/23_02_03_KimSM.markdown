@@ -1,0 +1,11 @@
+---
+layout: people
+name: Seung-Min Kim
+role: Research Intern
+email: seungmin0710@gm.gist.ac.kr
+img: /assets/img/student_23_02_03_KimSM.png
+sequence: 2230203
+redirect:
+category: Students
+no_detail: true
+---

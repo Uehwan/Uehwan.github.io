@@ -68,9 +68,9 @@ This course deals with the fundamentals of data structures; the very foundation 
       <th scope="row">03-07</th>
       <td>Python Primer (cont'd)</td>
       <td>
-        <!--a href="https://youtu.be/zgdbPrBmg5A" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <a href="https://youtu.be/3VB-Y7IRO0c" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
         <a href="https://docs.google.com/presentation/d/1qb9NbYH4cQoKhvGvUg39nhaw-tiNghu-19RNDlmEgKw/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
-        <!--a href="https://colab.research.google.com/drive/1wGuKqcNkXbm1QBZanpWmaxUMK_vMglDB?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
+        <a href="https://colab.research.google.com/drive/1S9OYcv8v-KU1w1RI_t7fEb78EGjrQ3Aw?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a>
       </td>
       <td>
         <a href="https://drive.google.com/file/d/1HUBCWa1AEXA-ZaQUIvjSUFUmokA29UjB/view?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">&nbsp;Recitation&nbsp;</a>
