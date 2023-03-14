@@ -21,6 +21,7 @@ Jae-Sun, Lee (rejaealsun@gm.gist.ac.kr) <br/>
 ### Notice
 - We will have online lectures from **March 2** :)
 - *Recitation* starts from **March 7**!
+  - Time schedule changed: **9 p.m. - 10 p.m.**
 <br/>
 <br/>
 
@@ -94,9 +95,9 @@ This course deals with the fundamentals of data structures; the very foundation 
       <th scope="row">03-14</th>
       <td>Object Oriented Programming</td>
       <td>
-        <!--a href="https://youtu.be/9HmhUqXmIZ4" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <a href="https://youtu.be/DHlgO48lALc" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
         <a href="https://docs.google.com/presentation/d/13xe0XM2ijugFhMBGam6XJqpR-qC1UpVZp2pxYS3MAG4/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
-        <!--a href="https://colab.research.google.com/drive/1Rxww68YTTAG9MAUoakJ-ACkykvKH4Sn3?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
+        <a href="https://colab.research.google.com/drive/1Rxww68YTTAG9MAUoakJ-ACkykvKH4Sn3?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a>
       </td>
       <td>
         <a href="https://colab.research.google.com/drive/1yRGgWWcY9Utq8t3-ibMwQASl3ypHN01e?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">&nbsp;Recitation&nbsp;</a>
