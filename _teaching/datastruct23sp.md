@@ -22,6 +22,7 @@ Jae-Sun, Lee (rejaealsun@gm.gist.ac.kr) <br/>
 - We will have online lectures from **March 2** :)
 - *Recitation* starts from **March 7**!
   - Time schedule changed: **9 p.m. - 10 p.m.**
+  - Open the recitation Colab then you'll see the link to the recording (from March 14)!
 <br/>
 <br/>
 
@@ -101,7 +102,7 @@ This course deals with the fundamentals of data structures; the very foundation 
       </td>
       <td>
         <a href="https://colab.research.google.com/drive/1yRGgWWcY9Utq8t3-ibMwQASl3ypHN01e?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">&nbsp;Recitation&nbsp;</a>
-        <!--a href="https://colab.research.google.com/drive/1mbe1BJQ3Q5cI8HNZITG5uRA4AboxEJL-?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+        <a href="https://colab.research.google.com/drive/1sGmK9j0OmCvibpfxgLKwzbC7YlQUxXrm?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
       </td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
@@ -109,7 +110,7 @@ This course deals with the fundamentals of data structures; the very foundation 
       <td>Algorithms</td>
       <td>
         <!--a href="https://youtu.be/8dKNStuJKwk" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="https://docs.google.com/presentation/d/195jGjbkrAM2--ZzvgeM7QMLu8pGMDXWuda0G_3lHLCQ/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <a href="https://docs.google.com/presentation/d/195jGjbkrAM2--ZzvgeM7QMLu8pGMDXWuda0G_3lHLCQ/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
         <!--a href="https://colab.research.google.com/drive/1TnR-_N89Snk4PdIrc5zvw-9yuyR7Ybea?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
       </td>
       <td>
