@@ -109,9 +109,9 @@ This course deals with the fundamentals of data structures; the very foundation 
       <th scope="row">03-16</th>
       <td>Algorithms</td>
       <td>
-        <!--a href="https://youtu.be/8dKNStuJKwk" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <a href="https://youtu.be/Dlkm_96Kc-Y" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
         <a href="https://docs.google.com/presentation/d/195jGjbkrAM2--ZzvgeM7QMLu8pGMDXWuda0G_3lHLCQ/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
-        <!--a href="https://colab.research.google.com/drive/1TnR-_N89Snk4PdIrc5zvw-9yuyR7Ybea?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
+        <a href="https://colab.research.google.com/drive/1TnR-_N89Snk4PdIrc5zvw-9yuyR7Ybea?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a>
       </td>
       <td>
         <!--a href="https://colab.research.google.com/drive/1YDG9BP5Qnqocgjs4AQu_iY__f2KPVloe?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
