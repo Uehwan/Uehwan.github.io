@@ -175,11 +175,11 @@ This course deals with the fundamentals of data structures; the very foundation 
       <td>Queues</td>
       <td>
         <!--a href="https://youtu.be/N3mRBDInw88" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="https://docs.google.com/presentation/d/1P1TKmDla9YPMtvYyJo8nLyUtINL-OxqMJTgwJhWFbDM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <a href="https://docs.google.com/presentation/d/1P1TKmDla9YPMtvYyJo8nLyUtINL-OxqMJTgwJhWFbDM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
         <!--a href="https://colab.research.google.com/drive/15mWwXDoii1U__PqkeB9BNezL65b3G-m_?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
       </td>
       <td>
-        <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
+        <a href="https://colab.research.google.com/drive/1oC9gg6MycvRkNesYV13TWy54olK-zxZL?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">&nbsp;Recitation&nbsp;</a>
       </td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
