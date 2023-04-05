@@ -23,6 +23,8 @@ Jae-Sun, Lee (rejaealsun@gm.gist.ac.kr) <br/>
 - *Recitation* starts from **March 7**!
   - Time schedule changed: **9 p.m. - 10 p.m.**
   - Open the recitation Colab then you'll see the link to the recording (from March 14)!
+- [**Midterm**] Date: Apr. 18, 1pm-3pm / Location: GIST College Building C (N6),  Room 104 & 109
+  - Take the seat assigned (check your seat position [here](https://docs.google.com/spreadsheets/d/1vAXJuIM9KUCFs9JtaEWXDIPwBE4c2EoHh4Cyfv9MPlQ/edit?usp=sharing))
 <br/>
 <br/>
 
@@ -167,19 +169,20 @@ This course deals with the fundamentals of data structures; the very foundation 
       </td>
       <td>
         <a href="https://colab.research.google.com/drive/1Z0_2u5ix1J7s86kH26wJuhDkkcwIw6ed?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a>
-        <!--a href="https://colab.research.google.com/drive/1XIsNG2av85ooGmvPjWSx_XTkkoqKYxcv?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+        <a href="https://colab.research.google.com/drive/1XIsNG2av85ooGmvPjWSx_XTkkoqKYxcv?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
       </td>
     </tr>
     <tr>
       <th scope="row">04-04</th>
       <td>Queues</td>
       <td>
-        <!--a href="https://youtu.be/N3mRBDInw88" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <a href="https://youtu.be/Jegu5U9qyGo" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
         <a href="https://docs.google.com/presentation/d/1P1TKmDla9YPMtvYyJo8nLyUtINL-OxqMJTgwJhWFbDM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
-        <!--a href="https://colab.research.google.com/drive/15mWwXDoii1U__PqkeB9BNezL65b3G-m_?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
+        <a href="https://colab.research.google.com/drive/15mWwXDoii1U__PqkeB9BNezL65b3G-m_?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a>
       </td>
       <td>
         <a href="https://colab.research.google.com/drive/1oC9gg6MycvRkNesYV13TWy54olK-zxZL?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">&nbsp;Recitation&nbsp;</a>
+        <a href="https://colab.research.google.com/drive/1Zhuhc_VwU0VqXOEYVWSP2XcHj1XJLKG6?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
       </td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
@@ -187,11 +190,11 @@ This course deals with the fundamentals of data structures; the very foundation 
       <td>Binary Search</td>
       <td>
         <!--a href="https://youtu.be/L_-_yO_lQqE" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="https://docs.google.com/presentation/d/1hYfPdLtV2iYj5-vElHoCST13NQB950T6cnU8b7Cftsg/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <a href="https://docs.google.com/presentation/d/1hYfPdLtV2iYj5-vElHoCST13NQB950T6cnU8b7Cftsg/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
         <!--a href="https://colab.research.google.com/drive/124w8qUn9aBRAGFzn-AW9MSEMrMrUugyd?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
       </td>
       <td>
-        <!--a href="https://colab.research.google.com/drive/1rWj_XlAvtdDJY9xzwBg_fg5jWoU84a8D?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
+        <a href="https://colab.research.google.com/drive/1rWj_XlAvtdDJY9xzwBg_fg5jWoU84a8D?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a>
         <!--a href="https://colab.research.google.com/drive/1lGUQxlTXZXzKCMBaO1h-q-o0MZZOTW8E?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
       </td>
     </tr>
