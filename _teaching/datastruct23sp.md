@@ -25,6 +25,7 @@ Jae-Sun, Lee (rejaealsun@gm.gist.ac.kr) <br/>
   - Open the recitation Colab then you'll see the link to the recording (from March 14)!
 - [**Midterm**] Date: Apr. 18, 1pm-3pm / Location: GIST College Building C (N6),  Room 104 & 109
   - Take the seat assigned (check your seat position [here](https://docs.google.com/spreadsheets/d/1vAXJuIM9KUCFs9JtaEWXDIPwBE4c2EoHh4Cyfv9MPlQ/edit?usp=sharing))
+  - Bring your student ID card
 <br/>
 <br/>
 
@@ -189,9 +190,9 @@ This course deals with the fundamentals of data structures; the very foundation 
       <th scope="row">04-06</th>
       <td>Binary Search</td>
       <td>
-        <!--a href="https://youtu.be/L_-_yO_lQqE" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <a href="https://youtu.be/-b3ZbLb4G5w" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
         <a href="https://docs.google.com/presentation/d/1hYfPdLtV2iYj5-vElHoCST13NQB950T6cnU8b7Cftsg/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
-        <!--a href="https://colab.research.google.com/drive/124w8qUn9aBRAGFzn-AW9MSEMrMrUugyd?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
+        <a href="https://colab.research.google.com/drive/124w8qUn9aBRAGFzn-AW9MSEMrMrUugyd?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a>
       </td>
       <td>
         <a href="https://colab.research.google.com/drive/1rWj_XlAvtdDJY9xzwBg_fg5jWoU84a8D?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a>
