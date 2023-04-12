@@ -203,13 +203,13 @@ This course deals with the fundamentals of data structures; the very foundation 
       <th scope="row">04-11</th>
       <td>Midterm Review</td>
       <td>
-        <!--a href="https://youtu.be/o8dXKCL00Dc" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <a href="https://youtu.be/QPC_bKcSKGI" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
         <!--a href="https://docs.google.com/presentation/d/1qwWXB62idf3332JFdYpbSoRAb8rkhKBZmkOKQDqmatM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
         <!--a href="https://colab.research.google.com/drive/1S9OYcv8v-KU1w1RI_t7fEb78EGjrQ3Aw?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
       </td>
       <td>
         <a href="https://colab.research.google.com/drive/1EWgehJOLL39LZ4jvw-3CBrsUkaNe_CoF?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">&nbsp;Recitation&nbsp;</a>
-        <!--a href="https://colab.research.google.com/drive/1gLm-b9f9e-fgs5ZGdvwYT548pMlzYf9v?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+        <a href="https://colab.research.google.com/drive/1gLm-b9f9e-fgs5ZGdvwYT548pMlzYf9v?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
       </td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
