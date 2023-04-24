@@ -237,9 +237,9 @@ This course deals with the fundamentals of data structures; the very foundation 
       <th scope="row">04-25</th>
       <td>Sorting</td>
       <td>
-        <!--a href="https://youtu.be/f7hnSFe4qXk" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="https://docs.google.com/presentation/d/1I4nq2zOdjFCtgSxa4E6m4zisBHQlDnJsM0vjvhCbkXw/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
-        <!--a href="https://colab.research.google.com/drive/1L4rXXUkTjdIWM413T_FMfNcnSsw7b2EA?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
+        <a href="https://colab.research.google.com/drive/1JU0nNyFfujchqj8iKozABpfk_zht90rK?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="https://docs.google.com/presentation/d/1I4nq2zOdjFCtgSxa4E6m4zisBHQlDnJsM0vjvhCbkXw/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="https://docs.google.com/spreadsheets/d/1CwVENsksJ6iug1FVf0RuOGI4WjwRol0ZTrvpsT_om3s/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
       </td>
       <td>
         <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
