@@ -26,6 +26,9 @@ Jae-Sun, Lee (rejaealsun@gm.gist.ac.kr) <br/>
 - [**Midterm**] Date: Apr. 18, 1pm-3pm / Location: GIST College Building C (N6),  Room 104 & 109
   - Take the seat assigned (check your seat position [here](https://docs.google.com/spreadsheets/d/1vAXJuIM9KUCFs9JtaEWXDIPwBE4c2EoHh4Cyfv9MPlQ/edit?usp=sharing))
   - Bring your student ID card
+  - Result will be out on **Apr. 28** (Released!)
+  - Claim registration due on **May. 2**
+  - Claim during **May. 4, 1:15 pm - 2:30 pm**
 <br/>
 <br/>
 
@@ -220,9 +223,9 @@ This course deals with the fundamentals of data structures; the very foundation 
       <th scope="row">04-18</th>
       <td>Midterm</td>
       <td>
-        <!--a href="https://docs.google.com/document/d/1ZezFKEIuI8E7lmz54wwmatWzAiKHMHrx8jZOQkKptpM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
-        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
-        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Claim</a-->
+        <a href="https://docs.google.com/document/d/1bL6LElLDIAkJif0LvUhhhjKyIWiwdheSQq36soruJr8/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
+        <a href="https://docs.google.com/spreadsheets/d/16A_bSOmS7soCFfD27oWH8XAwBdrKJ4hHiPOglA5ktb8/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
+        <a href="https://docs.google.com/spreadsheets/d/1DcBK9h2Y-KJaWNGlDPi-0AowJudM76NGsXXXJkf6xgA/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Claim</a>
       </td>
       <td>
         <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
@@ -254,17 +257,17 @@ This course deals with the fundamentals of data structures; the very foundation 
         <a href="https://docs.google.com/spreadsheets/d/1SFynjERS9LTgF-HP0tRoze-wcnOzyz8sNj3LjS4lrXI/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
       </td>
       <td>
-        <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
-        <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+        <a href="https://colab.research.google.com/drive/1gOUb3HylWlJPlPyIy35XVLLDnXPLOPnG?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a>
+        <!--a href="https://colab.research.google.com/drive/1MXT2NzGZg40O-MTLsoPLTbqwOxRqmyIS?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
       </td>
     </tr>
     <tr>
       <th scope="row">05-02</th>
       <td>Hashing</td>
       <td>
-        <!--a href="https://youtu.be/UOoLae7Y9_A" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="https://docs.google.com/presentation/d/1EYJ7qOhUqCC1_Il8KL4mzmF4LZ9hHXIpGvmF2prY3wg/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
-        <!--a href="https://colab.research.google.com/drive/1eF-q3EJe5768AeClfBYwu1J5zZ5Kq-82?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
+        <a href="https://colab.research.google.com/drive/1KIKJQ6Blrjh-IQxIzuTMA1gHIaphEERm?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="https://docs.google.com/presentation/d/1EYJ7qOhUqCC1_Il8KL4mzmF4LZ9hHXIpGvmF2prY3wg/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="https://docs.google.com/spreadsheets/d/1HXOPD9jIzRzUMWd1P4dzOWuVRW-F9kYQGMWXYoN5Ww0/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
       </td>
       <td>
         <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
