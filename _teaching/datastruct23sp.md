@@ -29,6 +29,7 @@ Jae-Sun, Lee (rejaealsun@gm.gist.ac.kr) <br/>
   - Result will be out on **Apr. 28** (Released!)
   - Claim registration due on **May. 2**
   - Claim during **May. 4, 1:15 pm - 2:30 pm**
+- Mid-course feedback: Let us know your opionion through [this survey](https://forms.gle/PKRA13nKmb7GQPiD6) (**~May. 4**)
 <br/>
 <br/>
 
@@ -267,7 +268,7 @@ This course deals with the fundamentals of data structures; the very foundation 
       <td>
         <a href="https://colab.research.google.com/drive/1KIKJQ6Blrjh-IQxIzuTMA1gHIaphEERm?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
         <a href="https://docs.google.com/presentation/d/1EYJ7qOhUqCC1_Il8KL4mzmF4LZ9hHXIpGvmF2prY3wg/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
-        <a href="https://docs.google.com/spreadsheets/d/1HXOPD9jIzRzUMWd1P4dzOWuVRW-F9kYQGMWXYoN5Ww0/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="https://docs.google.com/spreadsheets/d/1gvSBl1DgHhhBRu7cuOsei4dzeiPpyRGAm3R3uY4F6BE/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
       </td>
       <td>
         <a href="https://colab.research.google.com/drive/1O_s2E7SStwsP0DPYNnkVrD1uN6JCzSPu?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">&nbsp;Recitation&nbsp;</a>
@@ -278,9 +279,9 @@ This course deals with the fundamentals of data structures; the very foundation 
       <th scope="row">05-04</th>
       <td>Trees</td>
       <td>
-        <!--a href="https://youtu.be/ct4u8Kr9Px4" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="https://docs.google.com/presentation/d/1r2V0T0YVbBkEInCGVWhR7ZTNLylulIQz8v-JcJ5gDOY/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
-        <!--a href="https://colab.research.google.com/drive/1Dg6gmCcntKibeZ5ahHVhRd10PimNvh5J?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
+        <a href="https://colab.research.google.com/drive/1ND8W_AZOO82NxVNePIPfAXo7sD5B125Y?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="https://docs.google.com/presentation/d/1r2V0T0YVbBkEInCGVWhR7ZTNLylulIQz8v-JcJ5gDOY/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="https://colab.research.google.com/drive/1Dg6gmCcntKibeZ5ahHVhRd10PimNvh5J?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
       </td>
       <td>
         <!--a href="https://colab.research.google.com/drive/1gOUb3HylWlJPlPyIy35XVLLDnXPLOPnG?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
