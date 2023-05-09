@@ -285,17 +285,17 @@ This course deals with the fundamentals of data structures; the very foundation 
         <a href="https://docs.google.com/spreadsheets/d/10D_l_03ls-vJXXDdeEvDVhCBUePQnA4g2UgYf5UoXHQ/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
       </td>
       <td>
-        <!--a href="https://colab.research.google.com/drive/1gOUb3HylWlJPlPyIy35XVLLDnXPLOPnG?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
-        <!--a href="https://colab.research.google.com/drive/1MXT2NzGZg40O-MTLsoPLTbqwOxRqmyIS?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+        <a href="https://colab.research.google.com/drive/10kILfFt50KC4L5caESRsjbD581PVCfRl?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a>
+        <!--a href="https://colab.research.google.com/drive/1TwFM5dKC70jccGnih4ZUXSQDFJs82IHq?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
       </td>
     </tr>
     <tr>
       <th scope="row">05-09</th>
       <td>Heaps and Priority Queues</td>
       <td>
-        <!--a href="https://youtu.be/VayQIdwKJpI" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <a href="https://youtu.be/91hDbOIiR1Q" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
         <a href="https://docs.google.com/presentation/d/1_LczatD7MRgHi-ZxU881C1jup0sK_e-45b2AmyF8ug0/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
-        <!--a href="https://colab.research.google.com/drive/1HU6aXp2xjPvIkxIOYDebGyf9A_k1Ysv-?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
+        <a href="https://colab.research.google.com/drive/1HU6aXp2xjPvIkxIOYDebGyf9A_k1Ysv-?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a>
       </td>
       <td>
         <a href="https://colab.research.google.com/drive/1V523Fm_nRqvN9FMBWue9InCQT1COsDCN?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">&nbsp;Recitation&nbsp;</a>
