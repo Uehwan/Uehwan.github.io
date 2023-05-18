@@ -319,21 +319,21 @@ This course deals with the fundamentals of data structures; the very foundation 
       <th scope="row">05-16</th>
       <td>AVL Trees</td>
       <td>
-        <!--a href="https://youtu.be/m0qZiTncmiw" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <a href="https://youtu.be/WMLJ-A2-Pc4" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
         <a href="https://docs.google.com/presentation/d/1ADACHPI0ua__W9p7DcprzhvZ2ZWSCfQMZPX2JKMcbe0/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
-        <!--a href="https://colab.research.google.com/drive/1o11yn95WQv-2KUk6RNBdxvc7OoUDrD2E?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
+        <a href="https://colab.research.google.com/drive/1o11yn95WQv-2KUk6RNBdxvc7OoUDrD2E?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a>
       </td>
       <td>
         <a href="https://colab.research.google.com/drive/1xllX2SmBuBBGW_uPyWFglREMdcZIWq_w?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">&nbsp;Recitation&nbsp;</a>
-        <!--a href="https://colab.research.google.com/drive/1E-EexcJsJcZQMBes18XM6bOoxJmgdXkl?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+        <a href="https://colab.research.google.com/drive/1E-EexcJsJcZQMBes18XM6bOoxJmgdXkl?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
       </td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
       <th scope="row">05-18</th>
       <td>234 Trees and Red-Black Trees</td>
       <td>
-        <!--a href="https://youtu.be/dKpAHdanf88" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="https://docs.google.com/presentation/d/1DWDnVYIWDtzksOjsa2BWKciT1cgK8YISIJnTHnRU2wk/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <a href="https://youtu.be/lqT23cje3Q0" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
+        <a href="https://docs.google.com/presentation/d/1DWDnVYIWDtzksOjsa2BWKciT1cgK8YISIJnTHnRU2wk/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
         <!--a href="https://colab.research.google.com/drive/1Dg6gmCcntKibeZ5ahHVhRd10PimNvh5J?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
       </td>
       <td>
