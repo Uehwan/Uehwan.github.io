@@ -337,17 +337,17 @@ This course deals with the fundamentals of data structures; the very foundation 
         <!--a href="https://colab.research.google.com/drive/1Dg6gmCcntKibeZ5ahHVhRd10PimNvh5J?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
       </td>
       <td>
-        <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
-        <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+        <a href="https://colab.research.google.com/drive/1l6UdPljozt4ryIQgAxXKpHaShvQCu31u?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a>
+        <!--a href="https://colab.research.google.com/drive/15TSj6TrvaAWQLUHDLvJNBL23WqNXvEaE?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
       </td>
     </tr>
     <tr>
       <th scope="row">05-23</th>
       <td>Graphs (1)</td>
       <td>
-        <!--a href="https://youtu.be/8ays_br3kLk" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <a href="https://youtu.be/bQo9I5-GsEs" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
         <a href="https://docs.google.com/presentation/d/1bi1TszVz4xdNFI-S_pWi3QXV9dGEaL0NMJAsqI8PD8k/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
-        <!--a href="https://colab.research.google.com/drive/13PJ7olmLtC1ezn8K4I34cpxLw1HzIzHj?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
+        <a href="https://colab.research.google.com/drive/13PJ7olmLtC1ezn8K4I34cpxLw1HzIzHj?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a>
       </td>
       <td>
         <a href="https://docs.google.com/presentation/d/1dPI5YK0qh5-YCJkrhU74pc30fzts8b-NS_UFFk3EmHQ/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">&nbsp;Recitation&nbsp;</a>
