@@ -358,9 +358,9 @@ This course deals with the fundamentals of data structures; the very foundation 
       <th scope="row">05-25</th>
       <td>Graphs (2)</td>
       <td>
-        <!--a href="https://youtu.be/g_XC-TKphfM" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <a href="https://youtu.be/_Un9MOH2Kl4" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
         <a href="https://docs.google.com/presentation/d/1X13Cs6MlZxkjlhWvy8NZQ2z7FQwcePczOJsEktdWZRs/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
-        <!--a href="https://colab.research.google.com/drive/10jcEekLairREg9AQpBEMWB1JHdNqvgZB?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
+        <a href="https://colab.research.google.com/drive/10jcEekLairREg9AQpBEMWB1JHdNqvgZB?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a>
       </td>
       <td>
         <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
