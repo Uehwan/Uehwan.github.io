@@ -338,7 +338,7 @@ This course deals with the fundamentals of data structures; the very foundation 
       </td>
       <td>
         <a href="https://colab.research.google.com/drive/1l6UdPljozt4ryIQgAxXKpHaShvQCu31u?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a>
-        <!--a href="https://colab.research.google.com/drive/15TSj6TrvaAWQLUHDLvJNBL23WqNXvEaE?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+        <a href="https://colab.research.google.com/drive/15TSj6TrvaAWQLUHDLvJNBL23WqNXvEaE?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
       </td>
     </tr>
     <tr>
@@ -363,7 +363,7 @@ This course deals with the fundamentals of data structures; the very foundation 
         <a href="https://colab.research.google.com/drive/10jcEekLairREg9AQpBEMWB1JHdNqvgZB?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a>
       </td>
       <td>
-        <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
+        <a href="https://colab.research.google.com/drive/1RyQ1xyVZcrGy4DrWUOhKgNhxZcX9Hidq?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a>
         <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
       </td>
     </tr>
@@ -372,11 +372,11 @@ This course deals with the fundamentals of data structures; the very foundation 
       <td>Graphs (3)</td>
       <td>
         <!--a href="https://youtu.be/hywa75Wg1L0" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="https://docs.google.com/presentation/d/1ixt5Sk6SALjfrneJp4ebD2lwxzegyIqSEBv9qEC5bzU/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <a href="https://docs.google.com/presentation/d/1ixt5Sk6SALjfrneJp4ebD2lwxzegyIqSEBv9qEC5bzU/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
         <!--a href="https://colab.research.google.com/drive/1qCP7wYRlooaUWRW46YjnnlNJ2UNjabMK?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
       </td>
       <td>
-        <!--a href="https://colab.research.google.com/drive/1RyQ1xyVZcrGy4DrWUOhKgNhxZcX9Hidq?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
+        <a href="https://colab.research.google.com/drive/1_BdGthDuJmP0Bya3kJqJCRZU2cHHf5Ef?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">&nbsp;Recitation&nbsp;</a>
         <!--a href="https://colab.research.google.com/drive/1PRYX1GLmRjJN7CUFcYot334M1EXt6E4L?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
       </td>
     </tr>
