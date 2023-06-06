@@ -32,6 +32,8 @@ Jae-Sun, Lee (rejaealsun@gm.gist.ac.kr) <br/>
 - Mid-course feedback: Let us know your opionion through [this survey](https://forms.gle/PKRA13nKmb7GQPiD6) (**~May. 4**)
 - We re-start to have online live lectures from **May. 9**
 - [**Final Exam**] Date: Jun. 13, 1pm-3pm / Location: GIST College Building C (N6),  Room 104 & 109
+  - Take the seat assigned (check your seat position [here](https://docs.google.com/spreadsheets/d/1vAXJuIM9KUCFs9JtaEWXDIPwBE4c2EoHh4Cyfv9MPlQ/edit?usp=sharing))
+  - Bring your student ID card
 <br/>
 <br/>
 
@@ -365,7 +367,7 @@ This course deals with the fundamentals of data structures; the very foundation 
       </td>
       <td>
         <a href="https://colab.research.google.com/drive/1RyQ1xyVZcrGy4DrWUOhKgNhxZcX9Hidq?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a>
-        <!--a href="https://colab.research.google.com/drive/1PRYX1GLmRjJN7CUFcYot334M1EXt6E4L?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+        <a href="https://colab.research.google.com/drive/1PRYX1GLmRjJN7CUFcYot334M1EXt6E4L?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
       </td>
     </tr>
     <tr>
