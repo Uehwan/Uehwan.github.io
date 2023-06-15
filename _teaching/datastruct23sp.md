@@ -34,6 +34,9 @@ Jae-Sun, Lee (rejaealsun@gm.gist.ac.kr) <br/>
 - [**Final Exam**] Date: Jun. 13, 1pm-3pm / Location: GIST College Building C (N6),  Room 104 & 109
   - Take the seat assigned (check your seat position [here](https://docs.google.com/spreadsheets/d/1vAXJuIM9KUCFs9JtaEWXDIPwBE4c2EoHh4Cyfv9MPlQ/edit?usp=sharing))
   - Bring your student ID card
+  - Result has been released!
+  - Claim registration due on **Jun. 17**
+  - Claim during **Jun. 20, 1:30 pm - 2:30 pm**
 <br/>
 <br/>
 
@@ -408,9 +411,9 @@ This course deals with the fundamentals of data structures; the very foundation 
       <th scope="row">06-13</th>
       <td>Final Exam</td>
       <td>
-        <!--a href="https://docs.google.com/document/d/1rcwwmXmnqJX0Jbk5dm_56BgJENnamLWC8nrL8nEdK34/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
-        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
-        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Claim</a-->
+        <a href="https://docs.google.com/document/d/1MLvO0Dpg9p-7df_u9KsQUEd-D3MQrHVjGgEPYdpuRXI/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
+        <a href="https://docs.google.com/spreadsheets/d/1hfkkq4pL9b1vHpI-Z6-xI7K--ty2ktdlcU3LQjMuqCQ/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
+        <a href="https://docs.google.com/spreadsheets/d/18RetpALhC-ESoHnhH7smTKDO7ng5Xz0tAO2q1fEMzVE/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Claim</a>
       </td>
       <td>
         <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
