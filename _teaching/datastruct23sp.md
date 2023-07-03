@@ -232,8 +232,8 @@ This course deals with the fundamentals of data structures; the very foundation 
       <td>Midterm</td>
       <td>
         <a href="https://docs.google.com/document/d/1bL6LElLDIAkJif0LvUhhhjKyIWiwdheSQq36soruJr8/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
-        <a href="https://docs.google.com/spreadsheets/d/16A_bSOmS7soCFfD27oWH8XAwBdrKJ4hHiPOglA5ktb8/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
-        <a href="https://docs.google.com/spreadsheets/d/1DcBK9h2Y-KJaWNGlDPi-0AowJudM76NGsXXXJkf6xgA/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Claim</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Claim</a>
       </td>
       <td>
         <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
@@ -412,8 +412,8 @@ This course deals with the fundamentals of data structures; the very foundation 
       <td>Final Exam</td>
       <td>
         <a href="https://docs.google.com/document/d/1MLvO0Dpg9p-7df_u9KsQUEd-D3MQrHVjGgEPYdpuRXI/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
-        <a href="https://docs.google.com/spreadsheets/d/1hfkkq4pL9b1vHpI-Z6-xI7K--ty2ktdlcU3LQjMuqCQ/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
-        <a href="https://docs.google.com/spreadsheets/d/18RetpALhC-ESoHnhH7smTKDO7ng5Xz0tAO2q1fEMzVE/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Claim</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Claim</a>
       </td>
       <td>
         <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
