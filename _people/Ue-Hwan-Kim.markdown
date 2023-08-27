@@ -40,11 +40,17 @@ Assistant Professor <br/>
 <br/>
 ## Selected Service
 - Program Committee
+  - Editorial Board, ICROS 2023
+  - Publication Chair, RiTA 2023
+  - Publication Chair, KRoC 2023
+  - Editorial Board, ICROS 2022
   - Publicity Chair, RiTA 2021
   - Session Chair, ICCAS 2021
 
 <br />
 ## Invited Talks
+**3D Scene Understanding for Collaborative AI Bots**
+- Seminar at GIST-ETRI AI Workshop, Aug. 16, 2023.
 
 **Layout-Free Text-Entry Methods for a Metaverse**
 - Seminar at information Technology and Industry Prospects (iTIP 2022), Sep. 19, 2022.
