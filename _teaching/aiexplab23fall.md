@@ -54,7 +54,7 @@ This course will showcase various methods in machine learning and deep learning.
       <th scope="row">08-28</th>
       <td class="text-left"><b>[Session 00.0]</b> &nbsp;Introduction</td>
       <td>
-        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a-->
+        <a href="https://youtu.be/qR2q4jwN-Rs" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
         <a href="https://docs.google.com/presentation/d/1Rqgy6Gc--kJjimmnf_W5UISFkl5qR20v-7fZMrF3RG4/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
         <a href="https://forms.gle/fqDqLDriX9yEfi1h6" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
       </td>
