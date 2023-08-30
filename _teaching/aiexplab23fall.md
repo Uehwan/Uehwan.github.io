@@ -44,8 +44,8 @@ This course will showcase various methods in machine learning and deep learning.
   <thead>
     <tr>
       <th class="col-sm-1" scope="col">Date</th>
-      <th class="col-sm-4" scope="col">Topic</th>
-      <th class="col-sm-2" scope="col">Materials</th>
+      <th class="col-sm-3" scope="col">Topic</th>
+      <th class="col-sm-3" scope="col">Materials</th>
       <th class="col-sm-1" scope="col">Recitations</th>
     </tr>
   </thead>
@@ -57,6 +57,7 @@ This course will showcase various methods in machine learning and deep learning.
         <a href="https://youtu.be/qR2q4jwN-Rs" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
         <a href="https://docs.google.com/presentation/d/1Rqgy6Gc--kJjimmnf_W5UISFkl5qR20v-7fZMrF3RG4/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
         <a href="https://forms.gle/fqDqLDriX9yEfi1h6" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="https://docs.google.com/spreadsheets/d/1ERaL4IWbcbHnWqexvDvbG9W0uBLMKHt1ub6q3n4eRT8/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
       <td></td>
     </tr>
@@ -67,6 +68,7 @@ This course will showcase various methods in machine learning and deep learning.
         <a href="https://drive.google.com/file/d/11xa-72fRJqgc4YKwdErVbBGiTWgsMGX1/view?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
         <a href="https://docs.google.com/presentation/d/1MO4dvhBOHOfsBw7Yl3L_05sUALzTfU7baD4AvStQ_tQ/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
         <a href="https://forms.gle/q26uR2X8DfJy5pVq5" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="https://docs.google.com/spreadsheets/d/1dlHh30igcx-vrsHscMhz-XWgRWGozj8HRl3SR98hua4/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
       <td></td>
     </tr>
@@ -77,6 +79,7 @@ This course will showcase various methods in machine learning and deep learning.
         <a href="https://drive.google.com/file/d/1dvseRqqGWX2OB-fJpSq_02GV-FeHuKRk/view?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
         <a href="https://docs.google.com/presentation/d/1MO4dvhBOHOfsBw7Yl3L_05sUALzTfU7baD4AvStQ_tQ/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
         <a href="https://forms.gle/2qR8VtAQaQEFUbV97" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="https://docs.google.com/spreadsheets/d/1Fkx1GONnv96XqRniao2y4qHo74KUP3XUiAudsk5LrgE/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
       <td></td>
     </tr>
@@ -87,6 +90,7 @@ This course will showcase various methods in machine learning and deep learning.
         <a href="https://colab.research.google.com/drive/1HJShFKJd3AvPFDfysvMZFqqPijOxEA6s?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
         <a href="https://docs.google.com/presentation/d/12fvxbsmoRLGDkiP0JzHuabd2GPgJMZwEONq8obJLF_U/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
         <a href="https://forms.gle/tK2odweZZCKoKmxd6" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="https://docs.google.com/spreadsheets/d/1Wn6S38Ec-lYblhG6UAx7-cdEoyjWNJYxZqNVp6fclMM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
       <td></td>
     </tr>
@@ -97,6 +101,7 @@ This course will showcase various methods in machine learning and deep learning.
         <a href="https://colab.research.google.com/drive/1lS-ERfqrf5SFJbUGolfbaD4d0m7wi4gG?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
         <a href="https://docs.google.com/presentation/d/12fvxbsmoRLGDkiP0JzHuabd2GPgJMZwEONq8obJLF_U/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
         <a href="https://forms.gle/9QWGaUjFq58WBAYw5" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="https://docs.google.com/spreadsheets/d/1GBqG0Gy9CQ3zoJsvzjHH5PzLKCvSgGk8nFc6qsfVrCU/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
       <td></td>
     </tr>
@@ -107,6 +112,7 @@ This course will showcase various methods in machine learning and deep learning.
         <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
         <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
         <a href="https://forms.gle/Ma75f5sMGwLpj93x8" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
       <td></td>
     </tr>
@@ -117,6 +123,7 @@ This course will showcase various methods in machine learning and deep learning.
         <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
         <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
         <a href="https://forms.gle/QQRxLa92muLEqt1i7" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
       <td></td>
     </tr>
@@ -127,6 +134,7 @@ This course will showcase various methods in machine learning and deep learning.
         <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
         <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
         <a href="https://forms.gle/NRFSZjgACGyL1iF77" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
       <td></td>
     </tr>
@@ -137,6 +145,7 @@ This course will showcase various methods in machine learning and deep learning.
         <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
         <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
         <a href="https://forms.gle/x7MPGYWPV9SWS3W69" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
       <td></td>
     </tr>
