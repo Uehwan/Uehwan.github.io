@@ -44,9 +44,9 @@ This course will showcase various methods in machine learning and deep learning.
   <thead>
     <tr>
       <th class="col-sm-1" scope="col">Date</th>
-      <th class="col-sm-3" scope="col">Topic</th>
+      <th class="col-sm-4" scope="col">Topic</th>
       <th class="col-sm-3" scope="col">Materials</th>
-      <th class="col-sm-1" scope="col">Recitations</th>
+      <th class="col-sm-2" scope="col">Recitations</th>
     </tr>
   </thead>
   <tbody>
@@ -92,7 +92,10 @@ This course will showcase various methods in machine learning and deep learning.
         <a href="https://forms.gle/tK2odweZZCKoKmxd6" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
         <a href="https://docs.google.com/spreadsheets/d/1Wn6S38Ec-lYblhG6UAx7-cdEoyjWNJYxZqNVp6fclMM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
-      <td></td>
+      <td>
+        <a href="https://colab.research.google.com/drive/11QTYpsUovdqSJgwLIs50Xj5Ho7G9eia1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
+        <!--a href="https://colab.research.google.com/drive/11QTYpsUovdqSJgwLIs50Xj5Ho7G9eia1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+      </td>
     </tr>
     <tr>
       <th scope="row">09-11</th>
