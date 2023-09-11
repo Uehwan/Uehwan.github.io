@@ -108,29 +108,32 @@ This course will showcase various methods in machine learning and deep learning.
       </td>
       <td></td>
     </tr>
-    <!--tr style="border-bottom: 1.5px solid lightgrey;">
+    <tr style="border-bottom: 1.5px solid lightgrey;">
       <th scope="row">09-13</th>
       <td class="text-left"><b>[Session 03.0]</b> &nbsp;Loss functions</td>
       <td>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="https://colab.research.google.com/drive/1ThuWyO7TZmRl4wD_TJY_Dnem3xLnNgpw?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="https://docs.google.com/presentation/d/1xLUu3kGdvxGTZBd51gaOsqBJSFsE8dfC3e3KCKdkYMo/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
         <a href="https://forms.gle/Ma75f5sMGwLpj93x8" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
+        <a href="https://docs.google.com/spreadsheets/d/1PzH0X6Bx4BOztYvRPIFjsZlG4j9IV2oU7dM191BdclA/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
-      <td></td>
+      <td>
+        <a href="https://colab.research.google.com/drive/18fV7EJd4OcIKvOncKdzPfj9FA1qBGgWe?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
+        <a href="https://colab.research.google.com/drive/1oV6M-Mu9LHZb1G8lJmOJivF7PmVN417i?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;"></a>
+      </td>
     </tr>
     <tr>
       <th scope="row">09-18</th>
       <td class="text-left"><b>[Session 03.1]</b> &nbsp;Loss functions (cont'd)</td>
       <td>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="https://colab.research.google.com/drive/1pN1HXWxU8vVtMqVBk31R3Gb5wDlboh2t?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="https://docs.google.com/presentation/d/1xLUu3kGdvxGTZBd51gaOsqBJSFsE8dfC3e3KCKdkYMo/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
         <a href="https://forms.gle/QQRxLa92muLEqt1i7" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
+        <a href="https://docs.google.com/spreadsheets/d/1LV6r4ePZzUAie4uBWWMiYCqoEebAZKvxRqbHFBDWzp4/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
       <td></td>
     </tr>
-    <tr style="border-bottom: 1.5px solid lightgrey;">
+    <!--tr style="border-bottom: 1.5px solid lightgrey;">
       <th scope="row">09-20</th>
       <td class="text-left"><b>[Session 04.0]</b> &nbsp;Backpropagation</td>
       <td>
