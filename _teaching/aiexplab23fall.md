@@ -118,8 +118,8 @@ This course will showcase various methods in machine learning and deep learning.
         <a href="https://docs.google.com/spreadsheets/d/1PzH0X6Bx4BOztYvRPIFjsZlG4j9IV2oU7dM191BdclA/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
       <td>
-        <a href="https://colab.research.google.com/drive/18fV7EJd4OcIKvOncKdzPfj9FA1qBGgWe?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
-        <a href="https://colab.research.google.com/drive/1oV6M-Mu9LHZb1G8lJmOJivF7PmVN417i?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;"></a>
+        <a href="https://colab.research.google.com/drive/11U8ZZL_LGKQtprGGAqFHn6ptoLpJVwo0?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
+        <!--a href="https://colab.research.google.com/drive/1OkBCRgn--iL3Luk1y8tTk5huiothhZfc?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
       </td>
     </tr>
     <tr>
@@ -133,32 +133,103 @@ This course will showcase various methods in machine learning and deep learning.
       </td>
       <td></td>
     </tr>
-    <!--tr style="border-bottom: 1.5px solid lightgrey;">
+    <tr style="border-bottom: 1.5px solid lightgrey;">
       <th scope="row">09-20</th>
       <td class="text-left"><b>[Session 04.0]</b> &nbsp;Backpropagation</td>
       <td>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
         <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
         <a href="https://forms.gle/NRFSZjgACGyL1iF77" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
       </td>
-      <td></td>
+      <td>
+        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;"></a-->
+      </td>
+      </td>
     </tr>
     <tr>
       <th scope="row">09-25</th>
       <td class="text-left"><b>[Session 04.1]</b> &nbsp;Backpropagation (cont'd)</td>
       <td>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
         <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
         <a href="https://forms.gle/x7MPGYWPV9SWS3W69" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
+      </td>
+      <td></td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">09-27</th>
+      <td colspan="3">No Lecture (National Holiday)</td>
+    </tr>
+    <tr>
+      <th scope="row">10-02</th>
+      <td colspan="3">No Lecture (National Holiday)</td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">10-04</th>
+      <td class="text-left"><b>[Session 04.2]</b> &nbsp;Backpropagation (cont'd)</td>
+      <td>
+        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
       </td>
       <td></td>
     </tr>
     <tr>
-      <th scope="row">09-27</th>
+      <th scope="row">10-09</th>
       <td colspan="3">No Lecture (National Holiday)</td>
-    </tr-->
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">10-11</th>
+      <td class="text-left"><b>[Session 05.0]</b> &nbsp;Optimization</td>
+      <td>
+        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">10-16</th>
+      <td class="text-left"><b>[Session 05.1]</b> &nbsp;Optimization (cont'd)</td>
+      <td>
+        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
+      </td>
+      <td></td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">10-18</th>
+      <td class="text-left"><b>[Session 99.0]</b> &nbsp;Midterm Review</td>
+      <td>
+        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">10-23</th>
+      <td class="text-left"><b>[Session 99.1]</b> &nbsp;Midterm</td>
+      <td>
+        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Problem</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Claim</a-->
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">10-09</th>
+      <td colspan="3">No Lecture (Midterm Period)</td>
+    </tr>
   </tbody>
 </table>
 </div>
