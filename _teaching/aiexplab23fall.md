@@ -227,7 +227,7 @@ This course will showcase various methods in machine learning and deep learning.
       <td></td>
     </tr>
     <tr>
-      <th scope="row">10-09</th>
+      <th scope="row">10-25</th>
       <td colspan="3">No Lecture (Midterm Period)</td>
     </tr>
   </tbody>
