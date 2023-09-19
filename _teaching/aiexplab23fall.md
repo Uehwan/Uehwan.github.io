@@ -20,6 +20,7 @@ Jae-Woo, Kim (kjw01124@gm.gist.ac.kr) <br/>
 ### Notice
 * Review report format available [here](https://docs.google.com/document/d/1iyHUFjtQCoM6bj0vhg6PyvUN8eVsiZBmKXKEiK5E26E/edit?usp=sharing)
 * *Recitations* start from **September 6** :)
+* Please give your class feedback through [this link](https://forms.gle/QVLV2wPdyXGmvNZ47) until **September 27**!
 
 ### Introduction
 This course will showcase various methods in machine learning and deep learning. Throughout the semester, emphasis will be put on practical use cases. Examples of specific methods this course covers includes convolutional neural networks, recurrent neural networks, transformers and generative adversarial networks. Further, we will use Google Colab as our development environment.
@@ -119,7 +120,7 @@ This course will showcase various methods in machine learning and deep learning.
       </td>
       <td>
         <a href="https://colab.research.google.com/drive/11U8ZZL_LGKQtprGGAqFHn6ptoLpJVwo0?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
-        <!--a href="https://colab.research.google.com/drive/1OkBCRgn--iL3Luk1y8tTk5huiothhZfc?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+        <a href="https://colab.research.google.com/drive/1OkBCRgn--iL3Luk1y8tTk5huiothhZfc?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
       </td>
     </tr>
     <tr>
@@ -137,14 +138,14 @@ This course will showcase various methods in machine learning and deep learning.
       <th scope="row">09-20</th>
       <td class="text-left"><b>[Session 04.0]</b> &nbsp;Backpropagation</td>
       <td>
-        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="https://colab.research.google.com/drive/1O-abi_Y3x42n3kgZaGVnlhcVPuL9wQYv?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="https://docs.google.com/presentation/d/1bmpGS7Q6nd-DQinUH2N31J8KVd-4s8mDk5aSBnVBmLU/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
         <a href="https://forms.gle/NRFSZjgACGyL1iF77" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
+        <a href="https://docs.google.com/spreadsheets/d/1h2t6d6EdTWDzJH0wto0s9xGmj9kiQ4AakqriFoovz00/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
       <td>
-        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;"></a-->
+        <a href="https://colab.research.google.com/drive/1-1nnBfSplxgUZx904l9vwQ7VIThYfTzy?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
+        <a href="https://colab.research.google.com/drive/1UqCoNw2_JL50U0t5ZeF5oY6PBJbQHVvB?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;"></a>
       </td>
       </td>
     </tr>
@@ -152,10 +153,10 @@ This course will showcase various methods in machine learning and deep learning.
       <th scope="row">09-25</th>
       <td class="text-left"><b>[Session 04.1]</b> &nbsp;Backpropagation (cont'd)</td>
       <td>
-        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="https://colab.research.google.com/drive/1X3czzJ83BgDolNvUpbBGNTBSiv8RrB51?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="https://docs.google.com/presentation/d/1bmpGS7Q6nd-DQinUH2N31J8KVd-4s8mDk5aSBnVBmLU/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
         <a href="https://forms.gle/x7MPGYWPV9SWS3W69" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
+        <a href="https://docs.google.com/spreadsheets/d/1_RifhOH8UrVs02bhK7cnFcytZ0iIcQJQ_eNe8kIPgUI/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
       <td></td>
     </tr>
@@ -171,10 +172,10 @@ This course will showcase various methods in machine learning and deep learning.
       <th scope="row">10-04</th>
       <td class="text-left"><b>[Session 04.2]</b> &nbsp;Backpropagation (cont'd)</td>
       <td>
-        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
+        <a href="https://colab.research.google.com/drive/1W5ckuB696gzqjTvy1wgJE05UznWAIYjw?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="https://docs.google.com/presentation/d/1bmpGS7Q6nd-DQinUH2N31J8KVd-4s8mDk5aSBnVBmLU/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="https://forms.gle/nEcbtQTwKES5b26i7" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="https://docs.google.com/spreadsheets/d/1OScXHqbIxcVh8KOpgWLDshXooFiPX0mkZmSnemklORQ/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
       <td></td>
     </tr>
