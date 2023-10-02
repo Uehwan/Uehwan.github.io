@@ -145,7 +145,7 @@ This course will showcase various methods in machine learning and deep learning.
       </td>
       <td>
         <a href="https://colab.research.google.com/drive/1-1nnBfSplxgUZx904l9vwQ7VIThYfTzy?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
-        <a href="https://colab.research.google.com/drive/1UqCoNw2_JL50U0t5ZeF5oY6PBJbQHVvB?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;"></a>
+        <a href="https://colab.research.google.com/drive/1UqCoNw2_JL50U0t5ZeF5oY6PBJbQHVvB?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
       </td>
     </tr>
     <tr>
@@ -176,7 +176,10 @@ This course will showcase various methods in machine learning and deep learning.
         <a href="https://forms.gle/nEcbtQTwKES5b26i7" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
         <a href="https://docs.google.com/spreadsheets/d/1OScXHqbIxcVh8KOpgWLDshXooFiPX0mkZmSnemklORQ/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
-      <td></td>
+      <td>
+        <a href="https://colab.research.google.com/drive/1AKGwvkCDZnnOMbhvqO5D17iSYIqcsCNf?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
+        <a href="https://colab.research.google.com/drive/1Jd_xswFdWDLFDZi4SH0FMaImDQCpVppp?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;"></a>
+      </td>
     </tr>
     <tr>
       <th scope="row">10-09</th>
