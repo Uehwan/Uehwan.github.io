@@ -178,7 +178,7 @@ This course will showcase various methods in machine learning and deep learning.
       </td>
       <td>
         <a href="https://colab.research.google.com/drive/1AKGwvkCDZnnOMbhvqO5D17iSYIqcsCNf?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
-        <a href="https://colab.research.google.com/drive/1Jd_xswFdWDLFDZi4SH0FMaImDQCpVppp?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;"></a>
+        <a href="https://colab.research.google.com/drive/1Jd_xswFdWDLFDZi4SH0FMaImDQCpVppp?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
       </td>
     </tr>
     <tr>
@@ -189,19 +189,22 @@ This course will showcase various methods in machine learning and deep learning.
       <th scope="row">10-11</th>
       <td class="text-left"><b>[Session 05.0]</b> &nbsp;Optimization</td>
       <td>
-        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
+        <a href="https://colab.research.google.com/drive/1bry1OIQ2fMgyVHoxxuf-lW8LiEMzuRLg?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="https://docs.google.com/presentation/d/1rjXN0Pudol0DoaEIm-Am8cjFGsFNoSBstGxcKL60P_I/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="https://forms.gle/KuCdq1SbMY6YwBtR8" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="https://docs.google.com/spreadsheets/d/1iQv_L15pVmnPGsWF-icosnzYiAKdnUze7bdpHD_wevs/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
-      <td></td>
+      <td>
+        <a href="https://colab.research.google.com/drive/1vndkdUFAsGYEAswZLK4Gf1wKrwzpkxK5?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
+        <a href="https://colab.research.google.com/drive/1pe4udBEDOxRZiPVBG5wYV1QuJjOW6Lkz?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;"></a>
+      </td>
     </tr>
     <tr>
       <th scope="row">10-16</th>
       <td class="text-left"><b>[Session 05.1]</b> &nbsp;Optimization (cont'd)</td>
       <td>
         <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="https://docs.google.com/presentation/d/1rjXN0Pudol0DoaEIm-Am8cjFGsFNoSBstGxcKL60P_I/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
         <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
         <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
       </td>
