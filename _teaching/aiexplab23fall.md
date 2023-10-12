@@ -20,7 +20,9 @@ Jae-Woo, Kim (kjw01124@gm.gist.ac.kr) <br/>
 ### Notice
 * Review report format available [here](https://docs.google.com/document/d/1iyHUFjtQCoM6bj0vhg6PyvUN8eVsiZBmKXKEiK5E26E/edit?usp=sharing)
 * *Recitations* start from **September 6** :)
-* Please give your class feedback through [this link](https://forms.gle/QVLV2wPdyXGmvNZ47) until **September 27**!
+* Please give your class feedback through [this link](https://forms.gle/QVLV2wPdyXGmvNZ47) by **September 27**!
+* *Midterm review* will be live online from 5pm to 6pm on Oct. 18 (after recitation)
+* **[Midterm]** Date: Oct. 23, 4pm-6pm / Location: GIST College Building C (N6) Room 104
 
 ### Introduction
 This course will showcase various methods in machine learning and deep learning. Throughout the semester, emphasis will be put on practical use cases. Examples of specific methods this course covers includes convolutional neural networks, recurrent neural networks, transformers and generative adversarial networks. Further, we will use Google Colab as our development environment.
@@ -196,23 +198,23 @@ This course will showcase various methods in machine learning and deep learning.
       </td>
       <td>
         <a href="https://colab.research.google.com/drive/1vndkdUFAsGYEAswZLK4Gf1wKrwzpkxK5?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
-        <a href="https://colab.research.google.com/drive/1pe4udBEDOxRZiPVBG5wYV1QuJjOW6Lkz?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;"></a>
+        <a href="https://colab.research.google.com/drive/1pe4udBEDOxRZiPVBG5wYV1QuJjOW6Lkz?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
       </td>
     </tr>
     <tr>
       <th scope="row">10-16</th>
       <td class="text-left"><b>[Session 05.1]</b> &nbsp;Optimization (cont'd)</td>
       <td>
-        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="https://colab.research.google.com/drive/1bJXyiWSTCExPD7I1e-uDtN3iVbXRVopS?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
         <a href="https://docs.google.com/presentation/d/1rjXN0Pudol0DoaEIm-Am8cjFGsFNoSBstGxcKL60P_I/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
+        <a href="https://forms.gle/11FrmzgjgPryCKLi8" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="https://docs.google.com/spreadsheets/d/1O6hXmr4th-KTDeFDePgTEksxUxiefSOnt7ntSLapmsc/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
       <td></td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
       <th scope="row">10-18</th>
-      <td class="text-left"><b>[Session 99.0]</b> &nbsp;Midterm Review</td>
+      <td class="text-left"><b>[Session 99.0]</b> &nbsp;Midterm Review (Q&A)</td>
       <td>
         <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
         <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
