@@ -23,6 +23,9 @@ Jae-Woo, Kim (kjw01124@gm.gist.ac.kr) <br/>
 * Please give your class feedback through [this link](https://forms.gle/QVLV2wPdyXGmvNZ47) by **September 27**!
 * *Midterm review* will be live online from 5pm to 6pm on Oct. 18 (after recitation)
 * **[Midterm]** Date: Oct. 23, 4pm-6pm / Location: GIST College Building C (N6) Room 104
+  * The exam is closed book, closed notes, closed computer, and closed calculator
+  * Just need to bring your pen, pencil and erasers
+  * Coverage: Session 00 ~ Session 05
 
 ### Introduction
 This course will showcase various methods in machine learning and deep learning. Throughout the semester, emphasis will be put on practical use cases. Examples of specific methods this course covers includes convolutional neural networks, recurrent neural networks, transformers and generative adversarial networks. Further, we will use Google Colab as our development environment.
