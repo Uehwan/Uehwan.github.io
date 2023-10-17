@@ -224,7 +224,10 @@ This course will showcase various methods in machine learning and deep learning.
         <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
         <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
       </td>
-      <td></td>
+      <td>
+        <a href="https://colab.research.google.com/drive/126iwrrxaZH30gnzVc4qhP-JPfeDGwIsA?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
+        <a href="https://colab.research.google.com/drive/1RtxmMv1vGrCXuURFr3BEG2rCeKkd-c1U?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;"></a>
+      </td>
     </tr>
     <tr>
       <th scope="row">10-23</th>
