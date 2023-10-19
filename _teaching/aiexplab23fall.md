@@ -24,8 +24,8 @@ Jae-Woo, Kim (kjw01124@gm.gist.ac.kr) <br/>
 * *Midterm review* will be live online from 5pm to 6pm on Oct. 18 (after recitation)
 * **[Midterm]** Date: Oct. 23, 4pm-6pm / Location: GIST College Building C (N6) Room 104
   * The exam is closed book, closed notes, closed computer, and closed calculator
-  * Just need to bring your pen, pencil and erasers
-  * Coverage: Session 00 ~ Session 05
+  * Just need to bring your pen, pencil and erasers in addition to *your student ID card*
+  * Coverage: Session 00 ~ Session 05 (excluding recitations)
 
 ### Introduction
 This course will showcase various methods in machine learning and deep learning. Throughout the semester, emphasis will be put on practical use cases. Examples of specific methods this course covers includes convolutional neural networks, recurrent neural networks, transformers and generative adversarial networks. Further, we will use Google Colab as our development environment.
@@ -226,17 +226,17 @@ This course will showcase various methods in machine learning and deep learning.
       </td>
       <td>
         <a href="https://colab.research.google.com/drive/126iwrrxaZH30gnzVc4qhP-JPfeDGwIsA?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
-        <a href="https://colab.research.google.com/drive/1RtxmMv1vGrCXuURFr3BEG2rCeKkd-c1U?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;"></a>
+        <a href="https://colab.research.google.com/drive/1RtxmMv1vGrCXuURFr3BEG2rCeKkd-c1U?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
       </td>
     </tr>
     <tr>
       <th scope="row">10-23</th>
       <td class="text-left"><b>[Session 99.1]</b> &nbsp;Midterm</td>
       <td>
-        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Problem</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Claim</a-->
+        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Scores</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Claim</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
       </td>
       <td></td>
     </tr>
