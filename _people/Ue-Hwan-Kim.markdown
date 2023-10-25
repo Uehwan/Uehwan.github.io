@@ -40,10 +40,11 @@ Assistant Professor <br/>
 <br/>
 ## Selected Service
 - Program Committee
-  - Editorial Board, ICROS 2023
+  - Financial Chair, IV 2024
+  - Associate Editors, UR 2023, 2024
   - Publication Chair, RiTA 2023
-  - Publication Chair, KRoC 2023
-  - Editorial Board, ICROS 2022
+  - Publication Chair, KRoC 2023, 2024
+  - Editorial Board, ICROS 2022, 2023
   - Publicity Chair, RiTA 2021
   - Session Chair, ICCAS 2021
 
@@ -59,6 +60,7 @@ Assistant Professor <br/>
 - Seminar at GIST-ETRI AI Workshop, Jul. 27, 2022.
 
 **AI for Intelligent Systems to Make Human Lives Better**
+- Seminar at Handong University, EECS, Oct. 18, 2023.
 - Seminar at Hyundai Motors, Apr. 20, 2023.
 - Seminar at Hankuk Academy of Foreign Studies (HAFS), Dec. 14, 2022.
 - Seminar at Institute of Control, Robotics and Systems (ICROS), Jun. 23, 2022.

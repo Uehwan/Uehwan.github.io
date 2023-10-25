@@ -33,13 +33,13 @@ This course will showcase various methods in machine learning and deep learning.
 <br/>
 
 ### References
+* Introduction to Deep Learning @ CMU [Link](https://deeplearning.cs.cmu.edu/S23/index.html)
+* Deep Learning @ Eberhard Karls Universität Tübingen [Link](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/deep-learning/)
+* Introduction to Deep Learning @ UW [Link](https://sebastianraschka.com/blog/2021/dl-course.html)
 * Deep Learning for Computer Vision @ Stanford [Link](http://cs231n.stanford.edu/)
 * Natural Language Processing with Deep Learning @ Stanford [Link](https://web.stanford.edu/class/cs224n/)
-* Programming for AI @ KAIST [Link](https://mp2893.com/course.html)
-* Introduction to Artificial Intelligence @ KAIST [Link](https://docs.google.com/document/d/1RGH5LqLvPuVt0mMciJWOg6iwQU00YcCTi8ER2JAZgmk/edit)
-* Deep Learning @ University of Amsterdam [Link](https://uvadlc.github.io/)
-* Deep Learning & Applied AI @ Sapienza University [Link](https://erodola.github.io/DLAI-s2-2022/)
 * Learn PyTorch for Deep Learning @ ZTM [Link](https://github.com/mrdbourke/pytorch-deep-learning)
+* Deep Learning from Scratch [Link](https://github.com/WegraLee/deep-learning-from-scratch)
 * Dive into Deep Learning (Aston Zhang et al., 2019) [Link](https://d2l.ai/)
 <br/>
 <br/>

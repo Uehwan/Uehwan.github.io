@@ -31,7 +31,6 @@ This course will showcase various methods in machine learning and deep learning.
 * Deep Learning for Computer Vision @ Stanford [Link](http://cs231n.stanford.edu/)
 * Natural Language Processing with Deep Learning @ Stanford [Link](https://web.stanford.edu/class/cs224n/)
 * Programming for AI @ KAIST [Link](https://mp2893.com/course.html)
-* Introduction to Artificial Intelligence @ KAIST [Link](https://docs.google.com/document/d/1RGH5LqLvPuVt0mMciJWOg6iwQU00YcCTi8ER2JAZgmk/edit)
 * Deep Learning @ University of Amsterdam [Link](https://uvadlc.github.io/)
 * Deep Learning & Applied AI @ Sapienza University [Link](https://erodola.github.io/DLAI-s2-2022/)
 * Learn PyTorch for Deep Learning @ ZTM [Link](https://github.com/mrdbourke/pytorch-deep-learning)
@@ -57,7 +56,7 @@ This course will showcase various methods in machine learning and deep learning.
       <td></td>
       <td>
         <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <a href="https://docs.google.com/presentation/d/1Rqgy6Gc--kJjimmnf_W5UISFkl5qR20v-7fZMrF3RG4/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
       </td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
@@ -65,8 +64,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lec 01]</b> &nbsp;Neural Networks; Pytorch Fundamentals</td>
       <td></td>
       <td>
-        <a href="https://youtu.be/aQZvt98cgKw" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
-        <a href="https://docs.google.com/presentation/d/1OK9RSY6LbabCUANfa1elqQO6Y07NdvFri2Oo0cOvMUM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
       </td>
     </tr>
     <tr>
@@ -74,8 +73,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lab 01]</b> &nbsp;Pytorch Fundamentals; Neural Networks</td>
       <td></td>
       <td>
-        <a href="https://colab.research.google.com/drive/1nQM5Fbladmo_XUTWz8MRyNqsQ1n5N0j8?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Questions</a>
-        <a href="https://colab.research.google.com/drive/1vwQfFRnMRwxjIReCUJsmnemuWhSjSqzr?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Questions</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
       </td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
@@ -88,7 +87,7 @@ This course will showcase various methods in machine learning and deep learning.
       <td><b>Quiz 01</b></td>
       <td>
         <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <a href="https://docs.google.com/presentation/d/1D42Ydo9bUGUZo5DsNFWIsIj-rzxh6HOp9uSqSeQexws/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
       </td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
@@ -96,8 +95,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lab 02]</b> &nbsp;Convolutional Neural Networks (CNNs)</td>
       <td></td>
       <td>
-        <a href="https://colab.research.google.com/drive/1X9w5Q6VxFdtxu7KqNjrlFEnr-yEoG7sG?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Questions</a>
-        <a href="https://colab.research.google.com/drive/1M0ykQf2OIwDl-gmPtLeWViEURaQ1IuYW?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Questions</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
       </td>
     </tr>
     <tr>
@@ -105,8 +104,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lec 03]</b> &nbsp;Word Embeddings</td>
       <td><b>Quiz 02</b></td>
       <td>
-        <a href="https://youtu.be/FtaHN7f10S0" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
-        <a href="https://docs.google.com/presentation/d/1vBU9PIGUJYfqzMocB0cvXUCNGB22hnJ4NpM6hk6zTgQ/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
       </td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
@@ -114,8 +113,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lab 03]</b> &nbsp;Word Embeddings</td>
       <td></td>
       <td>
-        <a href="https://colab.research.google.com/drive/1QFZP_wXsl2k85FArvyoleGKg6VvuCiMt?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Questions</a>
-        <a href="https://colab.research.google.com/drive/1pqdipJrGWtTXo6eZsowTOZR6zyiQRS3C?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Questions</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
       </td>
     </tr>
     <tr>
@@ -123,8 +122,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lec 04]</b> &nbsp;Recurrent Neural Networks (RNNs)</td>
       <td><b>Quiz 03</b></td>
       <td>
-        <a href="https://youtu.be/bYiR5DwdCgs" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
-        <a href="https://docs.google.com/presentation/d/1pPBWGRro6EJCLkTdBa5u_cWjTG7aFP3eZT60UeJoMJg/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
       </td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
@@ -136,8 +135,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lab 04]</b> &nbsp;Recurrent Neural Networks (RNNs)</td>
       <td></td>
       <td>
-        <a href="https://colab.research.google.com/drive/1I01ZpdMt8seGoUzvsYsdFu9fVsAd2qte?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Questions</a>
-        <a href="https://colab.research.google.com/drive/11X8tYoa3SsVJk6bE0V2wcO5CQE3Zqlfo?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Questions</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
       </td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
@@ -145,8 +144,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lec 05]</b> &nbsp;Autoregressive Models</td>
       <td><b>Quiz 04</b></td>
       <td>
-        <a href="https://youtu.be/eu-zrZvZSHs" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
-        <a href="https://docs.google.com/presentation/d/1AQOcvT9C2DK_FlgxHYOjVkxEiZ3xcCUqwEZJAEuaigI/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
       </td>
     </tr>
     <tr>
@@ -154,8 +153,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lab 05]</b> &nbsp;Autoregressive Models</td>
       <td></td>
       <td>
-        <a href="https://colab.research.google.com/drive/1L8zk-h2euLHEy6GHMPu6fIpmUAeaYbrc?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Questions</a>
-        <a href="https://colab.research.google.com/drive/16PhYp_98no0euYd7K6KKIAEY3UcgAssd?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Questions</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
       </td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
@@ -163,8 +162,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lec 06]</b> &nbsp;Transformers and Pretraining</td>
       <td><b>Quiz 05</b></td>
       <td>
-        <a href="https://youtu.be/YPA4bLzNdUM" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
-        <a href="https://docs.google.com/presentation/d/1RTbXJXE22DzRtNL7yzmaMvatCq54KgbGdCvnDqMVWUg/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
       </td>
     </tr>
     <tr>
@@ -172,8 +171,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lab 06]</b> &nbsp;Transformers and Pretraining</td>
       <td></td>
       <td>
-        <a href="https://colab.research.google.com/drive/1lCI-Z-l85NJf68pMfF94EIQDkTjtEdMT?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Questions</a>
-        <a href="https://colab.research.google.com/drive/1rhW7_-XxyHn_tRilRwRHWOTlBJ3LNcvj?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Questions</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
       </td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
@@ -197,7 +196,7 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Project]</b> &nbsp;Team Meet-up & Proposal</td>
       <td></td>
       <td>
-        <a href="https://docs.google.com/document/d/1Lp6Md8KaKkhFz6f30LzNFZet8xp9r6muzRhb3BDSpRg/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Template</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Template</a>
         <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Upload</a>
       </td>
     </tr>
@@ -206,8 +205,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lec 07]</b> &nbsp;Vision Transformers</td>
       <td><b>Quiz 06</b></td>
       <td>
-        <a href="https://youtu.be/9Own9vJbDt8" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
-        <a href="https://docs.google.com/presentation/d/11WxFcxCadumjJpWkLOw1ZaLp5wdAR38IyJTQn8Clx_M/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
       </td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
@@ -215,8 +214,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lab 07]</b> &nbsp;Vision Transformers</td>
       <td></td>
       <td>
-        <a href="https://colab.research.google.com/drive/1gT2qbod4K32wzE4vAeLqCSSUoCcsjS6V?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Questions</a>
-        <a href="https://colab.research.google.com/drive/1ZtyGoX3pjutVmINq3AIwQ5uVO8IIIg7K?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Questions</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
       </td>
     </tr>
     <tr>
@@ -224,8 +223,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lec 08]</b> &nbsp;Graph Neural Networks (GNNs)</td>
       <td><b>Quiz 07</b></td>
       <td>
-        <a href="https://youtu.be/Psa7uepq7BQ" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
-        <a href="https://docs.google.com/presentation/d/1kNInQWyPG380WzfCn5AIPdSf9imLNlUUBtMLOx81R6E/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
       </td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
@@ -237,8 +236,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lab 08]</b> &nbsp;Graph Neural Networks (GNNs)</td>
       <td></td>
       <td>
-        <a href="https://colab.research.google.com/drive/14ZxfqMDzVL7VmlYPEn6ZzM4z4i1-o4QV?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Questions</a>
-        <a href="https://colab.research.google.com/drive/1Gbz4eUU8P3lJXuIpOORUeJoS2_NF840e?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Questions</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
       </td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
@@ -246,8 +245,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lec 09]</b> &nbsp;Meta Learning: Learning to Learn</td>
       <td><b>Quiz 08</b></td>
       <td>
-        <a href="https://youtu.be/hP_BOb68VTI" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
-        <a href="https://docs.google.com/presentation/d/1IW02YKOmW9453uoDCxGOiD7LWyXonlhaJJ6m4HBULVY/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
       </td>
     </tr>
     <tr>
@@ -255,8 +254,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lab 09]</b> &nbsp;Meta Learning: Learning to Learn</td>
       <td></td>
       <td>
-        <a href="https://colab.research.google.com/drive/1QwAV6l-ASGiQyVuhkO9kV9U_eE3k3L0R?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Questions</a>
-        <a href="https://colab.research.google.com/drive/1T2F_pfEyhMzcc6AdJ_xwlRyjj67whDB-?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Questions</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
       </td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
@@ -265,7 +264,7 @@ This course will showcase various methods in machine learning and deep learning.
       <td><b>Quiz 09</b></td>
       <td>
         <!--a href="#" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <a href="https://docs.google.com/presentation/d/1lHW2YY4tpYYgFXNWlRHBfv9QxhPD4m1pkIDl1jyfudA/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
       </td>
     </tr>
     <tr>
@@ -273,8 +272,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Lab 10]</b> &nbsp;Generative Adversarial Networks (GANs)</td>
       <td></td>
       <td>
-        <a href="https://colab.research.google.com/drive/1E1FPNw895lnymjSMbvojnVaoeGSB0rgQ?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Questions</a>
-        <a href="https://colab.research.google.com/drive/1ceMRbr32M9VkCNHX4WWnRLOZ8FqkQxlT?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Questions</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
       </td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
