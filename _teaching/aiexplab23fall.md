@@ -26,6 +26,10 @@ Jae-Woo, Kim (kjw01124@gm.gist.ac.kr) <br/>
   * The exam is closed book, closed notes, closed computer, and closed calculator
   * Just need to bring your pen, pencil and erasers in addition to *your student ID card*
   * Coverage: Session 00 ~ Session 05 (excluding recitations)
+  * Result released (see schedule)!
+    * Claim registration due on **Oct. 31**
+    * Claim during **Nov. 1, 4pm-5pm** through Zoom
+
 
 ### Introduction
 This course will showcase various methods in machine learning and deep learning. Throughout the semester, emphasis will be put on practical use cases. Examples of specific methods this course covers includes convolutional neural networks, recurrent neural networks, transformers and generative adversarial networks. Further, we will use Google Colab as our development environment.
@@ -233,17 +237,42 @@ This course will showcase various methods in machine learning and deep learning.
       <th scope="row">10-23</th>
       <td class="text-left"><b>[Session 99.1]</b> &nbsp;Midterm</td>
       <td>
-        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Scores</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Claim</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
+        <a href="https://docs.google.com/document/d/10jEnT5cWu2jbA1rLZj7jJkDCm2zLwWaSexAyWStpo_M/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
+        <a href="https://docs.google.com/spreadsheets/d/1TzFuhiRzJZluO4MT_OCBVh8RZEBOQUGKBK2As6vIowQ/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Scores</a>
+        <a href="https://docs.google.com/spreadsheets/d/1ICXQAQTGDko7sQQn2gLo-w3WYR0wXXX0kBT-zqI8jkg/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Claim</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
       <td></td>
     </tr>
-    <tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
       <th scope="row">10-25</th>
       <td colspan="3">No Lecture (Midterm Period)</td>
+    </tr>
+    <tr>
+      <th scope="row">10-30</th>
+      <td class="text-left"><b>[Session 06.0]</b> &nbsp;CNNs</td>
+      <td>
+        <a href="https://colab.research.google.com/drive/1f6M1-ruBS_UjtOMS4VP3MrVTJd7T4lWJ?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="https://drive.google.com/file/d/1sKFwZ070ZPL49k4UYlWdVgAAysEQuyx-/view?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="https://forms.gle/mdoNCAf3TwVin5LK9" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="https://docs.google.com/spreadsheets/d/1AVR0bImmNMq5VnE6kjd9jqXPwSF7L047HRhT7WBb4U8/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">11-01</th>
+      <td class="text-left"><b>[Session 06.1]</b> &nbsp;CNNs (cont'd)</td>
+      <td>
+        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
+      </td>
+      <td>
+      </td>
     </tr>
   </tbody>
 </table>
 </div>
+
