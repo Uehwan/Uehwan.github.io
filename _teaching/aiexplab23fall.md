@@ -221,7 +221,7 @@ This course will showcase various methods in machine learning and deep learning.
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
       <th scope="row">10-18</th>
-      <td class="text-left"><b>[Session 99.0]</b> &nbsp;Midterm Review (Q&A)</td>
+      <td class="text-left"><b>[Session 99.0]</b> &nbsp;Midterm review (Q&A)</td>
       <td>
         <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
         <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
@@ -260,8 +260,22 @@ This course will showcase various methods in machine learning and deep learning.
       <td>
       </td>
     </tr>
-    <tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
       <th scope="row">11-01</th>
+      <td class="text-left"><b>[Session 00.1]</b> &nbsp;AI Days</td>
+      <td>
+        <a href="https://docs.google.com/document/d/11oEgNv6GEYo2pv1ycrtNSN0ksGDrBFRVKs4D8fTQ2S8/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="https://docs.google.com/presentation/d/1loU8AcLZklx_JRnW_SieXEln5mYWFeQu_U-HEdx9RmE/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="https://forms.gle/CK23RDyVnFydJj5s5" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="https://docs.google.com/spreadsheets/d/1GbW-wpTsox0gC6kcsbJFDL1lTo1K0Tu3j5aoyULUEXM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
+      </td>
+      <td>
+        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">11-06</th>
       <td class="text-left"><b>[Session 06.1]</b> &nbsp;CNNs (cont'd)</td>
       <td>
         <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
@@ -270,7 +284,153 @@ This course will showcase various methods in machine learning and deep learning.
         <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
       </td>
       <td>
+        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
       </td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">11-08</th>
+      <td class="text-left"><b>[Session 07.0]</b> &nbsp;Word vectors</td>
+      <td>
+        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
+      </td>
+      <td>
+        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">11-13</th>
+      <td class="text-left"><b>[Session 07.1]</b> &nbsp;Word vectors (cont'd)</td>
+      <td>
+        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
+      </td>
+      <td>
+        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+      </td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">11-15</th>
+      <td class="text-left"><b>[Session 08.0]</b> &nbsp;RNNs</td>
+      <td>
+        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
+      </td>
+      <td>
+        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">11-20</th>
+      <td class="text-left"><b>[Session 08.1]</b> &nbsp;RNNs (cont'd)</td>
+      <td>
+        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
+      </td>
+      <td>
+        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+      </td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">11-22</th>
+      <td class="text-left"><b>[Session 09.0]</b> &nbsp;Transformers</td>
+      <td>
+        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
+      </td>
+      <td>
+        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">11-27</th>
+      <td class="text-left"><b>[Session 09.1]</b> &nbsp;Transformers (cont'd)</td>
+      <td>
+        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
+      </td>
+      <td>
+        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+      </td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">11-29</th>
+      <td class="text-left"><b>[Session 10.0]</b> &nbsp;RL</td>
+      <td>
+        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
+      </td>
+      <td>
+        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">12-04</th>
+      <td class="text-left"><b>[Session 10.1]</b> &nbsp;RL (cont'd)</td>
+      <td>
+        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
+      </td>
+      <td>
+        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+      </td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">12-06</th>
+      <td class="text-left"><b>[Session 99.2]</b> &nbsp;Final exam review (Q&A) </td>
+      <td>
+        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
+      </td>
+      <td>
+        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">12-11</th>
+      <td class="text-left"><b>[Session 99.3]</b> &nbsp;Final exam</td>
+      <td>
+        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
+      </td>
+      <td>
+        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">12-13</th>
+      <td colspan="3">No Lecture (Final Exam Period)</td>
     </tr>
   </tbody>
 </table>
