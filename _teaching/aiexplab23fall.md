@@ -278,10 +278,10 @@ This course will showcase various methods in machine learning and deep learning.
       <th scope="row">11-06</th>
       <td class="text-left"><b>[Session 06.1]</b> &nbsp;CNNs (cont'd)</td>
       <td>
-        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
+        <a href="https://colab.research.google.com/drive/1HXTeZphZG0_5x2D6FQDUJFBU-EqCAH8A?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="https://drive.google.com/file/d/1sKFwZ070ZPL49k4UYlWdVgAAysEQuyx-/view?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="https://forms.gle/Kjm4Ea5yJ5jbvypr7" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="https://docs.google.com/spreadsheets/d/1y9lNc88TBpxT2nZkFibDktIB2bUV8YKz9r5Myeu-Cqg/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
       <td>
         <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
