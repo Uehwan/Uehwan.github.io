@@ -292,14 +292,14 @@ This course will showcase various methods in machine learning and deep learning.
       <th scope="row">11-08</th>
       <td class="text-left"><b>[Session 07.0]</b> &nbsp;Word vectors</td>
       <td>
-        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
+        <a href="https://colab.research.google.com/drive/1eeUmClkL56StX372Y2WXquEM1Ng8XFWa?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="https://docs.google.com/presentation/d/1WRa8JOF4fmZ4lDCF-xiV8oL4EejH1_uSNJUgLQh1lp0/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="https://forms.gle/P9rJQdKRwCgXr2dh7" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="https://docs.google.com/spreadsheets/d/1S6UG7o4zV1s5g0BSN0w_dlq_hszT2X5avyllpRQBn_o/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
       <td>
-        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+        <a href="https://colab.research.google.com/drive/1--QDJCzQdx4Eba-GmzLqjDyc32lL24wO?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
+        <a href="https://colab.research.google.com/drive/1U4q2pdhsgzPa2gB4kMhL_pMTEpGXuKQV?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;"></a>
       </td>
     </tr>
     <tr>
