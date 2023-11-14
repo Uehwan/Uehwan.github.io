@@ -320,14 +320,14 @@ This course will showcase various methods in machine learning and deep learning.
       <th scope="row">11-15</th>
       <td class="text-left"><b>[Session 08.0]</b> &nbsp;RNNs</td>
       <td>
-        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
+        <a href="https://colab.research.google.com/drive/1kmCln5bKaf8-_qRsldD9KhO0pT-mckH2?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="https://docs.google.com/presentation/d/128aF0HxGAfOTM8nyb5nZlBVAMIjLamqQIdhk2fMhqbc/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="https://forms.gle/hG83A1k6zG63RNZM9" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="https://docs.google.com/spreadsheets/d/1oIqjGVId0asulBIfaJS0A0NmVM2vxTGtGy-nWJ81Bqk/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
       <td>
-        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+        <a href="https://colab.research.google.com/drive/1Kmzta_ybXUEl5MFdHYsQmVQj0hJ2b7KS?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
+        <a href="https://colab.research.google.com/drive/1nu78D6IY9rxvPYpUMd4pvUgJntN1k5j2?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;"></a>
       </td>
     </tr>
     <tr>

@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 We design and build autonomous computing systems to make human lives better (AI for X). Currently, we are focusing on
 1. ***Intelligent Interaction Systems***, which are essential to receive human messages, understand human intentions and infer proper services for humans, and
-2. ***Semantic and Geometric Understanding of Environments***, which are essential to implement customized services.
+2. ***Robot Artificial Intelligence***, which consists of three core technologies to implement customized services: multi-modal perception, general-purpose navigation, and mobile manipulation.
 
 For more details, refer to our <br/>
 - research statement ([English](blog/2021/research-eng/)),
