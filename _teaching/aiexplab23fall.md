@@ -346,7 +346,7 @@ This course will showcase various methods in machine learning and deep learning.
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
       <th scope="row">11-22</th>
-      <td class="text-left"><b>[Session 09.0]</b> &nbsp;Transformers</td>
+      <td class="text-left"><b>[Session 09.0]</b> &nbsp;Seq2Seq</td>
       <td>
         <a href="https://colab.research.google.com/drive/1W-pqVCcmkHwZ79o2yD1lt5--eQBqmpmx?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
         <a href="https://docs.google.com/presentation/d/1LFctT_P6HgXu6x01Sr7Ml1jFYPzC_Hb1xZIXJK1BoK8/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
@@ -355,17 +355,17 @@ This course will showcase various methods in machine learning and deep learning.
       </td>
       <td>
         <a href="https://colab.research.google.com/drive/1LvevQ516fvHllF61Y1zkaRXG5cYesFmW?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
-        <a href="https://colab.research.google.com/drive/1jaSDPJBnQfcGu7gOjIK78WrgiwY4RqRf?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;"></a>
+        <a href="https://colab.research.google.com/drive/1jaSDPJBnQfcGu7gOjIK78WrgiwY4RqRf?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
       </td>
     </tr>
     <tr>
       <th scope="row">11-27</th>
-      <td class="text-left"><b>[Session 09.1]</b> &nbsp;Transformers (cont'd)</td>
+      <td class="text-left"><b>[Session 09.1]</b> &nbsp;Seq2Seq (cont'd)</td>
       <td>
-        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
+        <a href="https://colab.research.google.com/drive/1XaraUJE0_MOIOW8Mdt160ZIhwkyGTAWf?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="https://docs.google.com/presentation/d/1LFctT_P6HgXu6x01Sr7Ml1jFYPzC_Hb1xZIXJK1BoK8/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="https://forms.gle/U5zwkw1Bx94yhWb47" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="https://docs.google.com/spreadsheets/d/1Mo90B0DOdMNXIGwu-JyuSShbcBTHUHTkooTesnq7GF0/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
       <td>
         <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
@@ -374,7 +374,7 @@ This course will showcase various methods in machine learning and deep learning.
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
       <th scope="row">11-29</th>
-      <td class="text-left"><b>[Session 10.0]</b> &nbsp;RL</td>
+      <td class="text-left"><b>[Session 10.0]</b> &nbsp;Transformers</td>
       <td>
         <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
         <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
@@ -388,7 +388,7 @@ This course will showcase various methods in machine learning and deep learning.
     </tr>
     <tr>
       <th scope="row">12-04</th>
-      <td class="text-left"><b>[Session 10.1]</b> &nbsp;RL (cont'd)</td>
+      <td class="text-left"><b>[Session 10.1]</b> &nbsp;Transformers (cont'd)</td>
       <td>
         <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
         <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
