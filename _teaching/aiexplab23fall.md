@@ -29,7 +29,11 @@ Jae-Woo, Kim (kjw01124@gm.gist.ac.kr) <br/>
   * Result released (see schedule)!
     * Claim registration due on **Oct. 31**
     * Claim during **Nov. 1, 4pm-5pm** through Zoom
-
+* *Final exam review* will be live online from 5pm to 6pm on Dec. 6 (after recitation)
+* **[Final Exam]** Date: Dec. 11, 4pm-6pm / Location: Oryong Hall (W1) Room 101
+  * The exam is closed book, closed notes, closed computer, and closed calculator
+  * Just need to bring your pen, pencil and erasers in addition to *your student ID card*
+  * Coverage: Session 06 ~ Session 10 (excluding recitations and AI days)
 
 ### Introduction
 This course will showcase various methods in machine learning and deep learning. Throughout the semester, emphasis will be put on practical use cases. Examples of specific methods this course covers includes convolutional neural networks, recurrent neural networks, transformers and generative adversarial networks. Further, we will use Google Colab as our development environment.
@@ -376,14 +380,14 @@ This course will showcase various methods in machine learning and deep learning.
       <th scope="row">11-29</th>
       <td class="text-left"><b>[Session 10.0]</b> &nbsp;Transformers</td>
       <td>
-        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
+        <a href="https://colab.research.google.com/drive/1HUXrxl6GB7lrIv6_HkegFIT-QSzmMuoQ?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="https://docs.google.com/presentation/d/1cLbQQyoWu1rHiIZPGIsl54meQgFmqiUATzo3N_xBKMg/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="https://forms.gle/Kt86kDNdTt8gX3sP8" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="https://docs.google.com/spreadsheets/d/1UW5uOpkqWJWNH0O5j8If_7YOd9NxQs8pc8den_9G1QA/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
       <td>
-        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+        <a href="https://colab.research.google.com/drive/1x_HxKKVAVD5YtJEn7zhd-S1dtvy-NY2n?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
+        <a href="https://colab.research.google.com/drive/1ijDMZksYbSPThuH0Tll7bvbN-C_GVTKC?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;"></a>
       </td>
     </tr>
     <tr>
