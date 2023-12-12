@@ -34,6 +34,9 @@ Jae-Woo, Kim (kjw01124@gm.gist.ac.kr) <br/>
   * The exam is closed book, closed notes, closed computer, and closed calculator
   * Just need to bring your pen, pencil and erasers in addition to *your student ID card*
   * Coverage: Session 06 ~ Session 10 (excluding recitations and AI days)
+  * Result will be out on **Dec. 16**
+    * Claim registration due on **Dec. 17**
+    * Claim during **Dec. 18, 4pm-6pm** through Zoom
 
 ### Introduction
 This course will showcase various methods in machine learning and deep learning. Throughout the semester, emphasis will be put on practical use cases. Examples of specific methods this course covers includes convolutional neural networks, recurrent neural networks, transformers and generative adversarial networks. Further, we will use Google Colab as our development environment.
