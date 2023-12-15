@@ -34,7 +34,7 @@ Jae-Woo, Kim (kjw01124@gm.gist.ac.kr) <br/>
   * The exam is closed book, closed notes, closed computer, and closed calculator
   * Just need to bring your pen, pencil and erasers in addition to *your student ID card*
   * Coverage: Session 06 ~ Session 10 (excluding recitations and AI days)
-  * Result will be out on **Dec. 16**
+  * Result will be out on **Dec. 16** (Released!)
     * Claim registration due on **Dec. 17**
     * Claim during **Dec. 18, 4pm-6pm** through Zoom
 
@@ -425,10 +425,10 @@ This course will showcase various methods in machine learning and deep learning.
       <th scope="row">12-11</th>
       <td class="text-left"><b>[Session 99.3]</b> &nbsp;Final exam</td>
       <td>
-        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
+        <a href="https://docs.google.com/document/d/1_OjEWEkLlnzMXXiWUX__nZ_6PSirY1bOFo0Osf27sy4/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
+        <a href="https://docs.google.com/spreadsheets/d/1BTbzkRNuKo7p_9Nq_Wc37jvdfSHh38h--psO4TtWhy8/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Scores</a>
+        <a href="https://docs.google.com/spreadsheets/d/1xN72Nk4aLyWWOJQUGFLyhD_JvnSvf7zTY_yl2norH04/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Claim</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
       <td>
         <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
