@@ -25,5 +25,5 @@ We design and build autonomous computing systems to make human lives better (AI 
 
 For more details, refer to our <br/>
 - research statement ([English](blog/2021/research-eng/)),
-- advising statement ([한국어](blog/2021/advising-kor/)), and
-- open positions ([한국어](blog/2023/open-positions-kor/), [English](blog/2023/open-positions-eng/)).
+- advising statement ([한국어](blog/2021/advising-kor/), [English](blog/2024/advising-eng/)), and
+- 💡**NEW**💡 open positions ([한국어](blog/2024/open-positions-kor/), [English](blog/2024/open-positions-eng/)).

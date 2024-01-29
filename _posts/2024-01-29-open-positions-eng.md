@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  Open Positions (ENG)
-date:   2023-03-01
+date:   2024-01-29
 description: Information for Joining ACSL
 ---
 
-This article covers information that will help you join our lab. If you are interested in our lab, please refer to the article below and contact me via e-mail (uehwan@gist.ac.kr). Questions beyond the information provided in this article are always welcome.
+This article covers information that will help you join our lab. If you are interested in our lab, please refer to the article below and apply through the following link: 📄[apply](https://forms.gle/odUNiwHT1ak7KorV8){:target="\_blank"}. Questions beyond the information provided in this article are always welcome: 🙋[inquiry](mailto:uehwan@gist.ac.kr).
 
 ---
 
@@ -31,7 +31,7 @@ If you are thinking of proceeding to graduate school, we recommend that you appl
   - ###### In-depth prior research experience is not required for students applying for the Master's program.
   - ###### However, meaningful prior research experience is a powerful advantage.
   - ###### This is the recruitment process: 1) reviewing application documents and 2) interviews with coding tests.
-  - ###### [How to apply] Please email me your answers to the questions below and your CV and transcripts.
+  - ###### [How to apply] Please apply with your answers to the questions below and your CV and transcripts: 📄[apply](https://forms.gle/odUNiwHT1ak7KorV8){:target="\_blank"}.
     - ###### Reasons for entering the Master's program (Korean or English)
     - ###### Your career plan after the Master's program (Korean or English)
     - ###### Reasons for applying to our lab (Korean or English)
@@ -41,7 +41,7 @@ If you are thinking of proceeding to graduate school, we recommend that you appl
 ---
 
 ## Internship
-We recruit interns every semester and vacation, and intership is operated on a quarterly basis (January-February/March-June/July-August/September-December). We recommend a minimum of 6 months. In addition, our laboratory expects similar research outcomes for internship, graduation research, and G-SURF (you can combine internship and graduation research). If you are interested in our intern program, apply no later than two weeks before the beginning of each quarter. When applying, include transcripts and description of yourself. For reference, the following intern researchers are recruited with priority.
+We recruit interns every semester and vacation, and intership is operated on a quarterly basis (January-February/March-June/July-August/September-December). We recommend a minimum of 6 months. In addition, our laboratory expects similar research outcomes for internship, graduation research, and G-SURF (you can combine internship and graduation research). If you are interested in our intern program, apply no later than one week before the beginning of each quarter: 📄[apply](https://forms.gle/odUNiwHT1ak7KorV8){:target="\_blank"}. When applying, include transcripts and description of yourself. For reference, the following intern researchers are recruited with priority.
 
 - Students who want to explore new fields with intellectual curiosity
 - Students who grow steadily by setting challenging goals
@@ -60,6 +60,37 @@ Below is how we run the internship program.
   
 > Research Intern
   - ###### Research interns engage in a research project.
-  - ###### Research interns usually conduct research with one or two graduate students, and have regular research meetings with me.
+  - ###### Research interns have regular research meetings with me and aim for paper publication.
   - ###### One can apply for research interns only if they have completed the study intern course or have background knowledge equivalent to it.
   - ###### We provide research interns with space, research funds, and relevant devices.
+
+### FAQ
+##### What level of background knowledge do I need to become a research intern?
+- Although it may vary depending on the research topic, we expect knowledge at the level of data structures (EC2202) and machine learning and deep learning (AI5213) courses.
+
+##### Is it possible to only conduct graduate research without doing a research internship?
+- Yes, it's possible.
+
+##### I am not a GIST undergraduate student. Can I apply for internship or graduate school programs?
+- Yes, it's possible.
+
+##### I'm still thinking about graduate school and considering various directions. Can I apply for an internship?
+- Yes, it's possible. I believe that it will become concrete through in-depth research experience.
+
+##### How much weight does GPA play in recruitment?
+- We positively consider academic achievement above a certain level or academic growth over a certain period because it can show the background knowledge or immersion necessary for research.
+- Other than grades, you can show your flow / focus in a certain field (e.g. music, sports, volunteer work, SNS, etc.) you were interested in.
+
+##### What are your advising methods, commuting time, etc.?
+- We try to make sure student autonomy and concrete advising.
+- For more details, please refer to the following article: [advising statement](/blog/2024/advising-eng/).
+
+##### What is the level of monetary support?
+- It's hard to say publicly, but it's top notch.
+
+##### What research topics are you working on?
+- We are currently woring on the following four topics.
+  - Robot AI: semantic simultaneous localization and mapping & general-purpose navigation
+  - Tiny machine learning: efficient model design for edge and mobile devices
+  - Collaborative AI: multi-agent based unified visual intelligence
+  - Self-evolving AI: zero-shot change detection & incremental classification or detection

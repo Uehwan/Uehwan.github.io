@@ -44,7 +44,7 @@ Assistant Professor <br/>
   - Associate Editors, UR 2023, 2024
   - Publication Chair, RiTA 2023
   - Publication Chair, KRoC 2023, 2024
-  - Editorial Board, ICROS 2022, 2023
+  - Editorial Board, ICROS 2022, 2023, 2024
   - Publicity Chair, RiTA 2021
   - Session Chair, ICCAS 2021
 

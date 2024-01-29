@@ -161,7 +161,7 @@ Figure 5. An example instance of the dataset collected in this work. The person 
 <sup> [4] **U.-H. Kim** and J.-H Kim, “A Stabilized Feedback Episodic Memory (SF-EM) and Home Service Provision Framework for Robot and IoT Collaboration,” IEEE Trans. on Cybernetics, vol.  50, no.5, pp.  2110-2123, May 2020. [SCIE, IF: 11.079] </sup><br/>
 <sup> [5] **U.-H. Kim**, S.-M. Yoo and J.-H Kim, “I-Keyboard: Fully Imaginary Keyboard on Touch Devices Empowered by Deep Neural Decoder,” IEEE Trans. on Cybernetics, Early Access, Sep. 2019. [SCIE, IF: 11.079] </sup><br/>
 <sup> [6] S.-M. Yoo\*, **U.-H. Kim\***, Y.-W. Hwang and J.-H. Kim (* equal contribution), “Type Anywhere You Want: An Introduction to Invisible Mobile Keyboard,” in Proceedings of the 30-th International Joint Conference on Artificial Intelligence (IJCAI), 2021. (13.9% acceptance rate) </sup><br/>
-<sup> [7] **U.-H. Kim\***, Y.-W. Hwang\*, S.-K. Lee and J.-H. Kim (* equal contribution), “Writing in The Air: Unconstrained Text Recognition from Finger Movement Using Spatio-Temporal Convolution,” arXiv, 2104.09021, 2021. </sup><br/>
+<sup> [7] **U.-H. Kim\***, Y.-W. Hwang\*, S.-K. Lee and J.-H. Kim (* equal contribution), “Writing in The Air: Unconstrained Text Recognition from Finger Movement Using Spatio-Temporal Convolution,” IEEE Trans. on AI, vol. 4, no. 6, pp. 1386-1398, 2023. </sup><br/>
 
 
 

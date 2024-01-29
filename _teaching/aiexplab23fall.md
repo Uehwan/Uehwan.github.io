@@ -245,8 +245,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Session 99.1]</b> &nbsp;Midterm</td>
       <td>
         <a href="https://docs.google.com/document/d/10jEnT5cWu2jbA1rLZj7jJkDCm2zLwWaSexAyWStpo_M/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
-        <a href="https://docs.google.com/spreadsheets/d/1TzFuhiRzJZluO4MT_OCBVh8RZEBOQUGKBK2As6vIowQ/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Scores</a>
-        <a href="https://docs.google.com/spreadsheets/d/1ICXQAQTGDko7sQQn2gLo-w3WYR0wXXX0kBT-zqI8jkg/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Claim</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Scores</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Claim</a>
         <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
       <td></td>
@@ -426,8 +426,8 @@ This course will showcase various methods in machine learning and deep learning.
       <td class="text-left"><b>[Session 99.3]</b> &nbsp;Final exam</td>
       <td>
         <a href="https://docs.google.com/document/d/1_OjEWEkLlnzMXXiWUX__nZ_6PSirY1bOFo0Osf27sy4/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
-        <a href="https://docs.google.com/spreadsheets/d/1BTbzkRNuKo7p_9Nq_Wc37jvdfSHh38h--psO4TtWhy8/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Scores</a>
-        <a href="https://docs.google.com/spreadsheets/d/1xN72Nk4aLyWWOJQUGFLyhD_JvnSvf7zTY_yl2norH04/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Claim</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Scores</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Claim</a>
         <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
       <td>
