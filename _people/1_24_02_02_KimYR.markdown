@@ -1,10 +1,10 @@
 ---
 layout: people
 name: Yi-Rum Kim
-role: Research Intern
+role: Integrated Course
 email: kimyirum@gm.gist.ac.kr
 img: /assets/img/student_23_01_02_KimYR.jpg
-sequence: 2230102
+sequence: 1240202
 redirect: https://scalloped-doom-e01.notion.site/Kim-Yirum-d08265d436114cf298c3046cd7854d72
 category: Students
 no_detail: true

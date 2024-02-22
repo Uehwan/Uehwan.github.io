@@ -1,0 +1,11 @@
+---
+layout: people
+name: Se-Hoon Oh
+role: Integrated Course
+email: ohsehoon@gm.gist.ac.kr
+img: /assets/img/student_23_01_01_OhSH.jpg
+sequence: 1240201
+redirect: https://enormous-maple-d81.notion.site/Sehoon-Oh-8996b2dfa96f412a82c99a42a8daff6e
+category: Students
+no_detail: true
+---

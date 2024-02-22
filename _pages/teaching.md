@@ -16,7 +16,7 @@ order: 3
                 <h4 class="card-title" style="margin-bottom: 0.15em;">Data Structures</h4>
                 <p class="card-text" style="margin-bottom: 0.7em; font-size: medium">EC2202</p>
                 <p style="margin-bottom: 0.7em; font-weight: lighter">Fundamental data structures; concepts and hands-on experiences.</p>
-                <a href="./datastruct23sp"><b>2023 Spring</b></a> / <a href="./datastruct22sp"><b>2022 Spring</b></a>
+                <a href="./datastruct24sp"><b>2024 Spring</b></a> / <a href="./datastruct23sp"><b>2023 Spring</b></a> / <a href="./datastruct22sp"><b>2022 Spring</b></a>
             </div>
         </div>
         <div class="card" style="width: 95%; margin-bottom: 2em;">
