@@ -5,7 +5,7 @@ role: Integrated Course
 email: kimyirum@gm.gist.ac.kr
 img: /assets/img/student_23_01_02_KimYR.jpg
 sequence: 1240202
-redirect: https://scalloped-doom-e01.notion.site/Kim-Yirum-d08265d436114cf298c3046cd7854d72
+redirect: https://k2room.github.io/
 category: Students
 no_detail: true
 ---

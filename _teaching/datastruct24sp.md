@@ -5,7 +5,7 @@ description: Spring 2024
 ---
 
 **Schedule**: Tue/Thu 1:00pm-2:30pm<br/>
-**Location**: GIST College Building C (N6), Room 104 ([Zoom Online](https://us06web.zoom.us/j/87925937140?pwd=Qm1XTmU4MENybXVEeWJ5eVh2Z0dKdz09)) / [Class Colab](https://colab.research.google.com/drive/121f0BPgTaO3Nk_ImwHtcqgpU6ZInXLdv?usp=sharing)<br/>
+**Location**: GIST College Building A (N4), Room 227 ([Zoom Online](https://us06web.zoom.us/j/87925937140?pwd=Qm1XTmU4MENybXVEeWJ5eVh2Z0dKdz09)) / [Class Colab](https://colab.research.google.com/drive/121f0BPgTaO3Nk_ImwHtcqgpU6ZInXLdv?usp=sharing)<br/>
 
 
 **Instructor**: Ue-Hwan, Kim (uehwan@gist.ac.kr)<br/>
@@ -13,8 +13,8 @@ description: Spring 2024
 **Office Hour**: Thu 3pm-4pm or by appointment
 
 **TAs**:<br/>
-Kim, Yeo Won (yeowonkim@gm.gist.ac.kr)<br/>
-Jeon, Hyung Chan (rabo8497@gm.gist.ac.kr)<br/>
+Yeo-Won, Kim (yeowonkim@gm.gist.ac.kr)<br/>
+Hyung-Chan, Jeon (rabo8497@gm.gist.ac.kr)<br/>
 <br/>
 
 ### Notice
@@ -23,6 +23,7 @@ Jeon, Hyung Chan (rabo8497@gm.gist.ac.kr)<br/>
   - **[Mar. 19 ~ Mar. 28]** Online live lectures + Recitatinos *with TAs*
   - **[Apr. 2 ~ Apr. 11]** Face-to-face lectures + Recitations *with TAs*
 - Review report (RR) format available [here](https://docs.google.com/document/d/1iyHUFjtQCoM6bj0vhg6PyvUN8eVsiZBmKXKEiK5E26E/edit?usp=sharing)
+- Recitation starts from **Mar. 7**
 
 <br/>
 
@@ -72,10 +73,10 @@ This course deals with the fundamentals of data structures; the very foundation 
       <th scope="row">03-05</th>
       <td>Python Primer (cont'd)</td>
       <td>
-        <!--a href="https://youtu.be/3VB-Y7IRO0c" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a-->
-        <!--a href="https://docs.google.com/presentation/d/1qb9NbYH4cQoKhvGvUg39nhaw-tiNghu-19RNDlmEgKw/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
-        <!--a href="https://forms.gle/TA4zCoizj97Y81ir9" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a-->
-        <!--a href="https://docs.google.com/spreadsheets/d/1h_Ev43e3KYJF4I9NRd-pQW2j6DHtZcExfaEFzFOeqho/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
+        <a href="https://colab.research.google.com/drive/1jsZay2t2I75ARD5aOLHpg1yPAJmIKl-o?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="https://docs.google.com/presentation/d/1qb9NbYH4cQoKhvGvUg39nhaw-tiNghu-19RNDlmEgKw/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="https://forms.gle/TA4zCoizj97Y81ir9" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="https://docs.google.com/spreadsheets/d/1h_Ev43e3KYJF4I9NRd-pQW2j6DHtZcExfaEFzFOeqho/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
       <td>
         <!--a href="https://colab.research.google.com/drive/1HUBCWa1AEXA-ZaQUIvjSUFUmokA29UjB?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">&nbsp;Recitation&nbsp;</a-->
