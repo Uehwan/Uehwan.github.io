@@ -87,9 +87,10 @@ This course deals with the fundamentals of data structures; the very foundation 
       <th scope="row">03-07</th>
       <td>Recursion</td>
       <td>
-        <!--a href="https://youtu.be/F8MYbgLblSs" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="https://docs.google.com/presentation/d/1qwWXB62idf3332JFdYpbSoRAb8rkhKBZmkOKQDqmatM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
-        <!--a href="https://colab.research.google.com/drive/1wGuKqcNkXbm1QBZanpWmaxUMK_vMglDB?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
+        <a href="https://colab.research.google.com/drive/1daLwVGbcNsQ5fWgiCTv_6VFZ8Rwf5HIC?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="https://docs.google.com/presentation/d/1qwWXB62idf3332JFdYpbSoRAb8rkhKBZmkOKQDqmatM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="https://forms.gle/ba77gw95g3cijrrp7" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="https://forms.gle/ba77gw95g3cijrrp7" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
       <td>
         <!--a href="https://colab.research.google.com/drive/1YDG9BP5Qnqocgjs4AQu_iY__f2KPVloe?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
