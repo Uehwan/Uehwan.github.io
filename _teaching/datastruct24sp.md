@@ -13,7 +13,6 @@ description: Spring 2024
 **Office Hour**: Thu 3pm-4pm or by appointment
 
 **TAs**:<br/>
-Yeo-Won, Kim (yeowonkim@gm.gist.ac.kr)<br/>
 Hyung-Chan, Jeon (rabo8497@gm.gist.ac.kr)<br/>
 <br/>
 
@@ -93,7 +92,7 @@ This course deals with the fundamentals of data structures; the very foundation 
         <a href="https://docs.google.com/spreadsheets/d/1l3gM9kwNFeTR06v6X3plV5yLngApekqeWd5mPwNWXug/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
       <td>
-        <!--a href="https://colab.research.google.com/drive/1YDG9BP5Qnqocgjs4AQu_iY__f2KPVloe?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
+        <a href="https://colab.research.google.com/drive/1HUBCWa1AEXA-ZaQUIvjSUFUmokA29UjB?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">&nbsp;Recitation&nbsp;</a>
         <!--a href="https://colab.research.google.com/drive/1RGeAqdTJMDgsGlOxbDZX6eI-pY7iKJbJ?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
       </td>
     </tr>
