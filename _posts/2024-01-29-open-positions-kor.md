@@ -62,15 +62,14 @@ description: Information for Joining ACSL
   - ###### 연구 인턴은 스터디 과정을 마쳤거나 그에 준하는 배경 지식을 갖추어야 참여 가능합니다.
   - ###### 연구 인턴에게는 연구 공간, 수탁연구비, 컴퓨터가 지급됩니다.
 
-<!--
 이전 연구인턴 실적입니다.
-- 김이룸(EECS), 우수졸업논문상, European Conference on Computer Vision (ECCV) 1저자
+- 김이룸(EECS), 우수졸업논문상, ECCV<sup>[AI우수학회]</sup> 1저자(Under Review)
 - 오세훈(EECS), 우수졸업논문상
-- 유상현(EECS), International Joint Conference on Artificial Intelligence (IJCAI) 1저자
-- 이정욱(EECS), International Joint Conference on Artificial Intelligence (IJCAI) 1저자
-- 이명진(EECS), International Joint Conference on Artificial Intelligence (IJCAI) 1저자
-- 김재우(EECS), 우수졸업논문상, International Conference on Robot Intelligence Technology and Applications (RiTA) 1저자
--->
+- 유상현(EECS), IJCAI<sup>[AI우수학회]</sup> 1저자(Under Review)
+- 이명진(EECS), IJCAI<sup>[AI우수학회]</sup> 1저자(Under Review)
+- 이정욱(EECS), IROS<sup>[로보틱스학회]</sup> 1저자(Under Review)
+- 김재우(EECS), 우수졸업논문상, RiTA<sup>[로보틱스학회]</sup> 1저자
+
 
 ### FAQ
 ##### 연구 인턴을 바로 하기 위한 배경 지식은 어느 정도 수준인가요?

@@ -64,6 +64,14 @@ Below is how we run the internship program.
   - ###### One can apply for research interns only if they have completed the study intern course or have background knowledge equivalent to it.
   - ###### We provide research interns with space, research funds, and relevant devices.
 
+This is my previous research internship outcomes.
+- Yi-Rum Kim (EECS), Outstanding Graduation Thesis Award, ECCV<sup>[Top AI Conference]</sup> 1st author (Under Review)
+- Se-Hoon Oh (EECS), Outstanding Graduation Thesis Award
+- Sang-Hyun Yoo (EECS), IJCAI<sup>[Top AI Conference]</sup> 1st author (Under Review)
+- Myung-Jin Lee (EECS), IJCAI<sup>[Top AI Conference]</sup> 1st author (Under Review)
+- Jeong-Wook Lee (EECS), IROS<sup>[Robotics Conference]</sup> 1st author (Under Review)
+- Jae-Woo Kim (EECS), Outstanding Graduation Thesis Award, RiTA<sup>[Robotics Conference]</sup> 1st author
+
 ### FAQ
 ##### What level of background knowledge do I need to become a research intern?
 - Although it may vary depending on the research topic, we expect knowledge at the level of data structures (EC2202) and machine learning and deep learning (AI5213) courses.
