@@ -23,6 +23,13 @@ Hyung-Chan, Jeon (rabo8497@gm.gist.ac.kr)<br/>
   - **[Apr. 2 ~ Apr. 11]** Face-to-face lectures + Recitations *with TAs*
 - Review report (RR) format available [here](https://docs.google.com/document/d/1iyHUFjtQCoM6bj0vhg6PyvUN8eVsiZBmKXKEiK5E26E/edit?usp=sharing)
 - Recitation starts from **Mar. 7**
+- I received some reports regarding copying other students’ RR, HW or etc.
+- (다른 학생의 과제물을 베낀 사례가 발견되고 있습니다.)
+  - By **Mar. 15**, email me if you copied other students’ content.
+  - (Honor code를 위반한 학생들은 **3월 15일**까지 이메일 보내기 바랍니다.)
+  - I have zero tolerance policy regarding academic integrity.
+  - (학문적 진실성에 대해서는 무관용 정책입니다.)
+
 
 <br/>
 
