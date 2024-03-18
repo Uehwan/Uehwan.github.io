@@ -18,9 +18,9 @@ Hyung-Chan, Jeon (rabo8497@gm.gist.ac.kr)<br/>
 
 ### Notice
 - Lecture formats
-  - **[Feb. 27 ~ Mar. 14]** Pre-recorded lectures + Recitations *with UHKim*
-  - **[Mar. 19 ~ Mar. 28]** Online live lectures + Recitatinos *with TAs*
-  - **[Apr. 2 ~ Apr. 11]** Face-to-face lectures + Recitations *with TAs*
+  - [Feb. 27 ~ Mar. 14] Pre-recorded lectures + Recitations *with UHKim*
+  - **[Mar. 19 ~ Mar. 28] Online live lectures + Recitatinos (Pre-recorded)**
+  - [Apr. 2 ~ Apr. 11] Face-to-face lectures + Recitations (Pre-recorded)
 - Review report (RR) format available [here](https://docs.google.com/document/d/1iyHUFjtQCoM6bj0vhg6PyvUN8eVsiZBmKXKEiK5E26E/edit?usp=sharing)
 - Recitation starts from **Mar. 7**
 - I received some reports regarding copying other students’ RR, HW or etc.
@@ -114,7 +114,7 @@ This course deals with the fundamentals of data structures; the very foundation 
       </td>
       <td>
         <a href="https://colab.research.google.com/drive/1YDG9BP5Qnqocgjs4AQu_iY__f2KPVloe?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a>
-        <!--a href="https://colab.research.google.com/drive/1sGmK9j0OmCvibpfxgLKwzbC7YlQUxXrm?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+        <a href="https://colab.research.google.com/drive/1RGeAqdTJMDgsGlOxbDZX6eI-pY7iKJbJ?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
       </td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
@@ -136,8 +136,9 @@ This course deals with the fundamentals of data structures; the very foundation 
       <td>Abstract Data Types</td>
       <td>
         <!--a href="https://youtu.be/J43zeCl9VkQ" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="https://docs.google.com/presentation/d/1ybR2b2pv6jt8tCTz86Jx0hqytQ9YU8lquXWTqhVljpM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
-        <!--a href="https://colab.research.google.com/drive/1PVNwc4qtWZNtRiLNmeueEdxeOb8ZPqCk?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
+        <a href="https://docs.google.com/presentation/d/1ybR2b2pv6jt8tCTz86Jx0hqytQ9YU8lquXWTqhVljpM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="https://forms.gle/1tn7Lg9sHiTx2iv9A" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="https://docs.google.com/spreadsheets/d/1E2rsYp7MGXqdFV1eqWxe7uGEQD_Q-KC0qKUODQjV-gc/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
       <td>
         <!--a href="https://colab.research.google.com/drive/1HmPEEKm4Cd4CS4bFUpQaMYfFxouNqBpa?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">&nbsp;Recitation&nbsp;</a-->
