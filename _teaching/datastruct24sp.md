@@ -135,7 +135,7 @@ This course deals with the fundamentals of data structures; the very foundation 
       <th scope="row">03-19</th>
       <td>Abstract Data Types</td>
       <td>
-        <!--a href="https://youtu.be/J43zeCl9VkQ" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <a href="https://colab.research.google.com/drive/1zo6mXxEF8C_7b1NkfOshbVswdrrRJjiN?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
         <a href="https://docs.google.com/presentation/d/1ybR2b2pv6jt8tCTz86Jx0hqytQ9YU8lquXWTqhVljpM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
         <a href="https://forms.gle/1tn7Lg9sHiTx2iv9A" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
         <a href="https://docs.google.com/spreadsheets/d/1E2rsYp7MGXqdFV1eqWxe7uGEQD_Q-KC0qKUODQjV-gc/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
