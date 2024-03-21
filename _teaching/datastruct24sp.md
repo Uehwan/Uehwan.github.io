@@ -150,11 +150,11 @@ This course deals with the fundamentals of data structures; the very foundation 
       <td>Arrays and Strings</td>
       <td>
         <!--a href="https://youtu.be/9Gg5u6AglwM" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="https://docs.google.com/presentation/d/16-_ld_NE6VhPBf4CSTwG8lpVhsoOTQYw4KnHm47zulE/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <a href="https://docs.google.com/presentation/d/16-_ld_NE6VhPBf4CSTwG8lpVhsoOTQYw4KnHm47zulE/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
         <!--a href="https://colab.research.google.com/drive/1gnqer0Qm_TveOGs1EHOqjhRqyx3XHe1t?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
       </td>
       <td>
-        <!--a href="https://colab.research.google.com/drive/1W6D09XtLgnvYBBdnWMkye2CDw8jJ-n1S?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
+        <a href="https://colab.research.google.com/drive/1W6D09XtLgnvYBBdnWMkye2CDw8jJ-n1S?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a>
         <!--a href="https://colab.research.google.com/drive/1EasIwcNPzGu9oN83XkbfhN8v5hw-ocFY?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
       </td>
     </tr>
