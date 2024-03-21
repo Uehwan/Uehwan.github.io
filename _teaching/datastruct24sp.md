@@ -149,9 +149,10 @@ This course deals with the fundamentals of data structures; the very foundation 
       <th scope="row">03-21</th>
       <td>Arrays and Strings</td>
       <td>
-        <!--a href="https://youtu.be/9Gg5u6AglwM" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <a href="https://colab.research.google.com/drive/1zSniZXNdlBu9qnz-ebs3jxk00BEYB8QZ?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
         <a href="https://docs.google.com/presentation/d/16-_ld_NE6VhPBf4CSTwG8lpVhsoOTQYw4KnHm47zulE/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
-        <!--a href="https://colab.research.google.com/drive/1gnqer0Qm_TveOGs1EHOqjhRqyx3XHe1t?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
+        <a href="https://forms.gle/WTGSioQtoBbmvWCAA" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="https://docs.google.com/spreadsheets/d/16KgSep1IRZ2PwEPuFOkR0yJuX0kQ3_J7u4SmJjRJ9QY/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
       <td>
         <a href="https://colab.research.google.com/drive/1W6D09XtLgnvYBBdnWMkye2CDw8jJ-n1S?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a>
