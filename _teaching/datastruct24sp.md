@@ -128,7 +128,7 @@ This course deals with the fundamentals of data structures; the very foundation 
       </td>
       <td>
         <a href="https://colab.research.google.com/drive/1yRGgWWcY9Utq8t3-ibMwQASl3ypHN01e?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">&nbsp;Recitation&nbsp;</a>
-        <!--a href="https://colab.research.google.com/drive/1RGeAqdTJMDgsGlOxbDZX6eI-pY7iKJbJ?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+        <a href="https://colab.research.google.com/drive/1sGmK9j0OmCvibpfxgLKwzbC7YlQUxXrm?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
       </td>
     </tr>
     <tr>
@@ -164,12 +164,12 @@ This course deals with the fundamentals of data structures; the very foundation 
       <td>Linked Lists</td>
       <td>
         <!--a href="https://youtu.be/nw_5dHG0QgE" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="https://docs.google.com/presentation/d/1qku5m_T1eoJQ4x6_FJDQ4k2KzvN_XCR0_ekB9Ufwckk/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <a href="https://docs.google.com/presentation/d/1qku5m_T1eoJQ4x6_FJDQ4k2KzvN_XCR0_ekB9Ufwckk/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
         <!--a href="https://colab.research.google.com/drive/1lOEY_pKF5nVgvYWlaXUa6CC0Qoolhvfj?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
       </td>
       <td>
-        <!--a href="https://colab.research.google.com/drive/1ztWgWJ2q_YMWysph0Guasd5sR-cJjDyg?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">&nbsp;Recitation&nbsp;</a-->
-        <!--a href="https://colab.research.google.com/drive/1n_6qA98QGnmcR4xlORT-uSkuM4yKoADo?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+        <a href="https://colab.research.google.com/drive/1HmPEEKm4Cd4CS4bFUpQaMYfFxouNqBpa?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">&nbsp;Recitation&nbsp;</a>
+        <!--a href="https://colab.research.google.com/drive/1-PUaANRTP5vEB2e50aBowecu5-JqzmLL?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
       </td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
