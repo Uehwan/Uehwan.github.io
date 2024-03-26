@@ -163,9 +163,10 @@ This course deals with the fundamentals of data structures; the very foundation 
       <th scope="row">03-26</th>
       <td>Linked Lists</td>
       <td>
-        <!--a href="https://youtu.be/nw_5dHG0QgE" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <a href="https://colab.research.google.com/drive/1beaC0Ux0YthIZAl6IMnEU5gxUKjy3kPX?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
         <a href="https://docs.google.com/presentation/d/1qku5m_T1eoJQ4x6_FJDQ4k2KzvN_XCR0_ekB9Ufwckk/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
-        <!--a href="https://colab.research.google.com/drive/1lOEY_pKF5nVgvYWlaXUa6CC0Qoolhvfj?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
+        <a href="https://forms.gle/aTvAEFZAGVXXgfjN9" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="https://docs.google.com/spreadsheets/d/13uBqFnF4yhauH-Gv94O1c8PlxZIu9QMirVaFi0qwhhk/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
       <td>
         <a href="https://colab.research.google.com/drive/1HmPEEKm4Cd4CS4bFUpQaMYfFxouNqBpa?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">&nbsp;Recitation&nbsp;</a>
