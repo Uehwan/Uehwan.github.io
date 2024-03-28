@@ -178,7 +178,7 @@ This course deals with the fundamentals of data structures; the very foundation 
       <td>Stacks</td>
       <td>
         <!--a href="https://youtu.be/9QuSBWsRtBw" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="https://docs.google.com/presentation/d/1rQczqk533EjGxJBMWhPtT93zl_5btLMaVX1QRi7S4L4/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <a href="https://docs.google.com/presentation/d/1rQczqk533EjGxJBMWhPtT93zl_5btLMaVX1QRi7S4L4/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
         <!--a href="https://colab.research.google.com/drive/1zpBksn5jc3wQuK6e-aoqU9MPkSFmaXDB?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
       </td>
       <td>
