@@ -170,7 +170,7 @@ This course deals with the fundamentals of data structures; the very foundation 
       </td>
       <td>
         <a href="https://colab.research.google.com/drive/1HmPEEKm4Cd4CS4bFUpQaMYfFxouNqBpa?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">&nbsp;Recitation&nbsp;</a>
-        <!--a href="https://colab.research.google.com/drive/1-PUaANRTP5vEB2e50aBowecu5-JqzmLL?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+        <a href="https://colab.research.google.com/drive/1-PUaANRTP5vEB2e50aBowecu5-JqzmLL?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
       </td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
@@ -192,7 +192,7 @@ This course deals with the fundamentals of data structures; the very foundation 
       <td>Queues</td>
       <td>
         <!--a href="https://youtu.be/Jegu5U9qyGo" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="https://docs.google.com/presentation/d/1P1TKmDla9YPMtvYyJo8nLyUtINL-OxqMJTgwJhWFbDM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <a href="https://docs.google.com/presentation/d/1P1TKmDla9YPMtvYyJo8nLyUtINL-OxqMJTgwJhWFbDM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
         <!--a href="https://colab.research.google.com/drive/15mWwXDoii1U__PqkeB9BNezL65b3G-m_?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
       </td>
       <td>
