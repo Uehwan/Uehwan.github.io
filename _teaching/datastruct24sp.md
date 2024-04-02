@@ -191,13 +191,14 @@ This course deals with the fundamentals of data structures; the very foundation 
       <th scope="row">04-02</th>
       <td>Queues</td>
       <td>
-        <!--a href="https://youtu.be/Jegu5U9qyGo" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
+        <a href="https://colab.research.google.com/drive/1r4qOO-kxuposbFp61GO7FSFDrwqAtaRB?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
         <a href="https://docs.google.com/presentation/d/1P1TKmDla9YPMtvYyJo8nLyUtINL-OxqMJTgwJhWFbDM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
-        <!--a href="https://colab.research.google.com/drive/15mWwXDoii1U__PqkeB9BNezL65b3G-m_?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
+        <a href="https://forms.gle/qGzCGUxFE4b3STmJ6" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="https://docs.google.com/spreadsheets/d/1Yl5oZw3pgYLfEks4xyspZuqcbfpDdwyhFehTLKBskXU/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
       <td>
-        <!--a href="https://colab.research.google.com/drive/1oC9gg6MycvRkNesYV13TWy54olK-zxZL?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">&nbsp;Recitation&nbsp;</a-->
-        <!--a href="https://colab.research.google.com/drive/1Zhuhc_VwU0VqXOEYVWSP2XcHj1XJLKG6?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+        <a href="https://colab.research.google.com/drive/1ztWgWJ2q_YMWysph0Guasd5sR-cJjDyg?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">&nbsp;Recitation&nbsp;</a>
+        <!--a href="https://colab.research.google.com/drive/1n_6qA98QGnmcR4xlORT-uSkuM4yKoADo?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
       </td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
