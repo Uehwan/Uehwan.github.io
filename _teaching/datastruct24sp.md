@@ -19,8 +19,8 @@ Hyung-Chan, Jeon (rabo8497@gm.gist.ac.kr)<br/>
 ### Notice
 - Lecture formats
   - [Feb. 27 ~ Mar. 14] Pre-recorded lectures + Recitations *with UHKim*
-  - **[Mar. 19 ~ Mar. 28] Online live lectures + Recitatinos (Pre-recorded)**
-  - [Apr. 2 ~ Apr. 11] Face-to-face lectures + Recitations (Pre-recorded)
+  - [Mar. 19 ~ Mar. 28] Online live lectures + Recitatinos (Pre-recorded)
+  - **[Apr. 2 ~ Apr. 11] Face-to-face lectures + Recitations (Pre-recorded)**
 - Review report (RR) format available [here](https://docs.google.com/document/d/1iyHUFjtQCoM6bj0vhg6PyvUN8eVsiZBmKXKEiK5E26E/edit?usp=sharing)
 - Recitation starts from **Mar. 7**
 - I received some reports regarding copying other students’ RR, HW or etc.
@@ -29,6 +29,8 @@ Hyung-Chan, Jeon (rabo8497@gm.gist.ac.kr)<br/>
   - (Honor code를 위반한 학생들은 **3월 15일**까지 이메일 보내기 바랍니다.)
   - I have zero tolerance policy regarding academic integrity.
   - (학문적 진실성에 대해서는 무관용 정책입니다.)
+- [**Midterm**] Date: Apr. 16, 1pm-3pm / Location: GIST College Building C (N6),  Room 104
+  - Bring your student ID card
 
 
 <br/>
@@ -206,11 +208,11 @@ This course deals with the fundamentals of data structures; the very foundation 
       <td>Binary Search</td>
       <td>
         <!--a href="https://youtu.be/-b3ZbLb4G5w" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="https://docs.google.com/presentation/d/1hYfPdLtV2iYj5-vElHoCST13NQB950T6cnU8b7Cftsg/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <a href="https://docs.google.com/presentation/d/1hYfPdLtV2iYj5-vElHoCST13NQB950T6cnU8b7Cftsg/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
         <!--a href="https://colab.research.google.com/drive/124w8qUn9aBRAGFzn-AW9MSEMrMrUugyd?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
       </td>
       <td>
-        <!--a href="https://colab.research.google.com/drive/1rWj_XlAvtdDJY9xzwBg_fg5jWoU84a8D?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
+        <a href="https://colab.research.google.com/drive/1rWj_XlAvtdDJY9xzwBg_fg5jWoU84a8D?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a>
         <!--a href="https://colab.research.google.com/drive/1lGUQxlTXZXzKCMBaO1h-q-o0MZZOTW8E?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
       </td>
     </tr>
