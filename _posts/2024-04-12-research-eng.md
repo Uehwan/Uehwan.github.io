@@ -1,24 +1,27 @@
 ---
 layout: post
 title:  Research Statement
-date:   2021-10-01
-description: Intelligent Interaction & Semantic and Geometric Understanding of Environments
+date:   2024-04-12
+description: Robot AI and Human-robot-interaction
 ---
 
-We design and build autonomous systems that process visual and sensor data **to realize meaningful services for humans**. With an unprecedented scale of available data and computational resources, computer vision and robotics systems could better understand the surrounding environments and improve user experience in human-robot interaction (HRI) scenarios. In various domains, our research aims to design autonomous systems that 1) extract both semantic and physical information from visual data for understanding the surrounding environments and 2) elicit user behavior, intention or message from sensor data for promoting natural HRI experiences. Our research attempts to take a step toward the long-dreamed goal of replacing repetitive and dangerous tasks with autonomous systems and natural interaction between human and autonomous systems.
+We design and build autonomous robot systems that process various types of sensor data **to realize meaningful services for humans**. With an unprecedented scale of available data and computational resources, robotics systems could better understand the surrounding environments and improve user experience in human-robot interaction (HRI) scenarios. In various domains, our research aims to design robotics systems that 1) extract both semantic and physical information from sensor data for understanding the surrounding environments (perception), 2) safely reach the goal point in unstructured environments (navigation) and 3) elicit user behavior, intention or message from sensor data for promoting natural HRI experiences. Our research attempts to take a step toward the long-dreamed goal of replacing repetitive and dangerous tasks with robotics systems and natural interaction between human and robotics systems.
 
-Specifically, our research has focused on making autonomous systems better understand two crucial components of **robot-in-the-loop research scenarios**:
+Specifically, our research has focused on making robotics systems for three crucial components of **robot-in-the-loop research scenarios**:
 
-- the surrounding environments and
-- recognition of human behavior, intention, or message.
+- multi-modal perception and navigation
+- service robots
+- intelligent interaction design
 
-First of all, autonomous systems must be able to perceive the semantic entities inherent in the environments as well as the geometry of the environments in order to perform high-level tasks such as errands, cleaning, cooking, and answering questions. If the systems collect just one type of information among the physical information and semantics of the surrounding environment, they can merely perform simple tasks and cannot provide meaningful services to humans.
+First of all, robotics systems must be able to perceive the semantic entities inherent in the environments as well as the geometry of the environments in order to perform high-level tasks such as errands, cleaning, cooking, and answering questions in addition to navigation. If the systems collect just one type of information among the physical information and semantics of the surrounding environment, they can merely perform simple tasks and cannot provide meaningful services to humans.
 
-Next, recognizing human behavior, intention or message in an efficient and effective manner is the very starting point of providing appropriate services to humans. Failing to recognize this information results in irrelevant services---leading to user dissatisfaction. autonomous systems gather information regarding human behavior, intention, or message through various sensor devices; computationally process the information; and detect human behavior, intention, or message.
+Next, versatile manipulation, and recognition of human behavior, intention or message are the very starting point of providing appropriate services to humans. Failing to equip the systems with these capabilities results in irrelevant services---leading to user dissatisfaction. Robootics systems gather information regarding the environment or human through various sensor devices; computationally process the information; detect human behavior, intention, or message; and perform manipulation to realize services.
+
+Further, the natural interaction between humans and robots is becoming more and more important as service robots have started to get deployed in our daily lives. Without natural interaction, robotics systems cannot maximize user satisfaction---missing the very goal of service robots. Natural HRI requires the investigation of human expectation and the reaction of humans, and the process of appropriate designs for intelligent interaction systems in robot-in-the-loop scenarios.
 
 ---
 
-## Visual Understanding for Embodied AI
+## Multi-modal perception and navigation
 ### SimVODIS: Simultaneous Visual Odometry, Object Detection and Instance Segmentation<sup>[1]</sup>
 <table class="demo_tb" style="width:45%; float: left; margin: 5px 15px 0px 0px;">
 <tr>
@@ -75,7 +78,7 @@ the past time steps although observing the same scene with a perfect match hardl
 
 ---
 
-## Recognition of Human Behavior, Intention or Message
+## Service robots
 ### A Stabilized Feedback Episodic Memory (SF-EM) and Home Service Provision Framework for Robot and IoT Collaboration<sup>[4]<sup>
 <table class="demo_tb" style="width:50%; float: left; margin: 5px 15px 0px 0px;">
 <tr>
@@ -91,6 +94,9 @@ src="https://www.youtube.com/embed/7ES-n5MLqmY">
 <strong>[Limitations of Convention]</strong> Conventional learning and reasoning algorithms such as hidden Markov model (HMM) or reinforcement learning (RL) either learn in an off-line setting or suffer from the curse of dimensionality. Adaptive theory resonance (ART) networks display instability in long-term scenarios and lack a feedback mechanism. <br/>
 <strong>[Contribution]</strong> First, we designed a stabilized memory system with a feedback mechanism for incremental learning of human behaviors and reasoning human intentions. Second, we proposed a home service provision framework for robot and IoT collaboration using the proposed SF-ART architecture. Third, we set up a Smart Home environment and verify the effectiveness of both the proposed memory architecture and the service framework.
 
+---
+
+## Intelligent interaction design
 ### I-Keyboard: Fully Imaginary Keyboard on Touch Devices Empowered by Deep Neural Decoder<sup>[5]<sup>
 <table class="demo_tb" style="width:45%; float: left; margin: 5px 15px 0px 0px;">
 <tr>

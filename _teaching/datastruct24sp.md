@@ -31,7 +31,7 @@ Hyung-Chan, Jeon (rabo8497@gm.gist.ac.kr)<br/>
   - (학문적 진실성에 대해서는 무관용 정책입니다.)
 - [**Midterm**] Date: Apr. 16, 1pm-3pm / Location: GIST College Building C (N6),  Room 104
   - Bring your student ID card
-
+- Mid-course feedback: Let us know your opionion through [this survey](https://forms.gle/8te44dZBvJbwawSg9) (**~Apr. 18**)
 
 <br/>
 
@@ -214,7 +214,7 @@ This course deals with the fundamentals of data structures; the very foundation 
       </td>
       <td>
         <a href="https://colab.research.google.com/drive/1rWj_XlAvtdDJY9xzwBg_fg5jWoU84a8D?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a>
-        <!--a href="https://colab.research.google.com/drive/1lGUQxlTXZXzKCMBaO1h-q-o0MZZOTW8E?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+        <a href="https://colab.research.google.com/drive/1lGUQxlTXZXzKCMBaO1h-q-o0MZZOTW8E?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
       </td>
     </tr>
     <tr>

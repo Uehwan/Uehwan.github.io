@@ -24,6 +24,6 @@ We design and build autonomous computing systems to make human lives better (AI 
 2. ***Robot Artificial Intelligence***, which consists of three core technologies to implement customized services: multi-modal perception, general-purpose navigation, and mobile manipulation.
 
 For more details, refer to our <br/>
-- research statement ([English](blog/2021/research-eng/)),
+- research statement ([English](blog/2024/research-eng/)),
 - advising statement ([한국어](blog/2021/advising-kor/), [English](blog/2024/advising-eng/)), and
-- 💡**NEW**💡 open positions ([한국어](blog/2024/open-positions-kor/), [English](blog/2024/open-positions-eng/)).
+- open positions ([한국어](blog/2024/open-positions-kor/), [English](blog/2024/open-positions-eng/)).
