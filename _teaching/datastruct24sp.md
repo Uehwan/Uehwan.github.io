@@ -20,7 +20,7 @@ Hyung-Chan, Jeon (rabo8497@gm.gist.ac.kr)<br/>
 - Lecture formats
   - [Feb. 27 ~ Mar. 14] Pre-recorded lectures + Recitations *with UHKim*
   - [Mar. 19 ~ Mar. 28] Online live lectures + Recitatinos (Pre-recorded)
-  - **[Apr. 2 ~ Apr. 11] Face-to-face lectures + Recitations (Pre-recorded)**
+  - [Apr. 2 ~ Apr. 11] Face-to-face lectures + Recitations (Pre-recorded)
 - Review report (RR) format available [here](https://docs.google.com/document/d/1iyHUFjtQCoM6bj0vhg6PyvUN8eVsiZBmKXKEiK5E26E/edit?usp=sharing)
 - Recitation starts from **Mar. 7**
 - I received some reports regarding copying other students’ RR, HW or etc.
@@ -32,6 +32,9 @@ Hyung-Chan, Jeon (rabo8497@gm.gist.ac.kr)<br/>
 - [**Midterm**] Date: Apr. 16, 1pm-3pm / Location: GIST College Building C (N6),  Room 104
   - Bring your student ID card
 - Mid-course feedback: Let us know your opionion through [this survey](https://forms.gle/8te44dZBvJbwawSg9) (**~Apr. 18**)
+- Lecture formats (what 75% of students opt for)
+  - **[Apr. 23 ~ May 30] Pre-recorded lectures + Recitations *with UHKim***
+  - Recitation starts from **May 2**.
 
 <br/>
 
@@ -255,9 +258,10 @@ This course deals with the fundamentals of data structures; the very foundation 
       <th scope="row">04-23</th>
       <td>Sorting</td>
       <td>
-        <!--a href="https://colab.research.google.com/drive/1JU0nNyFfujchqj8iKozABpfk_zht90rK?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a-->
-        <!--a href="https://docs.google.com/presentation/d/1I4nq2zOdjFCtgSxa4E6m4zisBHQlDnJsM0vjvhCbkXw/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
-        <!--a href="https://docs.google.com/spreadsheets/d/1CwVENsksJ6iug1FVf0RuOGI4WjwRol0ZTrvpsT_om3s/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a-->
+        <a href="https://colab.research.google.com/drive/1JU0nNyFfujchqj8iKozABpfk_zht90rK?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="https://docs.google.com/presentation/d/1I4nq2zOdjFCtgSxa4E6m4zisBHQlDnJsM0vjvhCbkXw/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="https://forms.gle/3a7y5KzAWR5bJqKM7" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="https://docs.google.com/spreadsheets/d/11yQu0cEbP3-N1JAi7jqrTDNXPbxqrcfT5mvP8j69RBk/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
       <td>
         <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
@@ -267,12 +271,13 @@ This course deals with the fundamentals of data structures; the very foundation 
       <th scope="row">04-25</th>
       <td>Sets and Maps</td>
       <td>
-        <!--a href="https://colab.research.google.com/drive/1OswXfEhBbV0dfyNEeqKaWKhfgxdvcVyQ?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a-->
-        <!--a href="https://docs.google.com/presentation/d/1azcgcVMUuwMhR2BWDFcAUa1qoTKqmIbEmNLuFXhwGeo/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
-        <!--a href="https://docs.google.com/spreadsheets/d/1SFynjERS9LTgF-HP0tRoze-wcnOzyz8sNj3LjS4lrXI/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a-->
+        <a href="https://colab.research.google.com/drive/1OswXfEhBbV0dfyNEeqKaWKhfgxdvcVyQ?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="https://docs.google.com/presentation/d/1azcgcVMUuwMhR2BWDFcAUa1qoTKqmIbEmNLuFXhwGeo/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="https://forms.gle/ySxahZ6ekztehmkq8" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="https://docs.google.com/spreadsheets/d/1NHCRV230hzDWN3mB3ZtbJJRCp4Aa0FHyje92mh-jC_g/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
       <td>
-        <!--a href="https://colab.research.google.com/drive/1gOUb3HylWlJPlPyIy35XVLLDnXPLOPnG?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
+        <!--a href="https://colab.research.google.com/drive/1gOUb3HylWlJPlPyIy35XVLLDnXPLOPnG?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">&nbsp;Recitation&nbsp;</a-->
         <!--a href="https://colab.research.google.com/drive/1MXT2NzGZg40O-MTLsoPLTbqwOxRqmyIS?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
       </td>
     </tr>
@@ -282,7 +287,8 @@ This course deals with the fundamentals of data structures; the very foundation 
       <td>
         <!--a href="https://colab.research.google.com/drive/1KIKJQ6Blrjh-IQxIzuTMA1gHIaphEERm?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a-->
         <!--a href="https://docs.google.com/presentation/d/1EYJ7qOhUqCC1_Il8KL4mzmF4LZ9hHXIpGvmF2prY3wg/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
-        <!--a href="https://docs.google.com/spreadsheets/d/1gvSBl1DgHhhBRu7cuOsei4dzeiPpyRGAm3R3uY4F6BE/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a-->
+        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a-->
+        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
       </td>
       <td>
         <!--a href="https://colab.research.google.com/drive/1O_s2E7SStwsP0DPYNnkVrD1uN6JCzSPu?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">&nbsp;Recitation&nbsp;</a-->
