@@ -241,7 +241,7 @@ This course deals with the fundamentals of data structures; the very foundation 
       <th scope="row">04-16</th>
       <td>Midterm</td>
       <td>
-        <!--a href="https://docs.google.com/document/d/1bL6LElLDIAkJif0LvUhhhjKyIWiwdheSQq36soruJr8/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+        <a href="https://docs.google.com/document/d/1vTsTSrJp7o6DWyAsacvX8YqpLB7fauWq28A1G_BUQQA/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
         <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
         <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Claim</a-->
       </td>
