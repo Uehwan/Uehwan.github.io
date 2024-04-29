@@ -285,23 +285,24 @@ This course deals with the fundamentals of data structures; the very foundation 
       <th scope="row">04-30</th>
       <td>Hashing</td>
       <td>
-        <!--a href="https://colab.research.google.com/drive/1KIKJQ6Blrjh-IQxIzuTMA1gHIaphEERm?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a-->
-        <!--a href="https://docs.google.com/presentation/d/1EYJ7qOhUqCC1_Il8KL4mzmF4LZ9hHXIpGvmF2prY3wg/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
-        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a-->
-        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
+        <a href="https://colab.research.google.com/drive/1KIKJQ6Blrjh-IQxIzuTMA1gHIaphEERm?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="https://docs.google.com/presentation/d/1EYJ7qOhUqCC1_Il8KL4mzmF4LZ9hHXIpGvmF2prY3wg/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="https://forms.gle/wfN8QsRENVkK478L9" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="https://docs.google.com/spreadsheets/d/1GXNq07O38h6NJYJuQfQ1C21ga1BkUmSP6dVQuxzHTXk/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
       <td>
-        <!--a href="https://colab.research.google.com/drive/1O_s2E7SStwsP0DPYNnkVrD1uN6JCzSPu?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">&nbsp;Recitation&nbsp;</a-->
-        <!--a href="https://colab.research.google.com/drive/1WVyXUSCvwOKnZwbs5ELoGk7GnxPs1gpp?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+        <a href="https://colab.research.google.com/drive/1gOUb3HylWlJPlPyIy35XVLLDnXPLOPnG?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a>
+        <!--a href="https://colab.research.google.com/drive/1MXT2NzGZg40O-MTLsoPLTbqwOxRqmyIS?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
       </td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
       <th scope="row">05-02</th>
       <td>Trees</td>
       <td>
-        <!--a href="https://colab.research.google.com/drive/1ND8W_AZOO82NxVNePIPfAXo7sD5B125Y?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a-->
-        <!--a href="https://docs.google.com/presentation/d/1r2V0T0YVbBkEInCGVWhR7ZTNLylulIQz8v-JcJ5gDOY/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
-        <!--a href="https://docs.google.com/spreadsheets/d/10D_l_03ls-vJXXDdeEvDVhCBUePQnA4g2UgYf5UoXHQ/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a-->
+        <a href="https://colab.research.google.com/drive/1ND8W_AZOO82NxVNePIPfAXo7sD5B125Y?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="https://docs.google.com/presentation/d/1r2V0T0YVbBkEInCGVWhR7ZTNLylulIQz8v-JcJ5gDOY/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="https://forms.gle/ccQNoRUarq5YvPkx5" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="https://docs.google.com/spreadsheets/d/1cQenLhpTWYAAFsZSAh_x0v3fYZsNrNTT_T5nl94WF2k/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
       <td>
         <!--a href="https://colab.research.google.com/drive/10kILfFt50KC4L5caESRsjbD581PVCfRl?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
