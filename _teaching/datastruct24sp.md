@@ -31,6 +31,8 @@ Hyung-Chan, Jeon (rabo8497@gm.gist.ac.kr)<br/>
   - (학문적 진실성에 대해서는 무관용 정책입니다.)
 - [**Midterm**] Date: Apr. 16, 1pm-3pm / Location: GIST College Building C (N6),  Room 104
   - Bring your student ID card
+  - Result is released!
+  - Claim during **May. 2, 1:30 pm - 2:30 pm** (after recitation)
 - Mid-course feedback: Let us know your opionion through [this survey](https://forms.gle/8te44dZBvJbwawSg9) (**~Apr. 18**)
 - Lecture formats (what 75% of students opt for)
   - **[Apr. 23 ~ May 30] Pre-recorded lectures + Recitations *with UHKim***
@@ -242,7 +244,7 @@ This course deals with the fundamentals of data structures; the very foundation 
       <td>Midterm</td>
       <td>
         <a href="https://docs.google.com/document/d/1vTsTSrJp7o6DWyAsacvX8YqpLB7fauWq28A1G_BUQQA/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
-        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
+        <a href="https://docs.google.com/spreadsheets/d/1jeQHbIa9RkyqwlHNqDXv5MevGywKHTBhoWz5GoKNiyY/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
         <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Claim</a-->
       </td>
       <td>
@@ -305,8 +307,8 @@ This course deals with the fundamentals of data structures; the very foundation 
         <a href="https://docs.google.com/spreadsheets/d/1cQenLhpTWYAAFsZSAh_x0v3fYZsNrNTT_T5nl94WF2k/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
       <td>
-        <!--a href="https://colab.research.google.com/drive/10kILfFt50KC4L5caESRsjbD581PVCfRl?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
-        <!--a href="https://colab.research.google.com/drive/1TwFM5dKC70jccGnih4ZUXSQDFJs82IHq?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+        <a href="https://colab.research.google.com/drive/1O_s2E7SStwsP0DPYNnkVrD1uN6JCzSPu?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">&nbsp;Recitation&nbsp;</a>
+        <!--a href="https://colab.research.google.com/drive/1WVyXUSCvwOKnZwbs5ELoGk7GnxPs1gpp?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
       </td>
     </tr>
     <tr>
