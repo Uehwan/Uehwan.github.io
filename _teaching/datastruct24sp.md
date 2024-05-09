@@ -335,8 +335,8 @@ This course deals with the fundamentals of data structures; the very foundation 
         <a href="https://docs.google.com/spreadsheets/d/1q_IDzs54BuOAQOb85bc7ttXPmjfO2kMBzsAfVtOHZ28/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
       <td>
-        <!--a href="https://colab.research.google.com/drive/11ZrrmS50XatmuMvt-g2thqbIhXTk8Flp?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
-        <!--a href="https://colab.research.google.com/drive/1BdIYexIjLWTKG4j-sf3qETbiyl6a3Qjg?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+        <a href="https://colab.research.google.com/drive/1V523Fm_nRqvN9FMBWue9InCQT1COsDCN?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">&nbsp;Recitation&nbsp;</a>
+        <!--a href="https://colab.research.google.com/drive/1I3nGInbKG2bO6f7oIr-FeJDyy1jWWejp?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
       </td>
     </tr>
     <tr>
