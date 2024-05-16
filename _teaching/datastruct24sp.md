@@ -357,13 +357,14 @@ This course deals with the fundamentals of data structures; the very foundation 
       <th scope="row">05-16</th>
       <td>234 Trees and Red-Black Trees</td>
       <td>
-        <!--a href="https://youtu.be/lqT23cje3Q0" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a-->
-        <!--a href="https://docs.google.com/presentation/d/1DWDnVYIWDtzksOjsa2BWKciT1cgK8YISIJnTHnRU2wk/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
-        <!--a href="https://colab.research.google.com/drive/1Dg6gmCcntKibeZ5ahHVhRd10PimNvh5J?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
+        <a href="https://colab.research.google.com/drive/1ICkrhTJvDpJtj58dwTlrENRUkQ6sjvln?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="https://docs.google.com/presentation/d/1DWDnVYIWDtzksOjsa2BWKciT1cgK8YISIJnTHnRU2wk/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="https://forms.gle/DKUdV98M7Ph2BP46A" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="https://docs.google.com/spreadsheets/d/1OFNsbSwI37IkQ9XaPD27BJfhJQtSXXYqYG1HPiXBcUw/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
       <td>
-        <!--a href="https://colab.research.google.com/drive/1l6UdPljozt4ryIQgAxXKpHaShvQCu31u?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
-        <!--a href="https://colab.research.google.com/drive/15TSj6TrvaAWQLUHDLvJNBL23WqNXvEaE?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+        <a href="https://colab.research.google.com/drive/1xllX2SmBuBBGW_uPyWFglREMdcZIWq_w?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">&nbsp;Recitation&nbsp;</a>
+        <!--a href="https://colab.research.google.com/drive/1E-EexcJsJcZQMBes18XM6bOoxJmgdXkl?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
       </td>
     </tr>
     <tr>
