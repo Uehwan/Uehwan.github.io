@@ -37,6 +37,8 @@ Hyung-Chan, Jeon (rabo8497@gm.gist.ac.kr)<br/>
 - Lecture formats (what 75% of students opt for)
   - **[Apr. 23 ~ May 30] Pre-recorded lectures + Recitations *with UHKim***
   - Recitation starts from **May 2**.
+- [**Final Exam**] Date: Jun. 11, 1pm-3pm / Location: GIST College Building C (N6),  Room 104
+  - Bring your student ID card
 
 <br/>
 
@@ -418,8 +420,8 @@ This course deals with the fundamentals of data structures; the very foundation 
         <!--a href="https://colab.research.google.com/drive/1Dg6gmCcntKibeZ5ahHVhRd10PimNvh5J?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
       </td>
       <td>
-        <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
-        <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+        <a href="https://colab.research.google.com/drive/1_BdGthDuJmP0Bya3kJqJCRZU2cHHf5Ef?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">&nbsp;Recitation&nbsp;</a>
+        <!--a href="https://colab.research.google.com/drive/1_BdGthDuJmP0Bya3kJqJCRZU2cHHf5Ef?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
       </td>
     </tr>
     <tr>
