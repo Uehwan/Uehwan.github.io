@@ -10,7 +10,7 @@ description: Information for Joining ACSL
 ---
 
 ## TO 상황
-우리 연구실은 [AI대학원](https://ai.gist.ac.kr/ai/), [미래형자동차인력양성학위과정](http://yonseiscd.web4in1.com/), [지능형모터트랙](https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-gist%EC%99%80-%EC%B1%84%EC%9A%A9%EC%97%B0%EA%B3%84-%EA%B3%BC%EC%A0%95-%ED%98%91%EB%A0%A5-%EC%A7%80%EB%8A%A5%ED%98%95-%EB%AA%A8%ED%84%B0-%EA%B0%9C)을 통해 매년 3명 내외로 새로운 구성원을 모집합니다. 모집 과정은 박사/통합/석사 과정입니다. 다만, 석사 과정은 TO가 많지 않고, 석사 과정 중 연구 성과를 도출할 것으로 보이는 경우 선발합니다. 석사 과정 중에 연구 성과가 도출되어야 연구실에서 의미 있는 연구 경험을 쌓을 수 있고, 본인 커리어에도 도움이 되기 때문입니다.
+우리 연구실은 [AI대학원](https://ai.gist.ac.kr/ai/), [미래형자동차인력양성학위과정](http://yonseiscd.web4in1.com/), [지능형모터트랙](https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-gist%EC%99%80-%EC%B1%84%EC%9A%A9%EC%97%B0%EA%B3%84-%EA%B3%BC%EC%A0%95-%ED%98%91%EB%A0%A5-%EC%A7%80%EB%8A%A5%ED%98%95-%EB%AA%A8%ED%84%B0-%EA%B0%9C)을 통해 매년 3명 내외로 새로운 구성원을 모집합니다. 모집 과정은 **학석사/학석박사 연계** 및 **박사/통합/석사 과**정입니다. 다만, 석사 과정은 TO가 많지 않고, 석사 과정 중 연구 성과를 도출할 것으로 보이는 경우 선발합니다. 석사 과정 중에 연구 성과가 도출되어야 연구실에서 의미 있는 연구 경험을 쌓을 수 있고, 본인 커리어에도 도움이 되기 때문입니다.
 
 *인턴 연구원은 TO가 유동적입니다(아래 참조).<br/>
 *박사후연구원(postdoctoral researcher)은 CV와 함께 연락 바랍니다.
