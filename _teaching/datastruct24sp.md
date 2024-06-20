@@ -39,6 +39,9 @@ Hyung-Chan, Jeon (rabo8497@gm.gist.ac.kr)<br/>
   - Recitation starts from **May 2**.
 - [**Final Exam**] Date: Jun. 11, 1pm-3pm / Location: GIST College Building C (N6),  Room 104
   - Bring your student ID card
+  - Check your result [here](https://docs.google.com/spreadsheets/d/1UYmgAF65AjLLJVo99ug7C2n7qx0c1zgij2Sm13u1EHA/edit?usp=sharing)
+  - +) [Homework result](https://docs.google.com/spreadsheets/d/1whetIvicv65bAeniQw-ncDXqkrPnxY_mb5_Tgj6cmMI/edit?usp=sharing) and [RR result](https://docs.google.com/spreadsheets/d/1XVmP8_FcJbXF8r47XThyuti6RV6kKEFyqjJSsRnruw4/edit?usp=sharing)
+  - If something went wrong, please contact me by **Jun. 26**
 
 <br/>
 
