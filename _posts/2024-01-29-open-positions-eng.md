@@ -65,11 +65,10 @@ Below is how we run the internship program.
   - ###### We provide research interns with space, research funds, and relevant devices.
 
 This is my previous research internship outcomes.
-- Yi-Rum Kim (EECS), Outstanding Graduation Thesis Award, ECCV<sup>[Top AI Conference]</sup> 1st author (Under Review)
+- Yi-Rum Kim (EECS), Outstanding Graduation Thesis Award
 - Se-Hoon Oh (EECS), Outstanding Graduation Thesis Award
-- Sang-Hyun Yoo (EECS), IJCAI<sup>[Top AI Conference]</sup> 1st author (Under Review)
-- Myung-Jin Lee (EECS), IJCAI<sup>[Top AI Conference]</sup> 1st author (Under Review)
-- Jeong-Wook Lee (EECS), IROS<sup>[Robotics Conference]</sup> 1st author (Under Review)
+- Myung-Jin Lee (EECS), RiTA<sup>[Robotics Conference]</sup> 1st author (Under Review)
+- Jeong-Wook Lee (EECS), RiTA<sup>[Robotics Conference]</sup> 1st author (Under Review)
 - Jae-Woo Kim (EECS), Outstanding Graduation Thesis Award, RiTA<sup>[Robotics Conference]</sup> 1st author
 
 ### FAQ

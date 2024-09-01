@@ -63,11 +63,10 @@ description: Information for Joining ACSL
   - ###### 연구 인턴에게는 연구 공간, 수탁연구비, 컴퓨터가 지급됩니다.
 
 이전 연구인턴 실적입니다.
-- 김이룸(EECS), 우수졸업논문상, ECCV<sup>[AI우수학회]</sup> 1저자(Under Review)
+- 김이룸(EECS), 우수졸업논문상
 - 오세훈(EECS), 우수졸업논문상
-- 유상현(EECS), IJCAI<sup>[AI우수학회]</sup> 1저자(Under Review)
-- 이명진(EECS), IJCAI<sup>[AI우수학회]</sup> 1저자(Under Review)
-- 이정욱(EECS), IROS<sup>[로보틱스학회]</sup> 1저자(Under Review)
+- 이명진(EECS), RiTA<sup>[로보틱스학회]</sup> 1저자(Under Review)
+- 이정욱(EECS), RiTA<sup>[로보틱스학회]</sup> 1저자(Under Review)
 - 김재우(EECS), 우수졸업논문상, RiTA<sup>[로보틱스학회]</sup> 1저자
 
 
