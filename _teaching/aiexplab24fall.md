@@ -95,7 +95,7 @@ This course will showcase various methods in machine learning and deep learning.
       </td>
       <td>
         <a href="https://colab.research.google.com/drive/11QTYpsUovdqSJgwLIs50Xj5Ho7G9eia1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
-        <!--a href="https://colab.research.google.com/drive/168DeDqEqYvMp8o7IhNoiamqbGnm6_SzH?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">solution</a-->
+        <a href="https://colab.research.google.com/drive/168DeDqEqYvMp8o7IhNoiamqbGnm6_SzH?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">solution</a>
       </td>
     </tr>
     <tr>
@@ -105,6 +105,56 @@ This course will showcase various methods in machine learning and deep learning.
     <tr style="border-bottom: 1.5px solid lightgrey;">
       <th scope="row">09-18</th>
       <td colspan="3">No Lecture (National Holiday)</td>
+    </tr>
+    <tr>
+      <th scope="row">09-23</th>
+      <td class="text-left"><b>[Session 02.1]</b> &nbsp;Perceptrons (cont'd)</td>
+      <td>
+        <a href="https://colab.research.google.com/drive/1lS-ERfqrf5SFJbUGolfbaD4d0m7wi4gG?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="https://docs.google.com/presentation/d/12fvxbsmoRLGDkiP0JzHuabd2GPgJMZwEONq8obJLF_U/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="https://forms.gle/9QWGaUjFq58WBAYw5" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="https://docs.google.com/spreadsheets/d/12pVXJjYJhXFX1GpUiaZL35x_KS4R1EEfi9YRRZ_sGiM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
+      </td>
+      <td></td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">09-25</th>
+      <td class="text-left"><b>[Session 03.0]</b> &nbsp;Loss functions</td>
+      <td>
+        <a href="https://colab.research.google.com/drive/1ThuWyO7TZmRl4wD_TJY_Dnem3xLnNgpw?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="https://docs.google.com/presentation/d/1xLUu3kGdvxGTZBd51gaOsqBJSFsE8dfC3e3KCKdkYMo/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="https://forms.gle/Ma75f5sMGwLpj93x8" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="https://docs.google.com/spreadsheets/d/1ZoEnjbaZYBfV4wJLrmtm7OPXny858YrmjgAAg6ijpGQ/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
+      </td>
+      <td>
+        <a href="https://colab.research.google.com/drive/1UmuQnx_6ZLEF0TBO5xepHiMrE1ZoKAUb?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
+        <!--a href="https://colab.research.google.com/drive/1OkBCRgn--iL3Luk1y8tTk5huiothhZfc?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">solution</a-->
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">09-30</th>
+      <td class="text-left"><b>[Session 03.1]</b> &nbsp;Loss functions (cont'd)</td>
+      <td>
+        <a href="https://colab.research.google.com/drive/1pN1HXWxU8vVtMqVBk31R3Gb5wDlboh2t?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="https://docs.google.com/presentation/d/1xLUu3kGdvxGTZBd51gaOsqBJSFsE8dfC3e3KCKdkYMo/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="https://forms.gle/QQRxLa92muLEqt1i7" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="https://docs.google.com/spreadsheets/d/16luHFR1HuEaNxTn6_jnysclmCrQcXkH6mX289A1zpyA/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
+      </td>
+      <td></td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">10-02</th>
+      <td class="text-left"><b>[Session 04.0]</b> &nbsp;Backpropagation</td>
+      <td>
+        <a href="https://colab.research.google.com/drive/1O-abi_Y3x42n3kgZaGVnlhcVPuL9wQYv?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="https://docs.google.com/presentation/d/1bmpGS7Q6nd-DQinUH2N31J8KVd-4s8mDk5aSBnVBmLU/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="https://forms.gle/NRFSZjgACGyL1iF77" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="https://docs.google.com/spreadsheets/d/1lPB1KvVId07Ia4c-jro8JkTqXDDu7rpg70wbN_P_2eM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
+      </td>
+      <td>
+        <a href="https://colab.research.google.com/drive/1-1nnBfSplxgUZx904l9vwQ7VIThYfTzy?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
+        <!--a href="https://colab.research.google.com/drive/1UqCoNw2_JL50U0t5ZeF5oY6PBJbQHVvB?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">solution</a-->
+      </td>
     </tr>
   </tbody>
 </table>
