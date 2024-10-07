@@ -20,6 +20,7 @@ Won-Sic, Jang (wonsicjang@gm.gist.ac.kr) <br/>
 ### Notice
 * Review report format available [here](https://docs.google.com/document/d/1iyHUFjtQCoM6bj0vhg6PyvUN8eVsiZBmKXKEiK5E26E/edit?usp=sharing)
 * *Recitations* start from **September 11** :)
+* We do not have recitation on **October 9** (we will cover the material on October 16).
 
 
 ### Introduction
@@ -153,7 +154,7 @@ This course will showcase various methods in machine learning and deep learning.
       </td>
       <td>
         <a href="https://colab.research.google.com/drive/1-1nnBfSplxgUZx904l9vwQ7VIThYfTzy?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
-        <!--a href="https://colab.research.google.com/drive/1UqCoNw2_JL50U0t5ZeF5oY6PBJbQHVvB?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">solution</a-->
+        <a href="https://colab.research.google.com/drive/1UqCoNw2_JL50U0t5ZeF5oY6PBJbQHVvB?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">solution</a>
       </td>
     </tr>
     <tr>
