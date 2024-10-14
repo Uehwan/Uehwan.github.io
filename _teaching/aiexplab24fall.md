@@ -172,7 +172,7 @@ This course will showcase various methods in machine learning and deep learning.
       <th scope="row">10-09</th>
       <td colspan="2">No Lecture (National Holiday)</td>
       <td>
-        <a href="https://colab.research.google.com/drive/1AKGwvkCDZnnOMbhvqO5D17iSYIqcsCNf?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
+        <a href="https://colab.research.google.com/drive/11lF4_s4SwzMcmK2mjYYghx7rE59MCmhb?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
         <!--a href="https://colab.research.google.com/drive/1Jd_xswFdWDLFDZi4SH0FMaImDQCpVppp?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">solution</a-->
       </td>
     </tr>
