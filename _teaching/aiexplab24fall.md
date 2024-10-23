@@ -21,7 +21,10 @@ Won-Sic, Jang (wonsicjang@gm.gist.ac.kr) <br/>
 * Review report format available [here](https://docs.google.com/document/d/1iyHUFjtQCoM6bj0vhg6PyvUN8eVsiZBmKXKEiK5E26E/edit?usp=sharing)
 * *Recitations* start from **September 11** :)
 * We do not have recitation on **October 9** (we will cover the material on October 16).
-
+* **[Midterm]** Date: Oct. 28, 4pm-6pm / Location: GIST Oryong Hall (W1) Room 203
+  * The exam is closed book, closed notes, closed computer, and closed calculator
+  * Just need to bring your pen, pencil and erasers in addition to *your student ID card*
+  * Coverage: Session 00 ~ Session 05 (including recitations)
 
 ### Introduction
 This course will showcase various methods in machine learning and deep learning. Throughout the semester, emphasis will be put on practical use cases. Examples of specific methods this course covers includes convolutional neural networks, recurrent neural networks, transformers and generative adversarial networks. Further, we will use Google Colab as our development environment.
@@ -173,7 +176,7 @@ This course will showcase various methods in machine learning and deep learning.
       <td colspan="2">No Lecture (National Holiday)</td>
       <td>
         <a href="https://colab.research.google.com/drive/11lF4_s4SwzMcmK2mjYYghx7rE59MCmhb?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
-        <!--a href="https://colab.research.google.com/drive/1Jd_xswFdWDLFDZi4SH0FMaImDQCpVppp?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">solution</a-->
+        <a href="https://colab.research.google.com/drive/1Jd_xswFdWDLFDZi4SH0FMaImDQCpVppp?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">solution</a>
       </td>
     </tr>
     <tr>
@@ -201,7 +204,7 @@ This course will showcase various methods in machine learning and deep learning.
       </td>
       <td>
         <a href="https://colab.research.google.com/drive/1vndkdUFAsGYEAswZLK4Gf1wKrwzpkxK5?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
-        <!--a href="https://colab.research.google.com/drive/1pe4udBEDOxRZiPVBG5wYV1QuJjOW6Lkz?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">solution</a-->
+        <a href="https://colab.research.google.com/drive/1pe4udBEDOxRZiPVBG5wYV1QuJjOW6Lkz?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">solution</a>
       </td>
     </tr>
     <tr>
@@ -225,13 +228,13 @@ This course will showcase various methods in machine learning and deep learning.
         <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
       </td>
       <td>
-        <a href="https://colab.research.google.com/drive/126iwrrxaZH30gnzVc4qhP-JPfeDGwIsA?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
-        <!--a href="https://colab.research.google.com/drive/1RtxmMv1vGrCXuURFr3BEG2rCeKkd-c1U?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">solution</a-->
+        <a href="https://colab.research.google.com/drive/1K1g5qyxa3c_7vlQIXEUwWOwY5bDr6ymZ?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
+        <a href="https://colab.research.google.com/drive/1RtxmMv1vGrCXuURFr3BEG2rCeKkd-c1U?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">solution</a>
       </td>
     </tr>
     <tr>
       <th scope="row">10-28</th>
-      <td class="text-left"><b>[Session 99.1]</b> &nbsp;Midterm (Tentative)</td>
+      <td class="text-left"><b>[Session 99.1]</b> &nbsp;Midterm</td>
       <td>
         <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
         <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Scores</a-->
