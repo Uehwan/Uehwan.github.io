@@ -25,6 +25,7 @@ Won-Sic, Jang (wonsicjang@gm.gist.ac.kr) <br/>
   * The exam is closed book, closed notes, closed computer, and closed calculator
   * Just need to bring your pen, pencil and erasers in addition to *your student ID card*
   * Coverage: Session 00 ~ Session 05 (including recitations)
+* We do not have recitation on **November 6**
 
 ### Introduction
 This course will showcase various methods in machine learning and deep learning. Throughout the semester, emphasis will be put on practical use cases. Examples of specific methods this course covers includes convolutional neural networks, recurrent neural networks, transformers and generative adversarial networks. Further, we will use Google Colab as our development environment.
@@ -188,6 +189,7 @@ This course will showcase various methods in machine learning and deep learning.
         <a href="https://forms.gle/nEcbtQTwKES5b26i7" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
         <a href="https://docs.google.com/spreadsheets/d/1-k1Yq44tTwFltu2zRs7FrT0UoyWkceBKVg0a_okwU5w/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
+      <td></td>
       <!--td>
         <a href="https://colab.research.google.com/drive/1AKGwvkCDZnnOMbhvqO5D17iSYIqcsCNf?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
         <a href="https://colab.research.google.com/drive/1Jd_xswFdWDLFDZi4SH0FMaImDQCpVppp?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">solution</a>
@@ -278,6 +280,7 @@ This course will showcase various methods in machine learning and deep learning.
         <a href="https://forms.gle/Kjm4Ea5yJ5jbvypr7" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
         <a href="https://docs.google.com/spreadsheets/d/1r3R3N9jk1dlZqxNQM73fIKVeVIvngc2o88pXdipB-pc/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
+      <td></td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
       <th scope="row">11-13</th>
@@ -302,6 +305,7 @@ This course will showcase various methods in machine learning and deep learning.
         <a href="https://forms.gle/MLnhdU3NcZQeAoAeA" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
         <a href="https://docs.google.com/spreadsheets/d/1e0OGv15IlyP1PJWBD-gw4b0DZDH-Vc0T1lWLduivdaI/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
       </td>
+      <td></td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
       <th scope="row">11-20</th>
