@@ -26,6 +26,13 @@ Won-Sic, Jang (wonsicjang@gm.gist.ac.kr) <br/>
   * Just need to bring your pen, pencil and erasers in addition to *your student ID card*
   * Coverage: Session 00 ~ Session 05 (including recitations)
 * We do not have recitation on **November 6**
+* **RR Result (~midterm)**
+  * Check the result [here](https://docs.google.com/spreadsheets/d/1GGiZGXJzFa8pUXFsQ07OFX5HHT6AYJZ1RDNzKAhGOmU/edit?usp=sharing)
+  * The meaning of scores
+    * 0.50: not sufficient amount of content
+    * 0.25: link is broken
+  * RR claim will be on Nov. 20 after the recitation
+    * You can claim for the broken link showing the edit history
 
 ### Introduction
 This course will showcase various methods in machine learning and deep learning. Throughout the semester, emphasis will be put on practical use cases. Examples of specific methods this course covers includes convolutional neural networks, recurrent neural networks, transformers and generative adversarial networks. Further, we will use Google Colab as our development environment.
