@@ -25,6 +25,8 @@ Won-Sic, Jang (wonsicjang@gm.gist.ac.kr) <br/>
   * The exam is closed book, closed notes, closed computer, and closed calculator
   * Just need to bring your pen, pencil and erasers in addition to *your student ID card*
   * Coverage: Session 00 ~ Session 05 (including recitations)
+  * Result released! Check [this document](https://docs.google.com/spreadsheets/d/1Fy7-t4L2PusdKW-AqKlXuELfJGXpczh96AxLTJAc9ow/edit?usp=sharing)
+    * Claim during Dec. 3, 7pm-8pm C11 Room 410
 * We do not have recitation on **November 6**
 * **RR Result (~midterm)**
   * Check the result [here](https://docs.google.com/spreadsheets/d/1GGiZGXJzFa8pUXFsQ07OFX5HHT6AYJZ1RDNzKAhGOmU/edit?usp=sharing)
