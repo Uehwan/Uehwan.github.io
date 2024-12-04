@@ -35,6 +35,11 @@ Won-Sic, Jang (wonsicjang@gm.gist.ac.kr) <br/>
     * 0.25: link is broken
   * RR claim will be on Nov. 20 after the recitation
     * You can claim for the broken link showing the edit history
+* **[Final Exam]** Date: Dec. 16, 4pm-6pm / Location: GIST College Building C (N6) Room 104
+  * The exam is closed book, closed notes, closed computer, and closed calculator
+  * Just need to bring your pen, pencil and erasers in addition to *your student ID card*
+  * Coverage: Session 06 ~ Session 10 (including recitations)
+
 
 ### Introduction
 This course will showcase various methods in machine learning and deep learning. Throughout the semester, emphasis will be put on practical use cases. Examples of specific methods this course covers includes convolutional neural networks, recurrent neural networks, transformers and generative adversarial networks. Further, we will use Google Colab as our development environment.
@@ -352,7 +357,7 @@ This course will showcase various methods in machine learning and deep learning.
       </td>
       <td>
         <a href="https://colab.research.google.com/drive/1LvevQ516fvHllF61Y1zkaRXG5cYesFmW?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
-        <!--a href="https://colab.research.google.com/drive/1jaSDPJBnQfcGu7gOjIK78WrgiwY4RqRf?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">solution</a-->
+        <a href="https://colab.research.google.com/drive/1jaSDPJBnQfcGu7gOjIK78WrgiwY4RqRf?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">solution</a>
       </td>
     </tr>
     <tr>
