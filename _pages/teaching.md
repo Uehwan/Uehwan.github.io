@@ -12,11 +12,11 @@ order: 3
     <div class="row justify-content-center">
         <div class="card" style="width: 95%; margin-bottom: 2em;">
             <div class="card-body" style="margin-bottom: 1em;">
-                <img class="float-right" style="max-height: 124px; width: auto;" src="/assets/img/ds.png" />
-                <h4 class="card-title" style="margin-bottom: 0.15em;">Data Structures</h4>
-                <p class="card-text" style="margin-bottom: 0.7em; font-size: medium">EC2202</p>
-                <p style="margin-bottom: 0.7em; font-weight: lighter">Fundamental data structures; concepts and hands-on experiences.</p>
-                <a href="./datastruct24sp"><b>2024 Spring</b></a> / <a href="./datastruct23sp"><b>2023 Spring</b></a> / <a href="./datastruct22sp"><b>2022 Spring</b></a>
+                <img class="float-right" style="max-height: 124px; width: auto;" src="/assets/img/sysprog.png" />
+                <h4 class="card-title" style="margin-bottom: 0.15em;">System Programming</h4>
+                <p class="card-text" style="margin-bottom: 0.7em; font-size: medium">AI2004 / EC3202</p>
+                <p style="margin-bottom: 0.7em; font-weight: lighter">Introduction to AI systems; analysis, modeling and simulation.</p>
+                <a href="./sysprog25sp"><b>2025 Spring</b></a>
             </div>
         </div>
         <div class="card" style="width: 95%; margin-bottom: 2em;">
@@ -26,6 +26,15 @@ order: 3
                 <p class="card-text" style="margin-bottom: 0.7em; font-size: medium">AI4003 / AI5214 / EC5214</p>
                 <p style="margin-bottom: 0.7em; font-weight: lighter">Hands-on practices on machine learning and deep learning.</p>
                 <a href="./aiexplab24fall"><b>2024 Fall</b></a> / <a href="./aiexplab23fall"><b>2023 Fall</b></a> / <a href="./aiexplab22fall"><b>2022 Fall</b></a>
+            </div>
+        </div>
+        <div class="card" style="width: 95%; margin-bottom: 2em;">
+            <div class="card-body" style="margin-bottom: 1em;">
+                <img class="float-right" style="max-height: 124px; width: auto;" src="/assets/img/ds.png" />
+                <h4 class="card-title" style="margin-bottom: 0.15em;">Data Structures</h4>
+                <p class="card-text" style="margin-bottom: 0.7em; font-size: medium">EC2202</p>
+                <p style="margin-bottom: 0.7em; font-weight: lighter">Fundamental data structures; concepts and hands-on experiences.</p>
+                <a href="./datastruct24sp"><b>2024 Spring</b></a> / <a href="./datastruct23sp"><b>2023 Spring</b></a> / <a href="./datastruct22sp"><b>2022 Spring</b></a>
             </div>
         </div>
     </div>
