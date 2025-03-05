@@ -1,20 +1,17 @@
 ---
 layout: course
-title: System Programming
+title: (AI) System Programming
 description: Spring 2025
 ---
 
 **Schedule**: Mon/Wed 4:00pm-6:00pm<br/>
-**Location**: GIST College Building A (N4), Room 227 ([Zoom Online](https://us06web.zoom.us/j/87925937140?pwd=Qm1XTmU4MENybXVEeWJ5eVh2Z0dKdz09))<br/>
+**Location**: GIST College Building C (N6), Room 110 ([Zoom Online](https://us06web.zoom.us/j/87925937140?pwd=Qm1XTmU4MENybXVEeWJ5eVh2Z0dKdz09))<br/>
 
 
 **Instructor**: Ue-Hwan, Kim (uehwan@gist.ac.kr)<br/>
 **Office**: GIST Central Research Facilities (C11) 407<br/>
-**Office Hour**: Tue 4pm-5pm or by appointment
-
-**TAs**:<br/>
-TBD <br/>
-TBD <br/>
+**Office Hour**: Tue 4pm-5pm (by appointment)
+<br/>
 <br/>
 
 ### Notice
@@ -41,8 +38,8 @@ This course provides a comprehensive introduction to artificial intelligence sys
     <tr>
       <th class="col-sm-1" scope="col">Date</th>
       <th class="col-sm-4" scope="col">Topic</th>
-      <th class="col-sm-3" scope="col">Materials</th>
-      <th class="col-sm-2" scope="col">Homeworks</th>
+      <th class="col-sm-1" scope="col">Materials</th>
+      <th class="col-sm-4" scope="col">Homeworks</th>
     </tr>
   </thead>
   <tbody>
@@ -54,9 +51,7 @@ This course provides a comprehensive introduction to artificial intelligence sys
       <th scope="row">03-05</th>
       <td class="text-left"><b>[Module 0]</b> &nbsp;Introduction</td>
       <td>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a>
+        <a href="https://docs.google.com/presentation/d/1fjMeEUMc9Do0XsF0uSWUB3BM3t124V5cY3m4u7Ikw2I/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Handout</a>
       </td>
       <td></td>
     </tr>
