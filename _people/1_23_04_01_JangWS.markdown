@@ -1,7 +1,7 @@
 ---
 layout: people
 name: Won-Shik Jang
-role: Master Course
+role: Integrated Course
 email: wonsicjang@gm.gist.ac.kr
 img: /assets/img/student_23_01_03_JangWS.jpeg
 sequence: 1230401

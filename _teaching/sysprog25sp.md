@@ -51,9 +51,209 @@ This course provides a comprehensive introduction to artificial intelligence sys
       <th scope="row">03-05</th>
       <td class="text-left"><b>[Module 0]</b> &nbsp;Introduction</td>
       <td>
-        <a href="https://docs.google.com/presentation/d/1fjMeEUMc9Do0XsF0uSWUB3BM3t124V5cY3m4u7Ikw2I/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Handout</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Handout</a>
       </td>
       <td></td>
+    </tr>
+    <tr>
+      <th scope="row">03-10</th>
+      <td class="text-left"><b>[Module 1]</b> &nbsp;</td>
+      <td>
+      </td>
+      <td></td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">03-12</th>
+      <td class="text-left"><b>[Module 1]</b> &nbsp;</td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">03-17</th>
+      <td class="text-left"><b>[Module 1]</b> &nbsp;</td>
+      <td>
+      </td>
+      <td></td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">03-19</th>
+      <td class="text-left"><b>[Module 1]</b> &nbsp;</td>
+      <td>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">03-24</th>
+      <td class="text-left"><b>[Module 1]</b> &nbsp;</td>
+      <td>
+      </td>
+      <td></td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">03-26</th>
+      <td class="text-left"><b>[Module x]</b> &nbsp;</td>
+      <td>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">03-31</th>
+      <td class="text-left"><b>[Module x]</b> &nbsp;</td>
+      <td>
+      </td>
+      <td></td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">04-02</th>
+      <td class="text-left"><b>[Module x]</b> &nbsp;</td>
+      <td>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">04-07</th>
+      <td class="text-left"><b>[Module x]</b> &nbsp;</td>
+      <td>
+      </td>
+      <td></td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">04-09</th>
+      <td class="text-left"><b>[Module x]</b> &nbsp;</td>
+      <td>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">04-14</th>
+      <td class="text-left"><b>[Module x]</b> &nbsp;</td>
+      <td>
+      </td>
+      <td></td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">04-16</th>
+      <td class="text-left"><b>[Module x]</b> &nbsp;</td>
+      <td>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">04-21</th>
+      <td class="text-left"><b>[Module 9]</b> &nbsp;Midterm</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">04-23</th>
+      <td colspan="3">No Lecture (Midterm Period)</td>
+    </tr>
+    <tr>
+      <th scope="row">04-28</th>
+      <td class="text-left"><b>[Module x]</b> &nbsp;</td>
+      <td>
+      </td>
+      <td></td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">04-30</th>
+      <td class="text-left"><b>[Module x]</b> &nbsp;</td>
+      <td>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">05-05</th>
+      <td colspan="3">No Lecture (National Holiday)</td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">05-07</th>
+      <td class="text-left"><b>[Module x]</b> &nbsp;</td>
+      <td>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">05-12</th>
+      <td class="text-left"><b>[Module x]</b> &nbsp;</td>
+      <td>
+      </td>
+      <td></td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">05-14</th>
+      <td class="text-left"><b>[Module x]</b> &nbsp;</td>
+      <td>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">05-19</th>
+      <td class="text-left"><b>[Module x]</b> &nbsp;</td>
+      <td>
+      </td>
+      <td></td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">05-21</th>
+      <td class="text-left"><b>[Module x]</b> &nbsp;</td>
+      <td>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">05-26</th>
+      <td class="text-left"><b>[Module x]</b> &nbsp;</td>
+      <td>
+      </td>
+      <td></td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">05-28</th>
+      <td class="text-left"><b>[Module x]</b> &nbsp;</td>
+      <td>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">06-02</th>
+      <td class="text-left"><b>[Module x]</b> &nbsp;</td>
+      <td>
+      </td>
+      <td></td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">06-04</th>
+      <td class="text-left"><b>[Module x]</b> &nbsp;</td>
+      <td>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">06-09</th>
+      <td class="text-left"><b>[Module x]</b> &nbsp;</td>
+      <td>
+      </td>
+      <td></td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">06-11</th>
+      <td class="text-left"><b>[Module x]</b> &nbsp;</td>
+      <td>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">12-16</th>
+      <td class="text-left"><b>[Module 9]</b> &nbsp;Final exam</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">12-18</th>
+      <td colspan="3">No Lecture (Final Exam Period)</td>
     </tr>
   </tbody>
 </table>
