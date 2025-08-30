@@ -65,8 +65,8 @@ description: Information for Joining ACSL
 이전 연구인턴 실적입니다.
 - 김이룸(EECS), 우수졸업논문상
 - 오세훈(EECS), 우수졸업논문상
-- 이명진(EECS), RiTA<sup>[로보틱스학회]</sup> 1저자(Under Review)
-- 이정욱(EECS), RiTA<sup>[로보틱스학회]</sup> 1저자(Under Review)
+- 이명진(EECS), RiTA<sup>[로보틱스학회]</sup> 1저자
+- 이정욱(EECS), RiTA<sup>[로보틱스학회]</sup> 1저자
 - 김재우(EECS), 우수졸업논문상, RiTA<sup>[로보틱스학회]</sup> 1저자
 
 
@@ -97,7 +97,7 @@ description: Information for Joining ACSL
 ##### 어떤 주제의 연구를 수행중인가요?
 - 현재 다음 네 가지 주제로 연구를 진행하고 있습니다.
   - Robot AI: semantic simultaneous localization and mapping & general-purpose navigation
-  - Tiny machine learning: efficient model design for edge and mobile devices
+  - Robot manipulation: high-level task planning and robust manipulation
   - Collaborative AI: multi-agent based unified visual intelligence
   - Self-evolving AI: zero-shot change detection & incremental classification or detection
 

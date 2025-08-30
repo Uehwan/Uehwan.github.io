@@ -67,8 +67,8 @@ Below is how we run the internship program.
 This is my previous research internship outcomes.
 - Yi-Rum Kim (EECS), Outstanding Graduation Thesis Award
 - Se-Hoon Oh (EECS), Outstanding Graduation Thesis Award
-- Myung-Jin Lee (EECS), RiTA<sup>[Robotics Conference]</sup> 1st author (Under Review)
-- Jeong-Wook Lee (EECS), RiTA<sup>[Robotics Conference]</sup> 1st author (Under Review)
+- Myung-Jin Lee (EECS), RiTA<sup>[Robotics Conference]</sup> 1st author
+- Jeong-Wook Lee (EECS), RiTA<sup>[Robotics Conference]</sup> 1st author
 - Jae-Woo Kim (EECS), Outstanding Graduation Thesis Award, RiTA<sup>[Robotics Conference]</sup> 1st author
 
 ### FAQ
@@ -98,6 +98,6 @@ This is my previous research internship outcomes.
 ##### What research topics are you working on?
 - We are currently woring on the following four topics.
   - Robot AI: semantic simultaneous localization and mapping & general-purpose navigation
-  - Tiny machine learning: efficient model design for edge and mobile devices
+  - - Robot manipulation: high-level task planning and robust manipulation
   - Collaborative AI: multi-agent based unified visual intelligence
   - Self-evolving AI: zero-shot change detection & incremental classification or detection

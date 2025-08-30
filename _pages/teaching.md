@@ -25,7 +25,7 @@ order: 3
                 <h4 class="card-title" style="margin-bottom: 0.15em;">AI Experience Laboratory</h4>
                 <p class="card-text" style="margin-bottom: 0.7em; font-size: medium">AI4003 / AI5214 / EC5214</p>
                 <p style="margin-bottom: 0.7em; font-weight: lighter">Hands-on practices on machine learning and deep learning.</p>
-                <a href="./aiexplab24fall"><b>2024 Fall</b></a> / <a href="./aiexplab23fall"><b>2023 Fall</b></a> / <a href="./aiexplab22fall"><b>2022 Fall</b></a>
+                <a href="./aiexplab25fall"><b>2025 Fall</b></a> / <a href="./aiexplab24fall"><b>2024 Fall</b></a> / <a href="./aiexplab23fall"><b>2023 Fall</b></a> / <a href="./aiexplab22fall"><b>2022 Fall</b></a>
             </div>
         </div>
         <div class="card" style="width: 95%; margin-bottom: 2em;">

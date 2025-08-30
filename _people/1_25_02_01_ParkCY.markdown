@@ -2,7 +2,7 @@
 layout: people
 name: Chan-Young Park
 role: Master Course
-email: pchy0316@gm.gist.kr
+email: pchy0316@gm.gist.ac.kr
 img: /assets/img/student_25_02_01_ParkCY.png
 sequence: 1250201
 redirect: https://absorbed-wallet-041.notion.site/Chanyoung-Park-1ae6af31f6d780b5acecd5feca887704

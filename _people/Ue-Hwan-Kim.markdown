@@ -1,7 +1,7 @@
 ---
 layout: people
 name: Ue-Hwan Kim
-role: Assistant Professor
+role: Associate Professor
 email: uehwan@gist.ac.kr
 img: /assets/img/prof_pic.png
 sequence: 1
@@ -9,8 +9,8 @@ redirect: # /people/1_professor
 category: Faculty
 ---
 
-Assistant Professor <br/>
-[AI Graduate School](https://ai.gist.ac.kr){:target="\_blank"} <br/>
+Associate Professor <br/>
+[Department of AI Convergence](https://ai.gist.ac.kr){:target="\_blank"} <br/>
 [Gwangju Institue of Science and Technology](https://www.gist.ac.kr/){:target="\_blank"}
 
 <br/>
