@@ -6,7 +6,7 @@ email: uehwan@gist.ac.kr
 img: /assets/img/prof_pic.png
 sequence: 1
 redirect: # /people/1_professor
-category: Faculty
+category: Faculty & Staff
 ---
 
 Associate Professor <br/>
@@ -34,6 +34,7 @@ Associate Professor <br/>
 
 <br/>
 ## Selected Honors
+- Outstanding teaching award, GIST, Nov. 2023.
 - Best research achievement award from KAIST EE, June 2020.
 - Research Highlights of the year (2020), KAIST, Feb. 2020
 
@@ -41,16 +42,23 @@ Associate Professor <br/>
 ## Selected Service
 - Program Committee
   - Financial Chair, IV 2024
-  - Associate Editors, UR 2023, 2024
+  - Associate Editors, UR 2023, 2024, 2025
   - Publication Chair, RiTA 2023
   - Publication Chair, KRoC 2023, 2024
-  - Editorial Board, ICROS 2022, 2023, 2024
+  - Editorial Board, ICROS 2022, 2023, 2024, 2025
   - Publicity Chair, RiTA 2021
   - Session Chair, ICCAS 2021
 
 <br />
 ## Invited Talks
+**Spatial AI for Intelligent Agents**
+- Seminar at Korea Institute of Industrial Technology, Nov. 15, 2024.
+- Seminar at ETRI, Sep. 19, 2024.
+- Seminar at GIST-ETRI AI Workshop, Aug. 21, 2024.
+- Seminar at The 2nd Korea-Japan Workshop on Artificial Intelligence, Aug. 2, 2024.
+
 **3D Scene Understanding for Collaborative AI Bots**
+- Seminar at Korea Internet Conference (KRnet 2024), Jun. 25, 2024.
 - Seminar at GIST-ETRI AI Workshop, Aug. 16, 2023.
 
 **Layout-Free Text-Entry Methods for a Metaverse**

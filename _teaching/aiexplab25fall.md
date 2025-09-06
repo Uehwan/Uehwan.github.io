@@ -20,7 +20,10 @@ Yi-Rum, Kim (kimyirum@gm.gist.ac.kr) <br/>
 
 ### Notice
 * Review report format available [here](https://docs.google.com/document/d/1iyHUFjtQCoM6bj0vhg6PyvUN8eVsiZBmKXKEiK5E26E/edit?usp=sharing)
+  * Don't forget to make your RR **sharable**, so that TAs can view them
+  * For RR submission results, you can scroll down (the number starts from 50 or 60)
 * *Recitations* start from **September 10** :)
+* Introduction video updated!
 
 
 ### Introduction
@@ -56,7 +59,7 @@ This course will showcase various methods in machine learning and deep learning.
       <th scope="row">09-01</th>
       <td class="text-left"><b>[Session 00.0]</b> &nbsp;Introduction</td>
       <td>
-        <a href="https://youtu.be/qR2q4jwN-Rs" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="https://youtu.be/CTR7JyzHC3I" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
         <a href="https://docs.google.com/presentation/d/1Rqgy6Gc--kJjimmnf_W5UISFkl5qR20v-7fZMrF3RG4/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
         <a href="https://forms.gle/fqDqLDriX9yEfi1h6" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
         <a href="https://docs.google.com/spreadsheets/d/1s96owmnLZEP80VeFA1TFRC8z5c7-M_HCPLV1VuQ8syA/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
