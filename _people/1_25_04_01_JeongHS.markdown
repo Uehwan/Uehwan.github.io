@@ -2,7 +2,7 @@
 layout: people
 name: Hyun-Seok Jeong
 role: Postdoctoral researcher
-email: temp@gist.ac.kr
+email: hyunseok25@gist.ac.kr
 img: /assets/img/postdoc_25_04_01_JeongHS.jpeg
 sequence: 2
 redirect: https://hsjeong14.github.io/HyunseokJeong.github.io/
