@@ -24,7 +24,7 @@ Yi-Rum, Kim (kimyirum@gm.gist.ac.kr) <br/>
   * For RR submission results, you can scroll down (the number starts from 50 or 60)
 * *Recitations* start from **September 10** :)
 * Introduction video updated!
-* **[Midterm]** Date: Oct. 27, 4pm-6pm / Location: Not fixed yet
+* **[Midterm]** Date: Oct. 27, 4pm-6pm / Location: GIST College Building C (N6) Room 104
   * The exam is closed book, closed notes, closed computer, and closed calculator
   * Just need to bring your pen, pencil and erasers in addition to *your student ID card*
   * Coverage: Session 00 ~ Session 05 (including recitations)
