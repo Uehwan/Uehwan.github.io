@@ -345,6 +345,72 @@ This course will showcase various methods in machine learning and deep learning.
       </td>
       <td></td>
     </tr>
+    <tr>
+      <th scope="row">12-01</th>
+      <td class="text-left"><b>[Session 10.0]</b> &nbsp;Transformers</td>
+      <td>
+        <a href="https://colab.research.google.com/drive/1HUXrxl6GB7lrIv6_HkegFIT-QSzmMuoQ?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="https://docs.google.com/presentation/d/1cLbQQyoWu1rHiIZPGIsl54meQgFmqiUATzo3N_xBKMg/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="https://forms.gle/Kt86kDNdTt8gX3sP8" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="https://docs.google.com/spreadsheets/d/1B9IMKcSsQ8zh_nmHu6qDvHN0tCAvc76Ca2okURP6SsA/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
+      </td>
+      <td>
+        <a href="https://colab.research.google.com/drive/1x_HxKKVAVD5YtJEn7zhd-S1dtvy-NY2n?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
+        <a href="https://colab.research.google.com/drive/1QcglxFnjO7Qd8H1Re6RUFnxWfU1mIp9l?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">solution</a>
+      </td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">12-03</th>
+      <td class="text-left"><b>[Session 10.1]</b> &nbsp;Transformers (cont'd)</td>
+      <td>
+        <a href="https://colab.research.google.com/drive/1BtUYrn_x-OpXX1_hPCKzSfFOBZJPDtVC?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="https://docs.google.com/presentation/d/1cLbQQyoWu1rHiIZPGIsl54meQgFmqiUATzo3N_xBKMg/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="https://forms.gle/kmSSDrsobxfSwxX8A" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="https://docs.google.com/spreadsheets/d/1LOFUEyVNle8fANlqSAILmo6YkgWlsalWX2fue_o__js/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">12-08</th>
+      <td class="text-left"><b>[Session 99.2]</b> &nbsp;Final exam review (Q&A) </td>
+      <td>
+        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
+      </td>
+      <td>
+        <a href="https://colab.research.google.com/drive/1xhfM7-JYNzEuMbpXlg8-xYphh_5cwSb4?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Exercises</a>
+        <a href="https://colab.research.google.com/drive/16kJBYCO94pm_DVq7A1TSkeC46gzf7q1J?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">solution</a>
+      </td>
+      <!--td class="text-left"><b>[Session 00.1]</b> &nbsp;AI Days</td>
+      <td>
+        <a href="https://docs.google.com/presentation/d/1loU8AcLZklx_JRnW_SieXEln5mYWFeQu_U-HEdx9RmE/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Lecture</a>
+        <a href="https://docs.google.com/presentation/d/1loU8AcLZklx_JRnW_SieXEln5mYWFeQu_U-HEdx9RmE/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="https://forms.gle/CK23RDyVnFydJj5s5" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Submit</a>
+        <a href="https://docs.google.com/spreadsheets/d/1RkDNsDMXePnJ-I3iGFQY48Pz2IYdQNCxNeuNDog77D8/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
+      </td>
+      <td></td-->
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">12-10</th>
+      <td colspan="3">No Lecture (Final Exam Preparation)</td>
+    </tr>
+    <tr>
+      <th scope="row">12-15</th>
+      <td class="text-left"><b>[Session 99.3]</b> &nbsp;Final exam</td>
+      <td>
+        <!--a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Scores</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Claim</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a-->
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">12-17</th>
+      <td colspan="3">No Lecture (Final Exam Period)</td>
+    </tr>
   </tbody>
 </table>
 </div>

@@ -54,7 +54,7 @@ Below is how we run the internship program.
   - ###### Through study, study interns learn basic knowledge for conducting research in our laboratory.  
   - ###### A mentor in charge operates the study (study materials, Q&A, etc.).
   - ###### The mentor gives study interns everyweek's study materials / assignments, and checks the progress and takes questions through weekly meetings.
-  - ###### The study has three courses: 1) Machine Learning and Deep Learning, 2) Data Structures and Algorithms, and 3) Software Engineering.
+  - ###### The study has three courses: 1) Machine Learning and Deep Learning, 2) Introduction to Robotics and 3) Data Structures and Algorithms.
   - ###### Of the three courses, you will participate in one or more studies depending on your experience.
 
   
