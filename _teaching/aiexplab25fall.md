@@ -31,6 +31,11 @@ Yi-Rum, Kim (kimyirum@gm.gist.ac.kr) <br/>
   * Check out the model exam [here](https://docs.google.com/document/d/10jEnT5cWu2jbA1rLZj7jJkDCm2zLwWaSexAyWStpo_M/edit?usp=sharing).
   * Result released! Check [this document](https://docs.google.com/spreadsheets/d/1wPgyDlPVcM8a-b8eVglAnsCki_xL6WpVkxI6pVkqb58/edit?usp=sharing)
     * Claim during Dec. 3, 4pm-5pm C11 Room 410
+* **[Final Exam]** Date: Dec. 15, 4pm-6pm / Location: GIST College Building C (N6) Room 104
+  * The exam is closed book, closed notes, closed computer, and closed calculator
+  * Just need to bring your pen, pencil and erasers in addition to *your student ID card*
+  * Coverage: Session 06 ~ Session 10 (including recitations)
+  * Check out the model exam [here](https://docs.google.com/document/d/1_OjEWEkLlnzMXXiWUX__nZ_6PSirY1bOFo0Osf27sy4/edit?usp=sharing).
 
 
 ### Introduction
