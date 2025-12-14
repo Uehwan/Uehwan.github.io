@@ -36,6 +36,13 @@ Yi-Rum, Kim (kimyirum@gm.gist.ac.kr) <br/>
   * Just need to bring your pen, pencil and erasers in addition to *your student ID card*
   * Coverage: Session 06 ~ Session 10 (including recitations)
   * Check out the model exam [here](https://docs.google.com/document/d/1_OjEWEkLlnzMXXiWUX__nZ_6PSirY1bOFo0Osf27sy4/edit?usp=sharing).
+* **RR Result**
+  * Check the result [here](https://docs.google.com/spreadsheets/d/1mGIe3Ve6CKLcIRmi_lvmQBS-bXXKwAa4088FSIUQ1Tg/edit?usp=sharing)
+  * The meaning of scores
+    * 0.50: not sufficient amount of content
+    * 0.25: link is broken
+  * RR claim will be announced by TAs during the final exam
+    * You can claim for the broken link showing the edit history
 
 
 ### Introduction
