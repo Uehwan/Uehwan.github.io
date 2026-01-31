@@ -4,7 +4,7 @@ title: People
 permalink: /people/
 description:
 nav: true
-display_categories: [Faculty & Staff, Students]
+display_categories: [Faculty, Students]
 order: 1
 ---
 <div class="people">
@@ -22,6 +22,7 @@ order: 1
     {% endfor %}
     <h2 class="category">Alumni</h2>
       <ul>
+        <li><a href="https://hsjeong14.github.io/HyunseokJeong.github.io/" target="_blank">Hyun-Seok Jeong</a> (Postdoctoral Researcher, 2025)</li>
         <li><a href="https://curie3170.github.io/" target="_blank">Curie Kim</a> (Research Staff, 2022-2023) → Ph.D. Course@University of Maryland</li>
       </ul>
 </div>

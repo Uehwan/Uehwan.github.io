@@ -6,7 +6,7 @@ email: uehwan@gist.ac.kr
 img: /assets/img/prof_pic.png
 sequence: 1
 redirect: # /people/1_professor
-category: Faculty & Staff
+category: Faculty
 ---
 
 Associate Professor <br/>
