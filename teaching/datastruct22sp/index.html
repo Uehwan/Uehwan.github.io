@@ -1,0 +1,632 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<title>
+
+  ACSL  Autonomous Computing Systems Lab
+
+
+  | Data Structures
+
+</title>
+<meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+">
+
+<!-- Open Graph -->
+
+
+<!-- Bootstrap & MDB -->
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" integrity="sha512-MoRNloxbStBcD8z3M/2BmnT+rg4IsMxPkXaGh2zD6LGNNFE80W3onsAhRcMAMrSoyWL9xD7Ert0men7vR8LUZg==" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/css/mdb.min.css" integrity="sha512-RO38pBRxYH3SoOprtPTD86JFOclM51/XTIdEPh5j8sj4tp8jmQIx26twG52UaLi//hQldfrh7e51WzP9wuP32Q==" crossorigin="anonymous" />
+
+<!-- Fonts & Icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"  integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons">
+
+<!-- Code Syntax Highlighting
+<link rel="stylesheet" href="https://gitcdn.xyz/repo/jwarby/jekyll-pygments-themes/master/github.css" />
+-->
+
+<!-- Styles -->
+
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⭐</text></svg>">
+
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="canonical" href="/teaching/datastruct22sp/">
+
+<!-- JQuery -->
+<!-- jQuery -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
+
+
+<!-- Theming-->
+
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JG6HYJP07P"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+  gtag('js', new Date());
+
+  gtag('config', 'G-JG6HYJP07P');
+</script>
+
+
+
+
+
+
+    
+<!-- MathJax -->
+<script type="text/javascript">
+  window.MathJax = {
+    tex: {
+      tags: 'ams'
+    }
+  };
+</script>
+<script defer type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3.1.2/es5/tex-mml-chtml.js"></script>
+<script defer src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+
+
+  </head>
+
+  <body class="fixed-top-nav sticky-bottom-footer">
+
+    <!-- Header -->
+
+    <header>
+    <!-- Nav Bar -->
+    <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top">
+    <div class="container">
+      
+      <a class="navbar-brand title font-weight-lighter" href="/">
+        <span class="font-weight-bold" id="main_name">ACSL</span><span id="head_name"></span>
+      </a>
+      
+      
+      <!-- Navbar Toggle -->
+      <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar top-bar"></span>
+        <span class="icon-bar middle-bar"></span>
+        <span class="icon-bar bottom-bar"></span>
+      </button>
+      <div class="collapse navbar-collapse text-right" id="navbarNav">
+        <ul class="navbar-nav ml-auto flex-nowrap">
+          <!-- About -->
+          <li class="nav-item ">
+            <a class="nav-link" href="/">
+              About
+              
+            </a>
+          </li>
+          <!-- Blog -->
+          
+          <li class="nav-item ">
+            <a class="nav-link" href="/blog/">
+              Blog
+              
+            </a>
+          </li>
+          
+          <!-- -->
+          <!-- Other pages -->
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <!-- <li class="nav-item "> -->
+          <li class="nav-item ">
+              <a class="nav-link" href="/people/">
+                People
+                
+              </a>
+          </li>
+          
+          
+          
+          <!-- <li class="nav-item "> -->
+          <li class="nav-item ">
+              <a class="nav-link" href="/publications/">
+                Publications
+                
+              </a>
+          </li>
+          
+          
+          
+          <!-- <li class="nav-item "> -->
+          <li class="nav-item active">
+              <a class="nav-link" href="/teaching/">
+                Teaching
+                
+              </a>
+          </li>
+          
+          
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+</header>
+
+<script>
+  if ((window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth) > 600) {
+    document.getElementById("head_name").innerText = document.getElementById('head_name').innerHTML + ' ' + '' + 'Autonomous Computing Systems Lab';
+  }
+</script>
+
+    <!-- Content -->
+
+    <div class="container mt-5">
+      <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Data Structures</h1>
+    <p class="course-semester">Spring 2022</p>
+  </header>
+
+  <article>
+    <p><strong>Schedule</strong>: Tue/Thu 1:00pm-2:30pm<br />
+<strong>Location</strong>: <a href="https://us06web.zoom.us/j/87925937140?pwd=Qm1XTmU4MENybXVEeWJ5eVh2Z0dKdz09">Zoom Online</a> / <a href="https://colab.research.google.com/drive/121f0BPgTaO3Nk_ImwHtcqgpU6ZInXLdv?usp=sharing">Class Colab</a><br /></p>
+
+<p><strong>Instructor</strong>: Ue-Hwan, Kim (uehwan@gist.ac.kr)<br />
+<strong>Office</strong>: GIST Central Research Facilities (C11) 407<br />
+<strong>Office Hour</strong>: Thu 3pm-4pm or by appointment</p>
+
+<p><strong>TAs</strong>:<br />
+Young-Hwan, Cho (jouny007@gm.gist.ac.kr) / Office Hour: Tue 5:00pm-6:00pm / <a href="https://zoom.us/j/3411562260?pwd=b2JuMlI5TVJzWTNHZ2ZyUzVYcFh1dz09">Zoom Online</a> <br />
+Yoon-Jae, Kim (rladbswo12@gm.gist.ac.kr) / Office Hour: Tue 4:00pm-5:00pm / <a href="https://us02web.zoom.us/j/3798965936?pwd=K2RvVTZwbG0weVB6Qks2RkJvd3NTdz09">Zoom Online</a> <br />
+Jun-Bo, Kwon (kyle000603@gm.gist.ac.kr)  / Office Hour: Thu 5:00pm-6:00pm / <a href="https://us04web.zoom.us/j/8146336000?pwd=MEs1TXBkNXVHUzJXSFF3WXZ3bGYrdz09">Zoom Online</a> <br />
+<br /></p>
+
+<h3 id="notice">Notice</h3>
+<ul>
+  <li>You can freely use Lambda functions in your homeworks!</li>
+  <li>Due to my business trip, we will not have a live lecture on <strong>March 22</strong>; still I will upload the lecture video :)</li>
+  <li>[<strong>Midterm</strong>] Date: Apr. 19, 1pm-3pm / Location: GIST College Building C (N6),  Room 104</li>
+  <li>Midterm claim registration due on May 29</li>
+  <li>Due to my family affair, we will not have a lecture on <strong>May 10</strong>.</li>
+  <li>[<strong>Final Exam</strong>] Date: Jun. 14, 1pm-3pm / Location: GIST College Building C (N6),  Room 104
+    <ul>
+      <li>Result will be out on <strong>Jun. 20</strong> (Released!)</li>
+      <li>Claim registration due on <strong>Jun. 21</strong></li>
+      <li>Claim during <strong>Jun. 22 2:30 pm - 4:00 pm</strong></li>
+    </ul>
+  </li>
+  <li>[<strong>Homework</strong>] Check your homework submission result <a href="">here</a>.<!--(https://docs.google.com/spreadsheets/d/1zOlDAX1o0DCY2yC28dowLMV5pF4kQlwKywIPv_ML8Ao/edit?usp=sharing)-->
+    <ul>
+      <li>If something went wrong, let us know until <strong>Jun. 20</strong> on this <a href="">sheet</a>.<!--(https://docs.google.com/spreadsheets/d/1FX12S1_3DutVXrcKmKA3sSzATFkLR41zHnQ8TD-zawE/edit?usp=sharing)-->
+<br />
+<br /></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="introduction">Introduction</h3>
+<p>This course deals with the fundamentals of data structures; the very foundation of computer science. This course covers various types of data structures such as lists, stacks, queues, trees, graphs, etc. and entails lots of hands-on experiences. After this course, students will be able to implement fundamental data structures and design their own data structures for their programs.
+<br />
+<br /></p>
+
+<h3 id="schedule">Schedule</h3>
+<div class="table-responsive">
+<table class="table table-hover table-sm text-center">
+  <thead>
+    <tr>
+      <th class="col-sm-1" scope="col">Date</th>
+      <th class="col-sm-4" scope="col">Topic</th>
+      <th class="col-sm-2" scope="col">Materials</th>
+      <th class="col-sm-2" scope="col">Homework</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">03-01</th>
+      <td colspan="3">No Lecture (Independence Movement Day)</td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">03-03</th>
+      <td>Introduction; Python Primer</td>
+      <td>
+        <a href="https://youtu.be/K1wwNImSDAw" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a></td>
+      <td><!--a href="#" class="badge badge-pill" style="background-color:#B509AC;">Homework</a--></td>
+    </tr>
+    <tr>
+      <th scope="row">03-08</th>
+      <td>Python Primer (cont'd)</td>
+      <td>
+        <a href="https://youtu.be/GLYbUZaWLRk" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a>
+      </td>
+      <td>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a></td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">03-10</th>
+      <td>Recursion</td>
+      <td>
+        <a href="https://youtu.be/zgdbPrBmg5A" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a>
+      </td>
+      <td><!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a--></td>
+    </tr>
+    <tr>
+      <th scope="row">03-15</th>
+      <td>Object Oriented Programming</td>
+      <td>
+        <a href="https://youtu.be/9HmhUqXmIZ4" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a></td>
+      <td>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a></td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">03-17</th>
+      <td>Algorithms</td>
+      <td>
+        <a href="https://youtu.be/8dKNStuJKwk" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a></td>
+      <td><!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a--></td>
+    </tr>
+    <tr>
+      <th scope="row">03-22</th>
+      <td>Abstract Data Types</td>
+      <td>
+        <a href="https://youtu.be/vfj-PCNiwuA" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a></td>
+      <td><!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a--></td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">03-24</th>
+      <td>Arrays and Strings</td>
+      <td>
+        <a href="https://youtu.be/XDBlCoztXRg" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a></td>
+      <td>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">03-29</th>
+      <td>Linked Lists</td>
+      <td>
+        <a href="https://youtu.be/-aKjUSBBWhY" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a>
+      </td>
+      <td><!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a--></td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">03-31</th>
+      <td>Stacks</td>
+      <td>
+        <a href="https://youtu.be/riwHEOX2wlY" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a>
+      </td>
+      <td>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">04-05</th>
+      <td>Queues</td>
+      <td>
+        <a href="https://youtu.be/N3mRBDInw88" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a>
+      </td>
+      <td>
+        <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
+      </td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">04-07</th>
+      <td>Binary Search</td>
+      <td>
+        <a href="https://youtu.be/L_-_yO_lQqE" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a>
+      </td>
+      <td>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">04-12</th>
+      <td>Sorting</td>
+      <td>
+        <a href="https://youtu.be/f7hnSFe4qXk" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a>
+      </td>
+      <td>
+        <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
+      </td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">04-14</th>
+      <td>Midterm Review</td>
+      <td>
+        <a href="https://youtu.be/o8dXKCL00Dc" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
+        <!--a href="https://docs.google.com/presentation/d/1qwWXB62idf3332JFdYpbSoRAb8rkhKBZmkOKQDqmatM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <!--a href="https://colab.research.google.com/drive/1S9OYcv8v-KU1w1RI_t7fEb78EGjrQ3Aw?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
+      </td>
+      <td>
+        <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">04-19</th>
+      <td>Midterm</td>
+      <td>
+        <a href="https://docs.google.com/document/d/1ZezFKEIuI8E7lmz54wwmatWzAiKHMHrx8jZOQkKptpM/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Claim</a>
+      </td>
+      <td>
+        <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
+        <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+      </td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">04-21</th>
+      <td colspan="3">No Lecture (Midterm Period)</td>
+    </tr>
+    <tr>
+      <th scope="row">04-26</th>
+      <td>Sets and Maps</td>
+      <td>
+        <a href="https://youtu.be/-onFCIoj3R0" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a>
+      </td>
+      <td>
+        <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
+        <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+      </td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">04-28</th>
+      <td>Hashing</td>
+      <td>
+        <a href="https://youtu.be/UOoLae7Y9_A" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a>
+      </td>
+      <td>
+        <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
+        <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">05-03</th>
+      <td>Trees</td>
+      <td>
+        <a href="https://youtu.be/ct4u8Kr9Px4" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a>
+      </td>
+      <td>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
+      </td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">05-05</th>
+      <td colspan="3">No Lecture (Children's Day)</td>
+    </tr>
+    <tr>
+      <th scope="row">05-10</th>
+      <td colspan="3">No Lecture (Family Affair)</td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">05-12</th>
+      <td>Heaps and Priority Queues</td>
+      <td>
+        <a href="https://youtu.be/VayQIdwKJpI" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a>
+      </td>
+      <td>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">05-17</th>
+      <td>Binary Search Trees</td>
+      <td>
+        <a href="https://youtu.be/pNiU54AMJ7A" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a>
+      </td>
+      <td>
+        <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
+        <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+      </td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">05-19</th>
+      <td>AVL Trees</td>
+      <td>
+        <a href="https://youtu.be/m0qZiTncmiw" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a>
+      </td>
+      <td>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">05-24</th>
+      <td>234 Trees and Red-Black Trees</td>
+      <td>
+        <a href="https://youtu.be/dKpAHdanf88" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <!--a href="https://colab.research.google.com/drive/1Dg6gmCcntKibeZ5ahHVhRd10PimNvh5J?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
+      </td>
+      <td>
+        <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
+        <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+      </td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">05-26</th>
+      <td>Graphs (1)</td>
+      <td>
+        <a href="https://youtu.be/8ays_br3kLk" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a>
+      </td>
+      <td>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">05-31</th>
+      <td>Graphs (2)</td>
+      <td>
+        <a href="https://youtu.be/g_XC-TKphfM" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a>
+      </td>
+      <td>
+        <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
+        <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+      </td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">06-02</th>
+      <td>Graphs (3)</td>
+      <td>
+        <a href="https://youtu.be/hywa75Wg1L0" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a>
+      </td>
+      <td>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">06-07</th>
+      <td colspan="3">No Lecture (Final Exam Preparation)</td>
+    </tr>
+    <tr style="border-bottom: 1.5px solid lightgrey;">
+      <th scope="row">06-09</th>
+      <td>Final Exam Review</td>
+      <td>
+        <a href="https://youtu.be/ceE-rvxlGMQ" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Recording</a>
+        <!--a href="https://docs.google.com/presentation/d/1r2V0T0YVbBkEInCGVWhR7ZTNLylulIQz8v-JcJ5gDOY/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Slides</a-->
+        <!--a href="https://colab.research.google.com/drive/1Dg6gmCcntKibeZ5ahHVhRd10PimNvh5J?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Codes</a-->
+      </td>
+      <td>
+        <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
+        <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">06-14</th>
+      <td>Final Exam</td>
+      <td>
+        <a href="https://docs.google.com/document/d/1rcwwmXmnqJX0Jbk5dm_56BgJENnamLWC8nrL8nEdK34/edit?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Result</a>
+        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Claim</a>
+      </td>
+      <td>
+        <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Homework</a-->
+        <!--a href="https://colab.research.google.com/drive/1gRNMsgBKA2hXzE6bEDwtpcdjbgxCc6t1?usp=sharing" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Solution</a-->
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">06-16</th>
+      <td colspan="3">No Lecture (Final Exam Period)</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+  </article>
+
+</div>
+
+    </div>
+
+    <!-- Footer -->
+
+    
+<footer class="sticky-bottom mt-5">
+  <div class="container">
+    &copy; Copyright 2026 ACSL  Autonomous Computing Systems Lab.
+    
+    
+    
+  </div>
+</footer>
+
+
+
+  </body>
+
+  <!-- Bootsrap & MDB scripts -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.4.4/umd/popper.min.js" integrity="sha512-eUQ9hGdLjBjY3F41CScH3UX+4JDSI9zXeroz7hJ+RteoCaY+GP/LDoM8AO+Pt+DRFw3nXqsjh9Zsts8hnYv8/A==" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha512-M5KW3ztuIICmVIhjSqXe01oV2bpe248gOxqmlcYrEzAvws7Pw3z6BK0iGbrwvdrUQUhi3eXgtxp5I8PDo9YfjQ==" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/js/mdb.min.js" integrity="sha512-Mug9KHKmroQFMLm93zGrjhibM2z2Obg9l6qFG2qKjXEXkMp/VDkI4uju9m4QKPjWSwQ6O2qzZEnJDEeCw0Blcw==" crossorigin="anonymous"></script>
+
+  
+<!-- Mansory & imagesLoaded -->
+<script defer src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+<script defer src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+<script defer src="/assets/js/mansory.js" type="text/javascript"></script>
+
+
+  
+
+
+<!-- Medium Zoom JS -->
+<script src="https://cdn.jsdelivr.net/npm/medium-zoom@1.0.6/dist/medium-zoom.min.js" integrity="sha256-EdPgYcPk/IIrw7FYeuJQexva49pVRZNmt3LculEr7zM=" crossorigin="anonymous"></script>
+<script src="/assets/js/zoom.js"></script>
+
+
+<!-- Load Common JS -->
+<script src="/assets/js/common.js"></script>
+
+
+</html>
