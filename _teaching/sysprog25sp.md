@@ -37,9 +37,9 @@ This course provides a comprehensive introduction to artificial intelligence sys
   <thead>
     <tr>
       <th class="col-sm-1" scope="col">Date</th>
-      <th class="col-sm-4" scope="col">Topic</th>
+      <th class="col-sm-5" scope="col">Topic</th>
       <th class="col-sm-1" scope="col">Materials</th>
-      <th class="col-sm-4" scope="col">Homeworks</th>
+      <th class="col-sm-3" scope="col">Homeworks</th>
     </tr>
   </thead>
   <tbody>
@@ -49,22 +49,20 @@ This course provides a comprehensive introduction to artificial intelligence sys
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
       <th scope="row">03-05</th>
-      <td class="text-left"><b>[Module 0]</b> &nbsp;Introduction</td>
-      <td>
-        <a href="" target="_blank" class="badge badge-pill" style="background-color:#B509AC;">Handout</a>
-      </td>
+      <td class="text-left"><b>[Module 0]</b> Introduction&nbsp;</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">03-10</th>
-      <td class="text-left"><b>[Module 1]</b> &nbsp;</td>
+      <td class="text-left"><b>[Module 1]</b> Reflex models&nbsp;</td>
       <td>
       </td>
       <td></td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
       <th scope="row">03-12</th>
-      <td class="text-left"><b>[Module 1]</b> &nbsp;</td>
+      <td class="text-left"><b>[Module 1]</b> Reflex models&nbsp;</td>
       <td>
       </td>
       <td>
@@ -72,70 +70,70 @@ This course provides a comprehensive introduction to artificial intelligence sys
     </tr>
     <tr>
       <th scope="row">03-17</th>
-      <td class="text-left"><b>[Module 1]</b> &nbsp;</td>
+      <td class="text-left"><b>[Module 1]</b> Reflex models&nbsp;</td>
       <td>
       </td>
       <td></td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
       <th scope="row">03-19</th>
-      <td class="text-left"><b>[Module 1]</b> &nbsp;</td>
+      <td class="text-left"><b>[Module 1]</b> Reflex models&nbsp;</td>
       <td>
       </td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">03-24</th>
-      <td class="text-left"><b>[Module 1]</b> &nbsp;</td>
+      <td class="text-left"><b>[Module 2]</b> Search&nbsp;</td>
       <td>
       </td>
       <td></td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
       <th scope="row">03-26</th>
-      <td class="text-left"><b>[Module x]</b> &nbsp;</td>
+      <td class="text-left"><b>[Module 2]</b> Search&nbsp;</td>
       <td>
       </td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">03-31</th>
-      <td class="text-left"><b>[Module x]</b> &nbsp;</td>
+      <td class="text-left"><b>[Module 2]</b> Search&nbsp;</td>
       <td>
       </td>
       <td></td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
       <th scope="row">04-02</th>
-      <td class="text-left"><b>[Module x]</b> &nbsp;</td>
+      <td class="text-left"><b>[Module 2]</b> Search&nbsp;</td>
       <td>
       </td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">04-07</th>
-      <td class="text-left"><b>[Module x]</b> &nbsp;</td>
+      <td class="text-left"><b>[Module 3]</b> Markov decision processes&nbsp;</td>
       <td>
       </td>
       <td></td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
       <th scope="row">04-09</th>
-      <td class="text-left"><b>[Module x]</b> &nbsp;</td>
+      <td class="text-left"><b>[Module 3]</b> Markov decision processes&nbsp;</td>
       <td>
       </td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">04-14</th>
-      <td class="text-left"><b>[Module x]</b> &nbsp;</td>
+      <td class="text-left"><b>[Module 3]</b> Markov decision processes&nbsp;</td>
       <td>
       </td>
       <td></td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
       <th scope="row">04-16</th>
-      <td class="text-left"><b>[Module x]</b> &nbsp;</td>
+      <td class="text-left"><b>[Module 3]</b> Markov decision processes&nbsp;</td>
       <td>
       </td>
       <td></td>
@@ -152,14 +150,14 @@ This course provides a comprehensive introduction to artificial intelligence sys
     </tr>
     <tr>
       <th scope="row">04-28</th>
-      <td class="text-left"><b>[Module x]</b> &nbsp;</td>
+      <td class="text-left"><b>[Module 4]</b> Games&nbsp;</td>
       <td>
       </td>
       <td></td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
       <th scope="row">04-30</th>
-      <td class="text-left"><b>[Module x]</b> &nbsp;</td>
+      <td class="text-left"><b>[Module 4]</b> Games&nbsp;</td>
       <td>
       </td>
       <td></td>
@@ -170,77 +168,77 @@ This course provides a comprehensive introduction to artificial intelligence sys
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
       <th scope="row">05-07</th>
-      <td class="text-left"><b>[Module x]</b> &nbsp;</td>
+      <td class="text-left"><b>[Module 4]</b> Games&nbsp;</td>
       <td>
       </td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">05-12</th>
-      <td class="text-left"><b>[Module x]</b> &nbsp;</td>
+      <td class="text-left"><b>[Module 4]</b> Games&nbsp;</td>
       <td>
       </td>
       <td></td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
       <th scope="row">05-14</th>
-      <td class="text-left"><b>[Module x]</b> &nbsp;</td>
+      <td class="text-left"><b>[Module 5]</b> Constraint satisfaction problems&nbsp;</td>
       <td>
       </td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">05-19</th>
-      <td class="text-left"><b>[Module x]</b> &nbsp;</td>
+      <td class="text-left"><b>[Module 5]</b> Constraint satisfaction problems&nbsp;</td>
       <td>
       </td>
       <td></td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
       <th scope="row">05-21</th>
-      <td class="text-left"><b>[Module x]</b> &nbsp;</td>
+      <td class="text-left"><b>[Module 5]</b> Constraint satisfaction problems&nbsp;</td>
       <td>
       </td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">05-26</th>
-      <td class="text-left"><b>[Module x]</b> &nbsp;</td>
+      <td class="text-left"><b>[Module 5]</b> Constraint satisfaction problems&nbsp;</td>
       <td>
       </td>
       <td></td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
       <th scope="row">05-28</th>
-      <td class="text-left"><b>[Module x]</b> &nbsp;</td>
+      <td class="text-left"><b>[Module 6]</b> Bayes nets&nbsp;</td>
       <td>
       </td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">06-02</th>
-      <td class="text-left"><b>[Module x]</b> &nbsp;</td>
+      <td class="text-left"><b>[Module 6]</b> Bayes nets&nbsp;</td>
       <td>
       </td>
       <td></td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
       <th scope="row">06-04</th>
-      <td class="text-left"><b>[Module x]</b> &nbsp;</td>
+      <td class="text-left"><b>[Module 6]</b> Bayes nets&nbsp;</td>
       <td>
       </td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">06-09</th>
-      <td class="text-left"><b>[Module x]</b> &nbsp;</td>
+      <td class="text-left"><b>[Module 6]</b> Bayes nets&nbsp;</td>
       <td>
       </td>
       <td></td>
     </tr>
     <tr style="border-bottom: 1.5px solid lightgrey;">
       <th scope="row">06-11</th>
-      <td class="text-left"><b>[Module x]</b> &nbsp;</td>
+      <td class="text-left"><b>[Module 6]</b> Bayes nets&nbsp;</td>
       <td>
       </td>
       <td></td>

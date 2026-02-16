@@ -11,7 +11,7 @@ category: Faculty
 
 Associate Professor <br/>
 [Department of AI Convergence](https://ai.gist.ac.kr){:target="\_blank"} <br/>
-[Gwangju Institue of Science and Technology](https://www.gist.ac.kr/){:target="\_blank"}
+[Gwangju Institute of Science and Technology](https://www.gist.ac.kr/){:target="\_blank"}
 
 <br/>
 
