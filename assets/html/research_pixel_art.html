@@ -11,13 +11,13 @@ canvas{width:100%;max-width:800px;image-rendering:pixelated;image-rendering:cris
 </style>
 </head>
 <body>
-<canvas id="c" width="400" height="210" role="img" aria-label="Pixel art animation of a home service robot interacting with a person in a living room, illustrating ACSL research on robot AI for home service."></canvas>
+<canvas id="c" width="800" height="420" role="img" aria-label="Pixel art animation of a home service robot interacting with a person in a living room, illustrating ACSL research on robot AI for home service."></canvas>
 <script>
 (function(){
 'use strict';
 var cv=document.getElementById('c'),cx=cv.getContext('2d');
-var W=400,H=210,P=2;
-var FPS=10,TOTAL=213,frame=0;
+var W=800,H=420,P=4;
+var FPS=10,TOTAL=215,frame=0;
 
 /* ── colour palette ── */
 var C={
@@ -397,7 +397,7 @@ function drawHuman(sx,seatY,state,f){
 function drawBubble(sx,sy,text,progress,pointer){
   var vis=text.substring(0,Math.ceil(progress));
   if(!vis) return;
-  cx.font='bold 9px "Courier New",monospace';
+  cx.font='bold 18px "Courier New",monospace';
   var tw=cx.measureText(vis).width/P;
   var bw=Math.max(tw+6,14), bh=8;
   var bx=Math.round(sx-bw/2), by=sy-bh;
@@ -411,7 +411,7 @@ function drawBubble(sx,sy,text,progress,pointer){
   }
 
   cx.fillStyle=C.txt;
-  cx.font='bold 9px "Courier New",monospace';
+  cx.font='bold 18px "Courier New",monospace';
   cx.textAlign='center';
   cx.textBaseline='middle';
   cx.fillText(vis,sx*P,(by+bh/2)*P);
@@ -524,10 +524,10 @@ function drawHUD(f){
   }
 
   cx.fillStyle=C.white;
-  cx.font='bold 9px "Courier New",monospace';
+  cx.font='bold 18px "Courier New",monospace';
   cx.textAlign='left';
   cx.textBaseline='middle';
-  cx.fillText(info.label,30,96*P);
+  cx.fillText(info.label,15*P,96*P);
 }
 
 /* ── main draw ── */
@@ -556,7 +556,7 @@ function draw(){
   drawEffects(f,Math.round(camX2));
   drawHUD(f);
 
-  if(f>=211){
+  if(f>=212){
     var alpha=Math.min((f-207)/3,1);
     cx.fillStyle='rgba(0,0,0,'+alpha+')';
     cx.fillRect(0,0,W,88*P);
