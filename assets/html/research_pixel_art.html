@@ -17,7 +17,7 @@ canvas{width:100%;max-width:800px;image-rendering:pixelated;image-rendering:cris
 'use strict';
 var cv=document.getElementById('c'),cx=cv.getContext('2d');
 var W=400,H=210,P=2;
-var FPS=10,TOTAL=210,frame=0;
+var FPS=10,TOTAL=213,frame=0;
 
 /* ── colour palette ── */
 var C={
@@ -493,9 +493,9 @@ function drawEffects(f,camX){
 
 /* ── HUD bar ── */
 function getHUDInfo(f){
-  if(f<13) return {label:'ROBOT AI FOR HOME SERVICE',color:C.hDef};
+  if(f<18) return {label:'ROBOT AI FOR HOME SERVICE',color:C.hDef};
   if(f<58) return {label:'INTELLIGENT INTERACTION',color:C.hInt};
-  if(f<101) return {label:'GENERAL-PURPOSE NAVIGATION',color:C.hNav};
+  if(f<90) return {label:'GENERAL-PURPOSE NAVIGATION',color:C.hNav};
   if(f<114) return {label:'MULTI-MODAL PERCEPTION',color:C.hPer};
   if(f<148) return {label:'MOBILE MANIPULATION',color:C.hMan};
   if(f<181) return {label:'GENERAL-PURPOSE NAVIGATION',color:C.hNav};
@@ -556,7 +556,7 @@ function draw(){
   drawEffects(f,Math.round(camX2));
   drawHUD(f);
 
-  if(f>=207){
+  if(f>=211){
     var alpha=Math.min((f-207)/3,1);
     cx.fillStyle='rgba(0,0,0,'+alpha+')';
     cx.fillRect(0,0,W,88*P);
