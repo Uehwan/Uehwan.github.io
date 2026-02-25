@@ -54,39 +54,41 @@ function lerp(a,b,t){return a+(b-a)*Math.max(0,Math.min(1,t))}
 function smoothstep(t){t=Math.max(0,Math.min(1,t));return t*t*(3-2*t)}
 
 /* ── state functions (all pure functions of frame) ── */
+/* Layout: human on LEFT of living room (x≈75), robot enters from RIGHT.
+   Robot never crosses human — always stays to the right. */
 function getRobotX(f){
-  if(f<=12) return lerp(20,88,f/12);
-  if(f<=58) return 88;
-  if(f<=64) return lerp(88,135,smoothstep((f-58)/6));
-  if(f<=100) return lerp(135,495,smoothstep((f-64)/36));
+  if(f<=12) return lerp(180,130,f/12);
+  if(f<=57) return 130;
+  if(f<=65) return lerp(130,175,smoothstep((f-57)/8));
+  if(f<=100) return lerp(175,495,smoothstep((f-65)/35));
   if(f<=112) return lerp(495,505,(f-100)/12);
   if(f<=140) return 505;
   if(f<=147) return lerp(505,495,(f-140)/7);
-  if(f<=180) return lerp(495,135,smoothstep((f-147)/33));
-  if(f<=190) return lerp(135,112,smoothstep((f-180)/10));
-  return 112;
+  if(f<=180) return lerp(495,130,smoothstep((f-147)/33));
+  if(f<=190) return lerp(130,100,smoothstep((f-180)/10));
+  return 100;
 }
 function getCamX(f){return Math.max(0,Math.min(getRobotX(f)-100,400))}
 
 function getRobotFacing(f){
+  if(f<=57) return 'left';
   if(f<=112) return 'right';
   if(f<=147) return 'left';
-  if(f<=178) return 'left';
-  return 'right';
+  return 'left';
 }
 function getRobotArm(f){
-  if(f<=58) return 'idle';
+  if(f<=57) return 'idle';
   if(f<=100) return 'walk';
   if(f<=112) return 'walk';
   if(f<=122) return 'extend';
   if(f<=130) return 'idle';
-  if(f<=192) return 'carry';
-  if(f<=199) return 'give';
+  if(f<=193) return 'carry';
+  if(f<=200) return 'give';
   return 'idle';
 }
 function getHumanState(f){
-  if(f>=193&&f<=199) return 'receive';
-  if(f>=200) return 'hold';
+  if(f>=194&&f<=200) return 'receive';
+  if(f>=201) return 'hold';
   return 'idle';
 }
 
@@ -236,13 +238,13 @@ function drawRoom_Living(ox){
   for(var y=4;y<57;y+=12){rect(ox,y,200,1,C.wL2)}
   rect(ox,55,200,2,C.base);
   drawFloorWood(ox,57,200);
-  drawWindow(ox,12,10);
-  drawPicFrame(ox,68,14,18,14);
-  drawPlant(ox,55,42);
-  drawTable(ox,80,62);
-  drawCouch(ox,110,52);
-  drawBookshelf(ox,172,12);
-  drawRunnerRug(ox,60,72,115);
+  drawWindow(ox,8,10);
+  drawCouch(ox,50,52);
+  drawTable(ox,114,62);
+  drawPlant(ox,142,42);
+  drawPicFrame(ox,118,14,18,14);
+  drawBookshelf(ox,170,12);
+  drawRunnerRug(ox,40,72,130);
 }
 function drawRoom_Hall(ox){
   rect(ox,0,200,57,C.wH);
@@ -289,7 +291,7 @@ function drawRobot(sx,by,facing,arm,f){
   if(sx<-15||sx>215) return;
   var dir=facing==='right'?1:-1;
   var walking=(arm==='walk');
-  var moving=walking||((arm==='carry')&&(f>=141&&f<=190));
+  var moving=walking||((arm==='carry')&&(f>=148&&f<=190));
   var bob=moving?Math.round(Math.sin(f*0.8)):0;
   var ay=by+bob;
   var wRot=f%4;
@@ -378,16 +380,16 @@ function drawHuman(sx,seatY,state,f){
     rect(sx+5,hy-7,2,5,C.skin);
     rect(sx-6,hy-7,2,5,C.skin);
   } else if(state==='receive'){
-    rect(sx+5,hy-7,2,5,C.skin);
-    rect(sx-7,hy-10,2,4,C.skin);
-    rect(sx-9,hy-11,2,2,C.skin);
+    rect(sx-6,hy-7,2,5,C.skin);
+    rect(sx+6,hy-10,2,4,C.skin);
+    rect(sx+8,hy-11,2,2,C.skin);
   } else if(state==='hold'){
-    rect(sx+5,hy-7,2,5,C.skin);
-    rect(sx-7,hy-8,2,4,C.skin);
-    rect(sx-10,hy-11,4,3,C.cup);
-    rect(sx-9,hy-10,2,1,C.coffee);
-    if(f%6<3){px(sx-9,hy-12,C.steam);px(sx-8,hy-13,C.steam)}
-    else{px(sx-8,hy-12,C.steam);px(sx-9,hy-13,C.steam)}
+    rect(sx-6,hy-7,2,5,C.skin);
+    rect(sx+6,hy-8,2,4,C.skin);
+    rect(sx+8,hy-11,4,3,C.cup);
+    rect(sx+9,hy-10,2,1,C.coffee);
+    if(f%6<3){px(sx+9,hy-12,C.steam);px(sx+10,hy-13,C.steam)}
+    else{px(sx+10,hy-12,C.steam);px(sx+9,hy-13,C.steam)}
   }
 }
 
@@ -417,18 +419,21 @@ function drawBubble(sx,sy,text,progress,pointer){
 
 function drawSpeechBubbles(f,camX){
   var robotSX=getRobotX(f)-camX;
-  var humanSX=142-camX;
+  var humanSX=75-camX;
   if(f>=14&&f<28){
-    drawBubble(robotSX,56-21,'Hey! Need anything?',Math.min((f-14)*1.8,19),'down');
+    drawBubble(robotSX,35,'Hey! Need anything?',Math.min((f-14)*1.8,19),'down');
   }
   if(f>=29&&f<44){
-    drawBubble(humanSX,52-22,'Can I get a coffee?',Math.min((f-29)*1.8,19),'down');
+    drawBubble(humanSX,30,'Can I get a coffee?',Math.min((f-29)*1.8,19),'down');
   }
-  if(f>=45&&f<58){
-    drawBubble(robotSX,56-21,'Say less!',Math.min((f-45)*2,9),'down');
+  if(f>=45&&f<57){
+    drawBubble(robotSX,35,'Say less!',Math.min((f-45)*2,9),'down');
   }
-  if(f>=186&&f<198){
-    drawBubble(robotSX,56-21,'Here you go!',Math.min((f-186)*2,12),'down');
+  if(f>=191&&f<200){
+    drawBubble(robotSX,35,'Here you go!',Math.min((f-191)*2,12),'down');
+  }
+  if(f>=201&&f<209){
+    drawBubble(humanSX,30,'Thank you!',Math.min((f-201)*2,10),'down');
   }
 }
 
@@ -445,6 +450,20 @@ function drawStar(x,y,c){
 }
 
 function drawEffects(f,camX){
+  /* perception scan: sparkles on kitchen objects when robot enters */
+  if(f>=101&&f<=113){
+    var kox=400-camX;
+    var spots=[
+      {x:kox+65,y:42,t:102},{x:kox+90,y:32,t:104},
+      {x:kox+165,y:30,t:107},{x:kox+50,y:10,t:109}
+    ];
+    for(var i=0;i<spots.length;i++){
+      if(f>=spots[i].t&&(f-spots[i].t)%4<3){
+        drawStar(spots[i].x,spots[i].y,C.star);
+      }
+    }
+  }
+  /* coffee machine activation + cup */
   if(f>=113&&f<=132){
     var machSX=480-camX;
     if(f>=113&&f<=130) px(machSX+17,30,'#4CAF50');
@@ -461,25 +480,25 @@ function drawEffects(f,camX){
       if(f>=123&&f%4<2){px(cupSX+1,37,C.steam);px(cupSX+2,36,C.steam)}
     }
   }
-  if(f>=198&&f<=209){
-    var hx=142-camX;
-    var t=f-198;
-    drawHeart(hx-6,38-t*1.1,1-t/14);
-    drawHeart(hx+6,40-t*0.9,1-t/14);
-    drawHeart(hx,36-t*1.3,1-t/14);
-    if(t>2){drawStar(hx-9,42-t*0.5,C.star);drawStar(hx+9,41-t*0.7,C.star)}
+  /* hearts after "Thank you!" */
+  if(f>=205&&f<=209){
+    var hx=75-camX;
+    var t=f-205;
+    drawHeart(hx+12,38-t*1.4,1-t/8);
+    drawHeart(hx+3,36-t*1.1,1-t/8);
+    drawHeart(hx+18,40-t*0.9,1-t/8);
+    if(t>1){drawStar(hx-2,42-t*0.6,C.star);drawStar(hx+22,41-t*0.8,C.star)}
   }
 }
 
 /* ── HUD bar ── */
 function getHUDInfo(f){
   if(f<13) return {label:'ROBOT AI FOR HOME SERVICE',color:C.hDef};
-  if(f<60) return {label:'INTELLIGENT INTERACTION',color:C.hInt};
-  if(f<100) return {label:'GENERAL-PURPOSE NAVIGATION',color:C.hNav};
-  if(f<113) return {label:'MULTI-MODAL PERCEPTION',color:C.hPer};
-  if(f<145) return {label:'MOBILE MANIPULATION',color:C.hMan};
-  if(f<180) return {label:'GENERAL-PURPOSE NAVIGATION',color:C.hNav};
-  if(f<200) return {label:'INTELLIGENT INTERACTION',color:C.hInt};
+  if(f<58) return {label:'INTELLIGENT INTERACTION',color:C.hInt};
+  if(f<101) return {label:'GENERAL-PURPOSE NAVIGATION',color:C.hNav};
+  if(f<114) return {label:'MULTI-MODAL PERCEPTION',color:C.hPer};
+  if(f<148) return {label:'MOBILE MANIPULATION',color:C.hMan};
+  if(f<181) return {label:'GENERAL-PURPOSE NAVIGATION',color:C.hNav};
   return {label:'INTELLIGENT INTERACTION',color:C.hInt};
 }
 
@@ -525,7 +544,7 @@ function draw(){
 
   drawBackground(Math.round(camX2),f);
 
-  var humanSX=Math.round(142-camX2);
+  var humanSX=Math.round(75-camX2);
   if(humanSX>-20&&humanSX<220){
     drawHuman(humanSX,66,hState,f);
   }
