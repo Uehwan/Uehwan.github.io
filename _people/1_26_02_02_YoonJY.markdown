@@ -1,0 +1,11 @@
+---
+layout: people
+name: June-Young Yoon
+role: Integrated Course
+email: junyoung27@gm.gist.ac.kr
+img: /assets/img/student_26_02_02_YoonJY.jpeg
+sequence: 1260202
+redirect: https://juneyoung27.github.io/
+category: Students
+no_detail: true
+---

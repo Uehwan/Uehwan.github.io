@@ -41,13 +41,13 @@ Associate Professor <br/>
 <br/>
 ## Selected Service
 - Program Committee
-  - Financial Chair, IV 2024
   - Associate Editors, UR 2023, 2024, 2025
-  - Publication Chair, RiTA 2023
+  - Publication Chair, RiTA 2023, 2026
   - Publication Chair, KRoC 2023, 2024
-  - Editorial Board, ICROS 2022, 2023, 2024, 2025
+  - Editorial Board, ICROS 2022, 2023, 2024, 2025, 2026
   - Publicity Chair, RiTA 2021
-  - Session Chair, ICCAS 2021
+  - Financial Chair, IV 2024
+  - Session Chair, ICCAS 2021, 2026
 
 <br />
 ## Invited Talks
