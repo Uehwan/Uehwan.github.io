@@ -11,7 +11,7 @@
   ACSL  Autonomous Computing Systems Lab
 
 
-  | Blog
+  | 1_24_02_02_kimyr
 
 </title>
 <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -38,7 +38,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⭐</text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/people/1_24_02_02_KimYR/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -111,7 +111,7 @@
           </li>
           <!-- Blog -->
           
-          <li class="nav-item active">
+          <li class="nav-item ">
             <a class="nav-link" href="/blog/">
               Blog
               
@@ -135,10 +135,8 @@
           
           
           
-          
-          
           <!-- <li class="nav-item "> -->
-          <li class="nav-item ">
+          <li class="nav-item active">
               <a class="nav-link" href="/people/">
                 People
                 
@@ -185,50 +183,35 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1>Life at ACSL</h1>
-    <h2> Culture & Research & Etc. </h2>
-  </div>
+  <header class="post-header">
+    <div id='people_profile' class="profile float-right">
+        <figure>
 
+  <picture>
+    <!-- Fallback to the original file -->
+    <img style="max-height: 200px; width: auto;" class="img-fluid z-dept-1 rounded" src="/assets/img/student_23_01_02_KimYR.jpg" alt="Yi-Rum Kim"   />
 
-  <ul class="post-list">
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2024/research-eng/">Research Statement</a></h3>
-        <!--p class="post-meta">April 12, 2024</p-->
-        <p>Robot AI and Human-robot-interaction</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2024/open-positions-kor/">Open Positions</a></h3>
-        <!--p class="post-meta">January 29, 2024</p-->
-        <p>Information for Joining ACSL</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2024/open-positions-eng/">Open Positions (ENG)</a></h3>
-        <!--p class="post-meta">January 29, 2024</p-->
-        <p>Information for Joining ACSL</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2024/advising-eng/">Advising Statement (ENG)</a></h3>
-        <!--p class="post-meta">January 1, 2024</p-->
-        <p>ACSL Advising Statement for Graduate Students</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2021/advising-kor/">Advising Statement</a></h3>
-        <!--p class="post-meta">October 1, 2021</p-->
-        <p>ACSL Advising Statement for Graduate Students</p>
-      </li>
-    
-  </ul>
+  </picture>
 
-  
+</figure></div>
+    <h1 id="people_title" class="post-title">Yi-Rum Kim</h1>
+    <p class="post-description"></p>
+  </header>
 
+  <article>
+    
+
+  </article>
 
 </div>
+
+<script>
+  if ((window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth) < 600) {
+    var people_profile = document.getElementById('people_profile');
+    var people_title = document.getElementById('people_title');
+    people_title.after(people_profile);
+  }
+</script>
 
     </div>
 
