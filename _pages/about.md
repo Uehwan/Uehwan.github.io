@@ -26,4 +26,5 @@ For more details, refer to our <br/>
 - advising statement ([한국어](blog/2021/advising-kor/), [English](blog/2024/advising-eng/)), and
 - open positions ([한국어](blog/2024/open-positions-kor/), [English](blog/2024/open-positions-eng/)).
 
+Also, we are recruiting postdocs through [InnoCORE](https://sites.google.com/view/ai-ace/home) (90M KRW/year salary)<br/>
 If you are interested, you can [🙋 contact us](mailto:uehwan@gist.ac.kr) or [📄 apply](https://forms.gle/odUNiwHT1ak7KorV8){:target="\_blank"}!
