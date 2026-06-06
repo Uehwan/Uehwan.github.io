@@ -128,6 +128,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - acsl-site
 keep_files:
   - CNAME
   - .nojekyll

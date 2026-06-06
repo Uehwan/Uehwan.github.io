@@ -7,3 +7,7 @@ _site
 .ruby-version
 .tweet-cache
 vendor
+
+# New Astro site (lives here during migration; has its own private git repo).
+# Never commit it into this public Pages repo.
+acsl-site/
