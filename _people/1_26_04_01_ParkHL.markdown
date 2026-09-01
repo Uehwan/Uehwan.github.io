@@ -1,0 +1,11 @@
+---
+layout: people
+name: Ha-Lim Park
+role: Integrated Course
+email: halim_21@gm.gist.ac.kr
+img: /assets/img/student_26_04_01_ParkHL.jpeg
+sequence: 1260401
+redirect: https://limhapark.github.io/
+category: Students
+no_detail: true
+---
