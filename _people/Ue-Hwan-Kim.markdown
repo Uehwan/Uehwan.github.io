@@ -10,7 +10,7 @@ category: Faculty
 ---
 
 Associate Professor <br/>
-[Department of AI Convergence](https://ai.gist.ac.kr){:target="\_blank"} <br/>
+[Department of AI](https://ai.gist.ac.kr){:target="\_blank"} <br/>
 [Gwangju Institute of Science and Technology](https://www.gist.ac.kr/){:target="\_blank"}
 
 <br/>
@@ -34,20 +34,24 @@ Associate Professor <br/>
 
 <br/>
 ## Selected Honors
-- Outstanding teaching award, GIST, Nov. 2023.
-- Best research achievement award from KAIST EE, June 2020.
-- Research Highlights of the year (2020), KAIST, Feb. 2020
+- Fulbright Visiting Scholar Award, KAEC, Dec. 2024.
+- Outstanding Teaching Award, GIST (3 recipients institution-wide), Nov. 2023.
+- Best Research Achievement Award, KAIST EE, June 2020.
+- Research Highlights of the Year (2020), KAIST, Feb. 2020
 
 <br/>
-## Selected Service
-- Program Committee
-  - Associate Editors, UR 2023, 2024, 2025
-  - Publication Chair, RiTA 2023, 2026
-  - Publication Chair, KRoC 2023, 2024
+## Academic Service
+- Editorial Roles
+  - Associate Editor, IEEE ICRA 2027
+  - Associate Editor, IEEE RA-L 2026
+  - Associate Editor, ICCAS 2026
+  - Associate Editor, UR 2023, 2024, 2025
   - Editorial Board, ICROS 2022, 2023, 2024, 2025, 2026
-  - Publicity Chair, RiTA 2021
-  - Financial Chair, IV 2024
-  - Session Chair, ICCAS 2021, 2026
+- Conference Organization
+  - IEEE IV 2024 (Financial Chair)
+  - KRoC 2023 (Publication Chair), 2024 (Publication Chair)
+  - RiTA 2021 (Publicity Chair), 2023 (Publication Chair), 2026 (Program Chair)
+  - ICCAS 2021 (Session Chair), 2026 (International Relation Chair)
 
 <br />
 ## Invited Talks
