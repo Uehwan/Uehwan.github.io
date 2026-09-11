@@ -48,6 +48,7 @@ Associate Professor <br/>
   - Associate Editor, UR 2023, 2024, 2025
   - Editorial Board, ICROS 2022, 2023, 2024, 2025, 2026
 - Conference Organization
+  - IEEE ICRA 2027 (Satellite Centers)
   - IEEE IV 2024 (Financial Chair)
   - KRoC 2023 (Publication Chair), 2024 (Publication Chair)
   - RiTA 2021 (Publicity Chair), 2023 (Publication Chair), 2026 (Program Chair)
@@ -55,7 +56,14 @@ Associate Professor <br/>
 
 <br />
 ## Invited Talks
+**Towards Robuts Robot Intelligence**
+- Seminar at Korea Institute of Energy Technology, Dec. 8, 2025.
+
+**Recent Trends in AI**
+- Seminar at Korea Association for Die & Mold Industry Development, Feb. 21, 2025.
+
 **Spatial AI for Intelligent Agents**
+- Seminar at Open Standards and ICT Association, Sep. 30, 2025.
 - Seminar at Korea Institute of Industrial Technology, Nov. 15, 2024.
 - Seminar at ETRI, Sep. 19, 2024.
 - Seminar at GIST-ETRI AI Workshop, Aug. 21, 2024.
@@ -69,6 +77,7 @@ Associate Professor <br/>
 - Seminar at information Technology and Industry Prospects (iTIP 2022), Sep. 19, 2022.
 
 **Geometric and Semantic Image Understanding for Autonomous Vehicles**
+- Seminar at Institute of Electronics and Information Engineers, Oct. 23, 2025
 - Seminar at GIST-ETRI AI Workshop, Jul. 27, 2022.
 
 **AI for Intelligent Systems to Make Human Lives Better**
