@@ -52,11 +52,11 @@ Associate Professor <br/>
   - IEEE IV 2024 (Financial Chair)
   - KRoC 2023 (Publication Chair), 2024 (Publication Chair)
   - RiTA 2021 (Publicity Chair), 2023 (Publication Chair), 2026 (Program Chair)
-  - ICCAS 2021 (Session Chair), 2026 (International Relation Chair)
+  - ICCAS 2021 (Session Chair), 2026 (International Relations Chair)
 
 <br />
 ## Invited Talks
-**Towards Robuts Robot Intelligence**
+**Towards Robust Robot Intelligence**
 - Seminar at Korea Institute of Energy Technology, Dec. 8, 2025.
 
 **Recent Trends in AI**
