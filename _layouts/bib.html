@@ -28,53 +28,41 @@
         <div class="title">{{entry.title}}</div>
       {% endif %}
       <div class="author">
-        {% for author in entry.author_array %}
-          {% assign author_is_self = false %}
-          {% if author.last == site.scholar.last_name%}
-            {% if site.scholar.first_name contains author.first%}
-              {% assign author_is_self = true %}
-            {% endif %}
-          {% endif %}
-          {% assign coauthor_url = nil %}
-          {% if site.data.coauthors[author.last] %}
-            {% for coauthor in site.data.coauthors[author.last] %}
-              {% if coauthor.firstname contains author.first %}
-                {% assign coauthor_url = coauthor.url %}
-                {% break %}
-              {% endif %}
-            {% endfor %}
-          {% endif %}
-          
-          {% if forloop.length == 1 %}
-            {% if author_is_self %}
-              <em>{{author.last}}, {{author.first}}</em>
-            {% else %}
-              {{author.last}}, {{author.first}}
-            {% endif %}
-          {% else %}
-            {% unless forloop.last %}
-              {% if author_is_self %}
-                <em>{{author.last}}, {{author.first}}</em>,
-              {% else %}
-                {% if coauthor_url %}
-                  <a href="{{coauthor_url}}" target="_blank">{{author.last}}, {{author.first}}</a>,
-                {% else %}
-                  {{author.last}}, {{author.first}},
-                {% endif %}
-              {% endif %}
-            {% else %}
-              {% if author_is_self %}
-                and <em>{{author.last}}, {{author.first}}</em>
-              {% else %}
-                {% if coauthor_url %}
-                  and <a href="{{coauthor_url}}" target="_blank">{{author.last}}, {{author.first}}</a>
-                {% else %}
-                  and {{author.last}}, {{author.first}}
-                {% endif %}
-              {% endif %}
-            {% endunless %}
-          {% endif %}
-        {% endfor %}
+        {%- for author in entry.author_array -%}
+          {%- assign author_last = author.last | remove: '*' -%}
+          {%- assign author_first = author.first | remove: '*' -%}
+          {%- assign author_is_self = false -%}
+          {%- if author_last == site.scholar.last_name -%}
+            {%- if site.scholar.first_name contains author_first -%}
+              {%- assign author_is_self = true -%}
+            {%- endif -%}
+          {%- endif -%}
+          {%- assign coauthor_url = nil -%}
+          {%- if site.data.coauthors[author_last] -%}
+            {%- for coauthor in site.data.coauthors[author_last] -%}
+              {%- if coauthor.firstname contains author_first -%}
+                {%- assign coauthor_url = coauthor.url -%}
+                {%- break -%}
+              {%- endif -%}
+            {%- endfor -%}
+          {%- endif -%}
+          {%- assign name_open = '{' -%}
+          {%- assign name_close = '}' -%}
+          {%- capture author_name -%}{{ author.first | remove: name_open | remove: name_close }} {{ author.last | remove: name_open | remove: name_close }}{%- endcapture -%}
+
+          {%- unless forloop.first -%}
+            {%- if forloop.last -%}
+              {%- if forloop.length > 2 -%}, and {% else %} and {% endif -%}
+            {%- else -%}, {% endif -%}
+          {%- endunless -%}
+          {%- if author_is_self -%}
+            <em>{{ author_name }}</em>
+          {%- elsif coauthor_url -%}
+            <a href="{{ coauthor_url }}" target="_blank">{{ author_name }}</a>
+          {%- else -%}
+            {{ author_name }}
+          {%- endif -%}
+        {%- endfor -%}
       </div>
 
       <div class="periodical">
